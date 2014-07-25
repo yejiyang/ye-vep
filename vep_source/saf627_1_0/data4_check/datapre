@@ -1,0 +1,33 @@
+#! /bin/sh
+
+#make clean 
+make
+
+./amend
+echo amend finished ...
+echo
+./frame
+echo frame finished ...
+echo
+./bdseg
+echo bdseg finished ...
+echo
+./prgla
+echo prgla finished ...
+echo
+./prg
+echo prg finished ...
+echo
+./forgid
+echo forgid finished ...
+echo
+
+
+cp disp0 disp1
+tar czvf data0.tgz *0 partition.dat disp1
+tar czvf part0.tgz partition.fl*
+rcp part0.tgz jiyang@geo01:/home/jiyang/Dropbox/SAF/model/saf627/.
+#rm partition.fl*
+
+cp data0.tgz ../compute
+ 

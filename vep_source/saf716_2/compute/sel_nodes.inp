@@ -1,0 +1,29 @@
+/prep7
+
+NSEL,S,LOC,Y,300000 !
+
+/OUTPUT
+/COM
+/OUT,saf1_sel,node
+!/COM,Mesh "Whole" Dimension 3  Elemtype Hexahedra Nnode 8                                     
+/NOPR
+!!!!!!!!!!!!!!!!!!!STORE ALL THE NODES, INCLUDES NODE_NUMBER, NODE_X, NODE_Y!!!!!!!!!!!!!!!!!!!!
+*GET, Nnod, NODE, 0, COUNT ! GET THE TOTAL NUMBER OF THE SELECTED NODES
+*DIM, Xy, ARRAY, NNOD, 4   ! STORE ALL THE NODES, INCLUDES NODE_NUMBER, NODE_X, NODE_Y
+*GET, Nd, NODE, 0, NUM, MIN	! GET THE MIMIUM NUMBER OF NODE
+*DO, i, 1, NNOD, 1				 ! STORE ALL THE NODES, INCLUDES NODE_NUMBER, NODE_X, NODE_Y
+	Xy(i,1) = Nd 	! Nd   
+	Xy(i,2) = NX(Nd) 	! GET THE X COORDINATE OF Nd
+	Xy(i,3) = NY(Nd) 	! GET THE Y COORDINATE OF Nd
+	Xy(i,4) = NZ(Nd) 	! GET THE Y COORDINATE OF Nd
+	Nd = NDNEXT (Nd)	! GET THE NEXT NODE NUMBER
+*ENDDO
+/GO
+! WRITE the node TO FILE
+/COM, total output node:
+*VWRITE, Nnod
+(F8.0,TL1,'  ')
+*VWRITE, Xy(1,1), Xy(1,2), Xy(1,3), Xy(1,4)
+(F8.0,TL1,'		',F10.2,F10.2,F10.2)
+/OUT
+FINISH 

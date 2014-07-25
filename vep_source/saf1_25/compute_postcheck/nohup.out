@@ -1,0 +1,1310 @@
+coor0
+coor000
+disp0
+disp000
+elem0
+elem000
+id0
+id000
+tli0
+tli000
+partition.dat
+disp1
+ Begin            1   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         376           3         234           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           1         234           9
+        2106         120
+ partition:iblk,nblk,nnode,nodall matall=           1           0           5
+        2106         123
+ Begin            2   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         269           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           2         269           9
+        2421         120
+ partition:iblk,nblk,nnode,nodall matall=           2           0           5
+        2421         123
+ Begin            3   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         477           3         299           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           3         299           9
+        2691         120
+ partition:iblk,nblk,nnode,nodall matall=           3           0           5
+        2691         123
+ Begin            4   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         403           3         249           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           4         249           9
+        2241         120
+ partition:iblk,nblk,nnode,nodall matall=           4           0           5
+        2241         123
+ Begin            5   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         420           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           5         259           9
+        2331         120
+ partition:iblk,nblk,nnode,nodall matall=           5           0           5
+        2331         123
+ Begin            6   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         282           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           6         282           9
+        2538         120
+ partition:iblk,nblk,nnode,nodall matall=           6           0           5
+        2538         123
+ Begin            7   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         275           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           7         275           9
+        2475         120
+ partition:iblk,nblk,nnode,nodall matall=           7           0           5
+        2475         123
+ Begin            8   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         466           3         293           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           8         293           9
+        2637         120
+ partition:iblk,nblk,nnode,nodall matall=           8           0           5
+        2637         123
+ Begin            9   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         480           3         305           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           9         305           9
+        2745         120
+ partition:iblk,nblk,nnode,nodall matall=           9           0           5
+        2745         123
+ Begin           10   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         510           3         321           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          10         321           9
+        2889         120
+ partition:iblk,nblk,nnode,nodall matall=          10           0           5
+        2889         123
+ Begin           11   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         448           3         278           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          11         278           9
+        2502         120
+ partition:iblk,nblk,nnode,nodall matall=          11           0           5
+        2502         123
+ Begin           12   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         494           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          12         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          12           0           5
+        2754         123
+ Begin           13   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         432           3         275           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          13         275           9
+        2475         120
+ partition:iblk,nblk,nnode,nodall matall=          13           0           5
+        2475         123
+ Begin           14   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         450           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          14         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          14           0           5
+        2574         123
+ Begin           15   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         492           3         297           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          15         298           9
+        2682         120
+ partition:iblk,nblk,nnode,nodall matall=          15           0           5
+        2682         123
+ Begin           16   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         340           3         209           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          16         209           9
+        1881         120
+ partition:iblk,nblk,nnode,nodall matall=          16           0           5
+        1881         123
+ Begin           17   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         442           3         274           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          17         274           9
+        2466         120
+ partition:iblk,nblk,nnode,nodall matall=          17           0           5
+        2466         123
+ Begin           18   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         402           3         255           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          18         255           9
+        2295         120
+ partition:iblk,nblk,nnode,nodall matall=          18           0           5
+        2295         123
+ Begin           19   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         395           3         244           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          19         244           9
+        2196         120
+ partition:iblk,nblk,nnode,nodall matall=          19           0           5
+        2196         123
+ Begin           20   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         461           3         294           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          20         294           9
+        2646         120
+ partition:iblk,nblk,nnode,nodall matall=          20           0           5
+        2646         123
+ Begin           21   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         296           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          21         296           9
+        2664         120
+ partition:iblk,nblk,nnode,nodall matall=          21           0           5
+        2664         123
+ Begin           22   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         418           3         263           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          22         263           9
+        2367         120
+ partition:iblk,nblk,nnode,nodall matall=          22           0           5
+        2367         123
+ Begin           23   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         458           3         283           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          23         283           9
+        2547         120
+ partition:iblk,nblk,nnode,nodall matall=          23           0           5
+        2547         123
+ Begin           24   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         444           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          24         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          24           0           5
+        2520         123
+ Begin           25   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         488           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          25         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          25           0           5
+        2754         123
+ Begin           26   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         419           3         256           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          26         256           9
+        2304         120
+ partition:iblk,nblk,nnode,nodall matall=          26           0           5
+        2304         123
+ Begin           27   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         398           3         251           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          27         251           9
+        2259         120
+ partition:iblk,nblk,nnode,nodall matall=          27           0           5
+        2259         123
+ Begin           28   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         444           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          28         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          28           0           5
+        2520         123
+ Begin           29   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         459           3         288           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          29         288           9
+        2592         120
+ partition:iblk,nblk,nnode,nodall matall=          29           0           5
+        2592         123
+ Begin           30   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         465           3         289           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          30         289           9
+        2601         120
+ partition:iblk,nblk,nnode,nodall matall=          30           0           5
+        2601         123
+ Begin           31   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         287           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          31         287           9
+        2583         120
+ partition:iblk,nblk,nnode,nodall matall=          31           0           5
+        2583         123
+ Begin           32   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         468           3         295           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          32         295           9
+        2655         120
+ partition:iblk,nblk,nnode,nodall matall=          32           0           5
+        2655         123
+ Begin           33   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         470           3         292           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          33         292           9
+        2628         120
+ partition:iblk,nblk,nnode,nodall matall=          33           0           5
+        2628         123
+ Begin           34   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         412           3         256           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          34         256           9
+        2304         120
+ partition:iblk,nblk,nnode,nodall matall=          34           0           5
+        2304         123
+ Begin           35   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         462           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          35         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          35           0           5
+        2574         123
+ Begin           36   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          36         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          36           0           5
+        2520         123
+ Begin           37   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         414           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          37         260           9
+        2340         120
+ partition:iblk,nblk,nnode,nodall matall=          37           0           5
+        2340         123
+ Begin           38   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         508           3         312           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          38         312           9
+        2808         120
+ partition:iblk,nblk,nnode,nodall matall=          38           0           5
+        2808         123
+ Begin           39   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         433           3         273           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          39         273           9
+        2457         120
+ partition:iblk,nblk,nnode,nodall matall=          39           0           5
+        2457         123
+ Begin           40   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         300           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          40         300           9
+        2700         120
+ partition:iblk,nblk,nnode,nodall matall=          40           0           5
+        2700         123
+ Begin           41   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         465           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          41         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          41           0           5
+        2574         123
+ Begin           42   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         468           3         295           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          42         295           9
+        2655         120
+ partition:iblk,nblk,nnode,nodall matall=          42           0           5
+        2655         123
+ Begin           43   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         389           3         235           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          43         238           9
+        2142         120
+ partition:iblk,nblk,nnode,nodall matall=          43           0           5
+        2142         123
+ Begin           44   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         267           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          44         267           9
+        2403         120
+ partition:iblk,nblk,nnode,nodall matall=          44           0           5
+        2403         123
+ Begin           45   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         478           3         304           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          45         304           9
+        2736         120
+ partition:iblk,nblk,nnode,nodall matall=          45           0           5
+        2736         123
+ Begin           46   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         447           3         281           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          46         281           9
+        2529         120
+ partition:iblk,nblk,nnode,nodall matall=          46           0           5
+        2529         123
+ Begin           47   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          47         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          47           0           5
+        2574         123
+ Begin           48   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         418           3         268           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          48         268           9
+        2412         120
+ partition:iblk,nblk,nnode,nodall matall=          48           0           5
+        2412         123
+ Begin           49   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         505           3         309           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          49         309           9
+        2781         120
+ partition:iblk,nblk,nnode,nodall matall=          49           0           5
+        2781         123
+ Begin           50   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         460           3         282           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          50         282           9
+        2538         120
+ partition:iblk,nblk,nnode,nodall matall=          50           0           5
+        2538         123
+ Begin           51   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         296           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          51         296           9
+        2664         120
+ partition:iblk,nblk,nnode,nodall matall=          51           0           5
+        2664         123
+ Begin           52   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         494           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          52         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          52           0           5
+        2754         123
+ Begin           53   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         482           3         305           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          53         305           9
+        2745         120
+ partition:iblk,nblk,nnode,nodall matall=          53           0           5
+        2745         123
+ Begin           54   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         425           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          54         265           9
+        2385         120
+ partition:iblk,nblk,nnode,nodall matall=          54           1           5
+        2390         123
+ Begin           55   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         452           3         284           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          55         285           9
+        2565         120
+ partition:iblk,nblk,nnode,nodall matall=          55           0           5
+        2565         123
+ Begin           56   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         495           3         313           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          56         314           9
+        2826         120
+ partition:iblk,nblk,nnode,nodall matall=          56           0           5
+        2826         123
+ Begin           57   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         492           3         304           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          57         307           9
+        2763         120
+ partition:iblk,nblk,nnode,nodall matall=          57           0           5
+        2763         123
+ Begin           58   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         480           3         298           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          58         298           9
+        2682         120
+ partition:iblk,nblk,nnode,nodall matall=          58           0           5
+        2682         123
+ Begin           59   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         433           3         271           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          59         271           9
+        2439         120
+ partition:iblk,nblk,nnode,nodall matall=          59           0           5
+        2439         123
+ Begin           60   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         488           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          60         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          60           0           5
+        2754         123
+filename === elem0.elm\0 
+**********************************************************************
+Partitioning Dual Graph... ------------------------------------------
+rm: cannot remove `stop': No such file or directory
+coor0
+coor000
+disp0
+disp000
+elem0
+elem000
+id0
+id000
+tli0
+tli000
+partition.dat
+disp1
+ Begin            1   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         376           3         234           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           1         234           9
+        2106         120
+ partition:iblk,nblk,nnode,nodall matall=           1           0           5
+        2106         123
+ Begin            2   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         269           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           2         269           9
+        2421         120
+ partition:iblk,nblk,nnode,nodall matall=           2           0           5
+        2421         123
+ Begin            3   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         477           3         299           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           3         299           9
+        2691         120
+ partition:iblk,nblk,nnode,nodall matall=           3           0           5
+        2691         123
+ Begin            4   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         403           3         249           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           4         249           9
+        2241         120
+ partition:iblk,nblk,nnode,nodall matall=           4           0           5
+        2241         123
+ Begin            5   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         420           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           5         259           9
+        2331         120
+ partition:iblk,nblk,nnode,nodall matall=           5           0           5
+        2331         123
+ Begin            6   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         282           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           6         282           9
+        2538         120
+ partition:iblk,nblk,nnode,nodall matall=           6           0           5
+        2538         123
+ Begin            7   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         275           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           7         275           9
+        2475         120
+ partition:iblk,nblk,nnode,nodall matall=           7           0           5
+        2475         123
+ Begin            8   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         466           3         293           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           8         293           9
+        2637         120
+ partition:iblk,nblk,nnode,nodall matall=           8           0           5
+        2637         123
+ Begin            9   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         480           3         305           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           9         305           9
+        2745         120
+ partition:iblk,nblk,nnode,nodall matall=           9           0           5
+        2745         123
+ Begin           10   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         510           3         321           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          10         321           9
+        2889         120
+ partition:iblk,nblk,nnode,nodall matall=          10           0           5
+        2889         123
+ Begin           11   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         448           3         278           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          11         278           9
+        2502         120
+ partition:iblk,nblk,nnode,nodall matall=          11           0           5
+        2502         123
+ Begin           12   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         494           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          12         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          12           0           5
+        2754         123
+ Begin           13   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         432           3         275           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          13         275           9
+        2475         120
+ partition:iblk,nblk,nnode,nodall matall=          13           0           5
+        2475         123
+ Begin           14   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         450           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          14         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          14           0           5
+        2574         123
+ Begin           15   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         492           3         297           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          15         298           9
+        2682         120
+ partition:iblk,nblk,nnode,nodall matall=          15           0           5
+        2682         123
+ Begin           16   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         340           3         209           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          16         209           9
+        1881         120
+ partition:iblk,nblk,nnode,nodall matall=          16           0           5
+        1881         123
+ Begin           17   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         442           3         274           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          17         274           9
+        2466         120
+ partition:iblk,nblk,nnode,nodall matall=          17           0           5
+        2466         123
+ Begin           18   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         402           3         255           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          18         255           9
+        2295         120
+ partition:iblk,nblk,nnode,nodall matall=          18           0           5
+        2295         123
+ Begin           19   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         395           3         244           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          19         244           9
+        2196         120
+ partition:iblk,nblk,nnode,nodall matall=          19           0           5
+        2196         123
+ Begin           20   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         461           3         294           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          20         294           9
+        2646         120
+ partition:iblk,nblk,nnode,nodall matall=          20           0           5
+        2646         123
+ Begin           21   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         296           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          21         296           9
+        2664         120
+ partition:iblk,nblk,nnode,nodall matall=          21           0           5
+        2664         123
+ Begin           22   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         418           3         263           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          22         263           9
+        2367         120
+ partition:iblk,nblk,nnode,nodall matall=          22           0           5
+        2367         123
+ Begin           23   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         458           3         283           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          23         283           9
+        2547         120
+ partition:iblk,nblk,nnode,nodall matall=          23           0           5
+        2547         123
+ Begin           24   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         444           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          24         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          24           0           5
+        2520         123
+ Begin           25   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         488           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          25         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          25           0           5
+        2754         123
+ Begin           26   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         419           3         256           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          26         256           9
+        2304         120
+ partition:iblk,nblk,nnode,nodall matall=          26           0           5
+        2304         123
+ Begin           27   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         398           3         251           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          27         251           9
+        2259         120
+ partition:iblk,nblk,nnode,nodall matall=          27           0           5
+        2259         123
+ Begin           28   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         444           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          28         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          28           0           5
+        2520         123
+ Begin           29   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         459           3         288           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          29         288           9
+        2592         120
+ partition:iblk,nblk,nnode,nodall matall=          29           0           5
+        2592         123
+ Begin           30   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         465           3         289           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          30         289           9
+        2601         120
+ partition:iblk,nblk,nnode,nodall matall=          30           0           5
+        2601         123
+ Begin           31   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         287           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          31         287           9
+        2583         120
+ partition:iblk,nblk,nnode,nodall matall=          31           0           5
+        2583         123
+ Begin           32   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         468           3         295           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          32         295           9
+        2655         120
+ partition:iblk,nblk,nnode,nodall matall=          32           0           5
+        2655         123
+ Begin           33   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         470           3         292           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          33         292           9
+        2628         120
+ partition:iblk,nblk,nnode,nodall matall=          33           0           5
+        2628         123
+ Begin           34   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         412           3         256           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          34         256           9
+        2304         120
+ partition:iblk,nblk,nnode,nodall matall=          34           0           5
+        2304         123
+ Begin           35   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         462           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          35         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          35           0           5
+        2574         123
+ Begin           36   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          36         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          36           0           5
+        2520         123
+ Begin           37   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         414           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          37         260           9
+        2340         120
+ partition:iblk,nblk,nnode,nodall matall=          37           0           5
+        2340         123
+ Begin           38   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         508           3         312           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          38         312           9
+        2808         120
+ partition:iblk,nblk,nnode,nodall matall=          38           0           5
+        2808         123
+ Begin           39   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         433           3         273           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          39         273           9
+        2457         120
+ partition:iblk,nblk,nnode,nodall matall=          39           0           5
+        2457         123
+ Begin           40   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         300           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          40         300           9
+        2700         120
+ partition:iblk,nblk,nnode,nodall matall=          40           0           5
+        2700         123
+ Begin           41   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         465           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          41         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          41           0           5
+        2574         123
+ Begin           42   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         468           3         295           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          42         295           9
+        2655         120
+ partition:iblk,nblk,nnode,nodall matall=          42           0           5
+        2655         123
+ Begin           43   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         389           3         235           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          43         238           9
+        2142         120
+ partition:iblk,nblk,nnode,nodall matall=          43           0           5
+        2142         123
+ Begin           44   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         267           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          44         267           9
+        2403         120
+ partition:iblk,nblk,nnode,nodall matall=          44           0           5
+        2403         123
+ Begin           45   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         478           3         304           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          45         304           9
+        2736         120
+ partition:iblk,nblk,nnode,nodall matall=          45           0           5
+        2736         123
+ Begin           46   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         447           3         281           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          46         281           9
+        2529         120
+ partition:iblk,nblk,nnode,nodall matall=          46           0           5
+        2529         123
+ Begin           47   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          47         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          47           0           5
+        2574         123
+ Begin           48   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         418           3         268           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          48         268           9
+        2412         120
+ partition:iblk,nblk,nnode,nodall matall=          48           0           5
+        2412         123
+ Begin           49   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         505           3         309           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          49         309           9
+        2781         120
+ partition:iblk,nblk,nnode,nodall matall=          49           0           5
+        2781         123
+ Begin           50   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         460           3         282           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          50         282           9
+        2538         120
+ partition:iblk,nblk,nnode,nodall matall=          50           0           5
+        2538         123
+ Begin           51   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         296           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          51         296           9
+        2664         120
+ partition:iblk,nblk,nnode,nodall matall=          51           0           5
+        2664         123
+ Begin           52   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         494           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          52         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          52           0           5
+        2754         123
+ Begin           53   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         482           3         305           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          53         305           9
+        2745         120
+ partition:iblk,nblk,nnode,nodall matall=          53           0           5
+        2745         123
+ Begin           54   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         425           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          54         265           9
+        2385         120
+ partition:iblk,nblk,nnode,nodall matall=          54           1           5
+        2390         123
+ Begin           55   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         452           3         284           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          55         285           9
+        2565         120
+ partition:iblk,nblk,nnode,nodall matall=          55           0           5
+        2565         123
+ Begin           56   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         495           3         313           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          56         314           9
+        2826         120
+ partition:iblk,nblk,nnode,nodall matall=          56           0           5
+        2826         123
+ Begin           57   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         492           3         304           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          57         307           9
+        2763         120
+ partition:iblk,nblk,nnode,nodall matall=          57           0           5
+        2763         123
+ Begin           58   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         480           3         298           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          58         298           9
+        2682         120
+ partition:iblk,nblk,nnode,nodall matall=          58           0           5
+        2682         123
+ Begin           59   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         433           3         271           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          59         271           9
+        2439         120
+ partition:iblk,nblk,nnode,nodall matall=          59           0           5
+        2439         123
+ Begin           60   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         488           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          60         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          60           0           5
+        2754         123
+filename === elem0.elm\0 
+**********************************************************************
+Partitioning Dual Graph... ------------------------------------------
+rm: cannot remove `stop': No such file or directory
+poll: protocol failure in circuit setup
+forrtl: error (69): process interrupted (SIGINT)
+coor0
+coor000
+disp0
+disp000
+elem0
+elem000
+id0
+id000
+tli0
+tli000
+partition.dat
+disp1
+ Begin            1   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         376           3         234           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           1         234           9
+        2106         120
+ partition:iblk,nblk,nnode,nodall matall=           1           0           5
+        2106         123
+ Begin            2   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         269           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           2         269           9
+        2421         120
+ partition:iblk,nblk,nnode,nodall matall=           2           0           5
+        2421         123
+ Begin            3   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         477           3         299           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           3         299           9
+        2691         120
+ partition:iblk,nblk,nnode,nodall matall=           3           0           5
+        2691         123
+ Begin            4   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         403           3         249           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           4         249           9
+        2241         120
+ partition:iblk,nblk,nnode,nodall matall=           4           0           5
+        2241         123
+ Begin            5   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         420           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           5         259           9
+        2331         120
+ partition:iblk,nblk,nnode,nodall matall=           5           0           5
+        2331         123
+ Begin            6   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         282           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           6         282           9
+        2538         120
+ partition:iblk,nblk,nnode,nodall matall=           6           0           5
+        2538         123
+ Begin            7   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         275           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           7         275           9
+        2475         120
+ partition:iblk,nblk,nnode,nodall matall=           7           0           5
+        2475         123
+ Begin            8   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         466           3         293           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           8         293           9
+        2637         120
+ partition:iblk,nblk,nnode,nodall matall=           8           0           5
+        2637         123
+ Begin            9   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         480           3         305           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=           9         305           9
+        2745         120
+ partition:iblk,nblk,nnode,nodall matall=           9           0           5
+        2745         123
+ Begin           10   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         510           3         321           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          10         321           9
+        2889         120
+ partition:iblk,nblk,nnode,nodall matall=          10           0           5
+        2889         123
+ Begin           11   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         448           3         278           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          11         278           9
+        2502         120
+ partition:iblk,nblk,nnode,nodall matall=          11           0           5
+        2502         123
+ Begin           12   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         494           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          12         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          12           0           5
+        2754         123
+ Begin           13   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         432           3         275           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          13         275           9
+        2475         120
+ partition:iblk,nblk,nnode,nodall matall=          13           0           5
+        2475         123
+ Begin           14   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         450           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          14         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          14           0           5
+        2574         123
+ Begin           15   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         492           3         297           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          15         298           9
+        2682         120
+ partition:iblk,nblk,nnode,nodall matall=          15           0           5
+        2682         123
+ Begin           16   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         340           3         209           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          16         209           9
+        1881         120
+ partition:iblk,nblk,nnode,nodall matall=          16           0           5
+        1881         123
+ Begin           17   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         442           3         274           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          17         274           9
+        2466         120
+ partition:iblk,nblk,nnode,nodall matall=          17           0           5
+        2466         123
+ Begin           18   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         402           3         255           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          18         255           9
+        2295         120
+ partition:iblk,nblk,nnode,nodall matall=          18           0           5
+        2295         123
+ Begin           19   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         395           3         244           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          19         244           9
+        2196         120
+ partition:iblk,nblk,nnode,nodall matall=          19           0           5
+        2196         123
+ Begin           20   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         461           3         294           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          20         294           9
+        2646         120
+ partition:iblk,nblk,nnode,nodall matall=          20           0           5
+        2646         123
+ Begin           21   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         296           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          21         296           9
+        2664         120
+ partition:iblk,nblk,nnode,nodall matall=          21           0           5
+        2664         123
+ Begin           22   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         418           3         263           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          22         263           9
+        2367         120
+ partition:iblk,nblk,nnode,nodall matall=          22           0           5
+        2367         123
+ Begin           23   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         458           3         283           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          23         283           9
+        2547         120
+ partition:iblk,nblk,nnode,nodall matall=          23           0           5
+        2547         123
+ Begin           24   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         444           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          24         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          24           0           5
+        2520         123
+ Begin           25   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         488           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          25         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          25           0           5
+        2754         123
+ Begin           26   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         419           3         256           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          26         256           9
+        2304         120
+ partition:iblk,nblk,nnode,nodall matall=          26           0           5
+        2304         123
+ Begin           27   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         398           3         251           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          27         251           9
+        2259         120
+ partition:iblk,nblk,nnode,nodall matall=          27           0           5
+        2259         123
+ Begin           28   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         444           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          28         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          28           0           5
+        2520         123
+ Begin           29   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         459           3         288           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          29         288           9
+        2592         120
+ partition:iblk,nblk,nnode,nodall matall=          29           0           5
+        2592         123
+ Begin           30   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         465           3         289           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          30         289           9
+        2601         120
+ partition:iblk,nblk,nnode,nodall matall=          30           0           5
+        2601         123
+ Begin           31   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         287           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          31         287           9
+        2583         120
+ partition:iblk,nblk,nnode,nodall matall=          31           0           5
+        2583         123
+ Begin           32   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         468           3         295           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          32         295           9
+        2655         120
+ partition:iblk,nblk,nnode,nodall matall=          32           0           5
+        2655         123
+ Begin           33   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         470           3         292           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          33         292           9
+        2628         120
+ partition:iblk,nblk,nnode,nodall matall=          33           0           5
+        2628         123
+ Begin           34   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         412           3         256           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          34         256           9
+        2304         120
+ partition:iblk,nblk,nnode,nodall matall=          34           0           5
+        2304         123
+ Begin           35   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         462           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          35         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          35           0           5
+        2574         123
+ Begin           36   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         280           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          36         280           9
+        2520         120
+ partition:iblk,nblk,nnode,nodall matall=          36           0           5
+        2520         123
+ Begin           37   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         414           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          37         260           9
+        2340         120
+ partition:iblk,nblk,nnode,nodall matall=          37           0           5
+        2340         123
+ Begin           38   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         508           3         312           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          38         312           9
+        2808         120
+ partition:iblk,nblk,nnode,nodall matall=          38           0           5
+        2808         123
+ Begin           39   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         433           3         273           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          39         273           9
+        2457         120
+ partition:iblk,nblk,nnode,nodall matall=          39           0           5
+        2457         123
+ Begin           40   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         300           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          40         300           9
+        2700         120
+ partition:iblk,nblk,nnode,nodall matall=          40           0           5
+        2700         123
+ Begin           41   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         465           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          41         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          41           0           5
+        2574         123
+ Begin           42   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         468           3         295           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          42         295           9
+        2655         120
+ partition:iblk,nblk,nnode,nodall matall=          42           0           5
+        2655         123
+ Begin           43   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         389           3         235           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          43         238           9
+        2142         120
+ partition:iblk,nblk,nnode,nodall matall=          43           0           5
+        2142         123
+ Begin           44   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         426           3         267           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          44         267           9
+        2403         120
+ partition:iblk,nblk,nnode,nodall matall=          44           0           5
+        2403         123
+ Begin           45   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         478           3         304           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          45         304           9
+        2736         120
+ partition:iblk,nblk,nnode,nodall matall=          45           0           5
+        2736         123
+ Begin           46   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         447           3         281           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          46         281           9
+        2529         120
+ partition:iblk,nblk,nnode,nodall matall=          46           0           5
+        2529         123
+ Begin           47   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         453           3         286           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          47         286           9
+        2574         120
+ partition:iblk,nblk,nnode,nodall matall=          47           0           5
+        2574         123
+ Begin           48   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         418           3         268           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          48         268           9
+        2412         120
+ partition:iblk,nblk,nnode,nodall matall=          48           0           5
+        2412         123
+ Begin           49   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         505           3         309           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          49         309           9
+        2781         120
+ partition:iblk,nblk,nnode,nodall matall=          49           0           5
+        2781         123
+ Begin           50   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         460           3         282           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          50         282           9
+        2538         120
+ partition:iblk,nblk,nnode,nodall matall=          50           0           5
+        2538         123
+ Begin           51   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         475           3         296           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          51         296           9
+        2664         120
+ partition:iblk,nblk,nnode,nodall matall=          51           0           5
+        2664         123
+ Begin           52   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         494           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          52         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          52           0           5
+        2754         123
+ Begin           53   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         482           3         305           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          53         305           9
+        2745         120
+ partition:iblk,nblk,nnode,nodall matall=          53           0           5
+        2745         123
+ Begin           54   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         425           3         259           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          54         265           9
+        2385         120
+ partition:iblk,nblk,nnode,nodall matall=          54           1           5
+        2390         123
+ Begin           55   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         452           3         284           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          55         285           9
+        2565         120
+ partition:iblk,nblk,nnode,nodall matall=          55           0           5
+        2565         123
+ Begin           56   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         495           3         313           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          56         314           9
+        2826         120
+ partition:iblk,nblk,nnode,nodall matall=          56           0           5
+        2826         123
+ Begin           57   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         492           3         304           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          57         307           9
+        2763         120
+ partition:iblk,nblk,nnode,nodall matall=          57           0           5
+        2763         123
+ Begin           58   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         480           3         298           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          58         298           9
+        2682         120
+ partition:iblk,nblk,nnode,nodall matall=          58           0           5
+        2682         123
+ Begin           59   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         433           3         271           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          59         271           9
+        2439         120
+ partition:iblk,nblk,nnode,nodall matall=          59           0           5
+        2439         123
+ Begin           60   subdomain data partition...
+ nod_iblk,ncoor,num_iblk,nnode,nne,knode==
+         488           3         306           9           8       15372
+ partition:iblk,nblk,nnode,nodall matall=          60         306           9
+        2754         120
+ partition:iblk,nblk,nnode,nodall matall=          60           0           5
+        2754         123
+filename === elem0.elm\0 
+**********************************************************************
+Partitioning Dual Graph... ------------------------------------------
+rm: cannot remove `stop': No such file or directory

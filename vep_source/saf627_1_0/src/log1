@@ -1,0 +1,463 @@
+(rm ../lib -rf ;mkdir ../lib )
+(cd fepgsolver ; make)
+make[1]: Entering directory `/home/jiyang/vepmpich2/saf627_1_0/src/fepgsolver'
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_bilu.o az_bilu.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_cg.o az_cg.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_cgs.o az_cgs.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_cgstab.o az_cgstab.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_check.o az_check.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_comm.o az_comm.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_converge.o az_converge.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_dd_overlap.o az_dd_overlap.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_dgemv2.o az_dgemv2.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_dgemv3.o az_dgemv3.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_domain_decomp.o az_domain_decomp.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_fortran_wrap.o az_fortran_wrap.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_scaling.o az_scaling.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_flop_cnt.o az_flop_cnt.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_gmres.o az_gmres.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_gmresr.o az_gmresr.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_ilu_util.o az_ilu_util.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_ilut.o az_ilut.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_interface.o az_interface.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_lu_y12.o az_lu_y12.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_matrix_util.o az_matrix_util.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_matvec_mult.o az_matvec_mult.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_old_matvec_mult.o az_old_matvec_mult.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_pad_utils.o az_pad_utils.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_poly.o az_poly.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_precond.o az_precond.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_qmrcgs.o az_qmrcgs.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_rilu.o az_rilu.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_solve.o az_solve.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_sort.o az_sort.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_subdomain_solver.o az_subdomain_solver.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_tools.o az_tools.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_util.o az_util.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_icc.o az_icc.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o az_fix_pt.o az_fix_pt.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o md_timer_sun.o md_timer_sun.c
+mpicc -O -Dappend_ -DAZ_MPI -I/home/jiyang/mpich2-141p1-install-intel/include   -c -o md_wrap_mpi_c.o md_wrap_mpi_c.c
+mpif90 -O  -c -o la_dgetrf.o la_dgetrf.f
+mpif90 -O  -c -o la_dgetri.o la_dgetri.f
+mpif90 -O  -c -o la_ilaenv.o la_ilaenv.f
+mpif90 -O  -c -o la_dgetf2.o la_dgetf2.f
+mpif90 -O  -c -o la_dlaswp.o la_dlaswp.f
+mpif90 -O  -c -o la_dtrtri.o la_dtrtri.f
+mpif90 -O  -c -o la_dtrti2.o la_dtrti2.f
+mpif90 -O  -c -o la_dgetrs.o la_dgetrs.f
+mpif90 -O  -c -o la_dgeco.o la_dgeco.f
+mpif90 -O  -c -o la_dgedi.o la_dgedi.f
+mpif90 -O  -c -o la_dgefa.o la_dgefa.f
+mpif90 -O  -c -o la_dpotf2.o la_dpotf2.f
+mpif90 -O  -c -o la_dpotrf.o la_dpotrf.f
+mpif90 -O  -c -o la_dlamch.o la_dlamch.f
+mpif90 -O  -c -o la_dlaic1.o la_dlaic1.f
+mpif90 -O  -c -o la_ieeeck.o la_ieeeck.f
+mpif90 -O  -c -o y12m.o y12m.f
+mpif90 -O  -c -o y12mae.o y12mae.f
+mpif90 -O  -c -o y12maf.o y12maf.f
+mpif90 -O  -c -o y12mbe.o y12mbe.f
+mpif90 -O  -c -o y12mbf.o y12mbf.f
+mpif90 -O  -c -o y12mce.o y12mce.f
+mpif90 -O  -c -o y12mcf.o y12mcf.f
+mpif90 -O  -c -o y12mde.o y12mde.f
+mpif90 -O  -c -o y12mdf.o y12mdf.f
+mpif90 -O  -c -o y12mfe.o y12mfe.f
+mpif90 -O  -c -o y12mge.o y12mge.f
+mpif90 -O  -c -o y12mhe.o y12mhe.f
+mpif90 -O  -c -o y12cck.o y12cck.f
+mpif90 -O  -c -o blas1.o blas1.f
+mpif90 -O  -c -o blas2.o blas2.f
+mpif90 -O  -c -o blas3.o blas3.f
+mpif90 -O  -c -o xerbla.o xerbla.f
+mpif90 -O  -c -o lsame.o lsame.f
+mpif90 -O  -c -o az_reorder.o az_reorder.f
+Building library 
+ar ruv libfepgsolv.a az_bilu.o az_cg.o az_cgs.o az_cgstab.o az_check.o az_comm.o az_converge.o az_dd_overlap.o az_dgemv2.o az_dgemv3.o az_domain_decomp.o az_fortran_wrap.o az_scaling.o az_flop_cnt.o az_gmres.o az_gmresr.o az_ilu_util.o az_ilut.o az_interface.o az_lu_y12.o az_matrix_util.o az_matvec_mult.o az_old_matvec_mult.o az_pad_utils.o az_poly.o az_precond.o az_qmrcgs.o az_rilu.o az_solve.o az_sort.o az_subdomain_solver.o az_tools.o az_util.o az_icc.o az_fix_pt.o md_timer_sun.o md_wrap_mpi_c.o la_dgetrf.o la_dgetri.o la_ilaenv.o la_dgetf2.o la_dlaswp.o la_dtrtri.o la_dtrti2.o la_dgetrs.o la_dgeco.o la_dgedi.o la_dgefa.o la_dpotf2.o la_dpotrf.o la_dlamch.o la_dlaic1.o la_ieeeck.o y12m.o y12mae.o y12maf.o y12mbe.o y12mbf.o y12mce.o y12mcf.o y12mde.o y12mdf.o y12mfe.o y12mge.o y12mhe.o y12cck.o blas1.o blas2.o blas3.o xerbla.o lsame.o az_reorder.o
+a - az_bilu.o
+a - az_cg.o
+a - az_cgs.o
+a - az_cgstab.o
+a - az_check.o
+a - az_comm.o
+a - az_converge.o
+a - az_dd_overlap.o
+a - az_dgemv2.o
+a - az_dgemv3.o
+a - az_domain_decomp.o
+a - az_fortran_wrap.o
+a - az_scaling.o
+a - az_flop_cnt.o
+a - az_gmres.o
+a - az_gmresr.o
+a - az_ilu_util.o
+a - az_ilut.o
+a - az_interface.o
+a - az_lu_y12.o
+a - az_matrix_util.o
+a - az_matvec_mult.o
+a - az_old_matvec_mult.o
+a - az_pad_utils.o
+a - az_poly.o
+a - az_precond.o
+a - az_qmrcgs.o
+a - az_rilu.o
+a - az_solve.o
+a - az_sort.o
+a - az_subdomain_solver.o
+a - az_tools.o
+a - az_util.o
+a - az_icc.o
+a - az_fix_pt.o
+a - md_timer_sun.o
+a - md_wrap_mpi_c.o
+a - la_dgetrf.o
+a - la_dgetri.o
+a - la_ilaenv.o
+a - la_dgetf2.o
+a - la_dlaswp.o
+a - la_dtrtri.o
+a - la_dtrti2.o
+a - la_dgetrs.o
+a - la_dgeco.o
+a - la_dgedi.o
+a - la_dgefa.o
+a - la_dpotf2.o
+a - la_dpotrf.o
+a - la_dlamch.o
+a - la_dlaic1.o
+a - la_ieeeck.o
+a - y12m.o
+a - y12mae.o
+a - y12maf.o
+a - y12mbe.o
+a - y12mbf.o
+a - y12mce.o
+a - y12mcf.o
+a - y12mde.o
+a - y12mdf.o
+a - y12mfe.o
+a - y12mge.o
+a - y12mhe.o
+a - y12cck.o
+a - blas1.o
+a - blas2.o
+a - blas3.o
+a - xerbla.o
+a - lsame.o
+a - az_reorder.o
+make[1]: Leaving directory `/home/jiyang/vepmpich2/saf627_1_0/src/fepgsolver'
+(mv fepgsolver/libfepgsolv.a ../lib -f )
+(cd metis-4.0 ; make )
+make[1]: Entering directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0'
+(cd Lib ; make ) 
+make[2]: Entering directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0/Lib'
+mpicc  -O2  -I. -c coarsen.c
+mpicc  -O2  -I. -c fm.c
+mpicc  -O2  -I. -c initpart.c
+mpicc  -O2  -I. -c match.c
+mpicc  -O2  -I. -c ccgraph.c
+mpicc  -O2  -I. -c memory.c
+mpicc  -O2  -I. -c pmetis.c
+mpicc  -O2  -I. -c pqueue.c
+mpicc  -O2  -I. -c refine.c
+mpicc  -O2  -I. -c util.c
+mpicc  -O2  -I. -c timing.c
+mpicc  -O2  -I. -c debug.c
+mpicc  -O2  -I. -c bucketsort.c
+mpicc  -O2  -I. -c graph.c
+mpicc  -O2  -I. -c stat.c
+mpicc  -O2  -I. -c kmetis.c
+mpicc  -O2  -I. -c kwayrefine.c
+mpicc  -O2  -I. -c kwayfm.c
+mpicc  -O2  -I. -c balance.c
+mpicc  -O2  -I. -c ometis.c
+mpicc  -O2  -I. -c srefine.c
+mpicc  -O2  -I. -c sfm.c
+mpicc  -O2  -I. -c separator.c
+mpicc  -O2  -I. -c mincover.c
+mpicc  -O2  -I. -c mmd.c
+mpicc  -O2  -I. -c mesh.c
+mpicc  -O2  -I. -c meshpart.c
+mpicc  -O2  -I. -c frename.c
+mpicc  -O2  -I. -c fortran.c
+mpicc  -O2  -I. -c myqsort.c
+mpicc  -O2  -I. -c compress.c
+mpicc  -O2  -I. -c parmetis.c
+mpicc  -O2  -I. -c estmem.c
+mpicc  -O2  -I. -c mpmetis.c
+mpicc  -O2  -I. -c mcoarsen.c
+mpicc  -O2  -I. -c mmatch.c
+mpicc  -O2  -I. -c minitpart.c
+mpicc  -O2  -I. -c mbalance.c
+mpicc  -O2  -I. -c mrefine.c
+mpicc  -O2  -I. -c mutil.c
+mpicc  -O2  -I. -c mfm.c
+mpicc  -O2  -I. -c mkmetis.c
+mpicc  -O2  -I. -c mkwayrefine.c
+mpicc  -O2  -I. -c mkwayfmh.c
+mpicc  -O2  -I. -c mrefine2.c
+mpicc  -O2  -I. -c minitpart2.c
+mpicc  -O2  -I. -c mbalance2.c
+mpicc  -O2  -I. -c mfm2.c
+mpicc  -O2  -I. -c kvmetis.c
+mpicc  -O2  -I. -c kwayvolrefine.c
+mpicc  -O2  -I. -c kwayvolfm.c
+mpicc  -O2  -I. -c subdomains.c
+ar rv ../libmetis.a coarsen.o fm.o initpart.o match.o ccgraph.o memory.o pmetis.o pqueue.o refine.o util.o timing.o debug.o bucketsort.o graph.o stat.o kmetis.o kwayrefine.o kwayfm.o balance.o ometis.o srefine.o sfm.o separator.o mincover.o mmd.o mesh.o meshpart.o frename.o fortran.o myqsort.o compress.o parmetis.o estmem.o mpmetis.o mcoarsen.o mmatch.o minitpart.o mbalance.o mrefine.o mutil.o mfm.o mkmetis.o mkwayrefine.o mkwayfmh.o mrefine2.o minitpart2.o mbalance2.o mfm2.o kvmetis.o kwayvolrefine.o kwayvolfm.o subdomains.o
+a - coarsen.o
+a - fm.o
+a - initpart.o
+a - match.o
+a - ccgraph.o
+a - memory.o
+a - pmetis.o
+a - pqueue.o
+a - refine.o
+a - util.o
+a - timing.o
+a - debug.o
+a - bucketsort.o
+a - graph.o
+a - stat.o
+a - kmetis.o
+a - kwayrefine.o
+a - kwayfm.o
+a - balance.o
+a - ometis.o
+a - srefine.o
+a - sfm.o
+a - separator.o
+a - mincover.o
+a - mmd.o
+a - mesh.o
+a - meshpart.o
+a - frename.o
+a - fortran.o
+a - myqsort.o
+a - compress.o
+a - parmetis.o
+a - estmem.o
+a - mpmetis.o
+a - mcoarsen.o
+a - mmatch.o
+a - minitpart.o
+a - mbalance.o
+a - mrefine.o
+a - mutil.o
+a - mfm.o
+a - mkmetis.o
+a - mkwayrefine.o
+a - mkwayfmh.o
+a - mrefine2.o
+a - minitpart2.o
+a - mbalance2.o
+a - mfm2.o
+a - kvmetis.o
+a - kwayvolrefine.o
+a - kwayvolfm.o
+a - subdomains.o
+ranlib ../libmetis.a
+make[2]: Leaving directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0/Lib'
+(cd Programs ; make ) 
+make[2]: Entering directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0/Programs'
+mpicc  -O2  -I../Lib  -c pmetis.c
+mpicc  -O2  -I../Lib  -c io.c
+mpicc  -L. -L..  -o ../pmetis pmetis.o io.o  -lmetis -lm
+chmod 755 ../pmetis
+mpicc  -O2  -I../Lib  -c kmetis.c
+mpicc  -L. -L..  -o ../kmetis kmetis.o io.o  -lmetis -lm
+chmod 755 ../kmetis
+mpicc  -O2  -I../Lib  -c oemetis.c
+mpicc  -O2  -I../Lib  -c smbfactor.c
+mpicc  -L. -L..  -o ../oemetis oemetis.o io.o smbfactor.o -lmetis -lm
+chmod 755 ../oemetis
+mpicc  -O2  -I../Lib  -c onmetis.c
+mpicc  -L. -L..  -o ../onmetis onmetis.o io.o smbfactor.o -lmetis -lm
+chmod 755 ../onmetis
+mpicc  -O2  -I../Lib  -c mesh2dual.c
+mpicc  -L. -L..  -o ../mesh2dual mesh2dual.o io.o  -lmetis -lm
+chmod 755 ../mesh2dual
+mpicc  -O2  -I../Lib  -c mesh2nodal.c
+mpicc  -L. -L..  -o ../mesh2nodal mesh2nodal.o io.o  -lmetis -lm
+chmod 755 ../mesh2nodal
+mpicc  -O2  -I../Lib  -c partdmesh.c
+mpicc  -L. -L..  -o ../partdmesh partdmesh.o io.o  -lmetis -lm
+chmod 755 ../partdmesh
+mpicc  -O2  -I../Lib  -c partnmesh.c
+mpicc  -L. -L..  -o ../partnmesh partnmesh.o io.o  -lmetis -lm
+chmod 755 ../partnmesh
+mpicc  -O2  -I../Lib  -c graphchk.c
+mpicc  -L. -L..  -o ../graphchk graphchk.o io.o  -lmetis -lm
+chmod 755 ../graphchk
+make[2]: Leaving directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0/Programs'
+(cd Test ; make ) 
+make[2]: Entering directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0/Test'
+mpicc  -O2  -I../Lib  -c mtest.c
+mpicc  -L. -L..  -o ../Graphs/mtest mtest.o ../Programs/io.o  -lmetis -lm
+chmod 755 ../Graphs/mtest
+make[2]: Leaving directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0/Test'
+make[1]: Leaving directory `/home/jiyang/vepmpich2/saf627_1_0/src/metis-4.0'
+(mv metis-4.0/libmetis.a ../lib -f )
+(cd blas ; make )
+make[1]: Entering directory `/home/jiyang/vepmpich2/saf627_1_0/src/blas'
+mpif90 -c caxpy.f ccopy.f cdotc.f cdotu.f cgbmv.f cgemm.f cgemv.f cgerc.f cgeru.f chbmv.f chemm.f chemv.f cher2.f cher2k.f cher.f cherk.f chpmv.f chpr2.f chpr.f crotg.f cscal.f csrot.f csscal.f cswap.f csymm.f csyr2k.f csyrk.f ctbmv.f ctbsv.f ctpmv.f ctpsv.f ctrmm.f ctrmv.f ctrsm.f ctrsv.f dasum.f daxpy.f dcabs1.f dcopy.f ddot.f dgbmv.f dgemm.f dgemv.f dger.f dnrm2.f drot.f drotg.f drotm.f drotmg.f dsbmv.f dscal.f dsdot.f dspmv.f dspr2.f dspr.f dswap.f dsymm.f dsymv.f dsyr2.f dsyr2k.f dsyr.f dsyrk.f dtbmv.f dtbsv.f dtpmv.f dtpsv.f dtrmm.f dtrmv.f dtrsm.f dtrsv.f dzasum.f dznrm2.f icamax.f idamax.f isamax.f izamax.f lsame.f sasum.f saxpy.f scasum.f scnrm2.f scopy.f sdot.f sdsdot.f sgbmv.f sgemm.f sgemv.f sger.f snrm2.f srot.f srotg.f srotm.f srotmg.f ssbmv.f sscal.f sspmv.f sspr2.f sspr.f sswap.f ssymm.f ssymv.f ssyr2.f ssyr2k.f ssyr.f ssyrk.f stbmv.f stbsv.f stpmv.f stpsv.f strmm.f strmv.f strsm.f strsv.f xerbla.f zaxpy.f zcopy.f zdotc.f zdotu.f zdrot.f zdscal.f zgbmv.f zgemm.f zgemv.f zgerc.f zgeru.f zhbmv.f zhemm.f zhemv.f zher2.f zher2k.f zher.f zherk.f zhpmv.f zhpr2.f zhpr.f zrotg.f zscal.f zswap.f zsymm.f zsyr2k.f zsyrk.f ztbmv.f ztbsv.f ztpmv.f ztpsv.f ztrmm.f ztrmv.f ztrsm.f ztrsv.f
+ar rv libblas.a caxpy.o ccopy.o cdotc.o cdotu.o cgbmv.o cgemm.o cgemv.o cgerc.o cgeru.o chbmv.o chemm.o chemv.o cher2.o cher2k.o cher.o cherk.o chpmv.o chpr2.o chpr.o crotg.o cscal.o csrot.o csscal.o cswap.o csymm.o csyr2k.o csyrk.o ctbmv.o ctbsv.o ctpmv.o ctpsv.o ctrmm.o ctrmv.o ctrsm.o ctrsv.o dasum.o daxpy.o dcabs1.o dcopy.o ddot.o dgbmv.o dgemm.o dgemv.o dger.o dnrm2.o drot.o drotg.o drotm.o drotmg.o dsbmv.o dscal.o dsdot.o dspmv.o dspr2.o dspr.o dswap.o dsymm.o dsymv.o dsyr2.o dsyr2k.o dsyr.o dsyrk.o dtbmv.o dtbsv.o dtpmv.o dtpsv.o dtrmm.o dtrmv.o dtrsm.o dtrsv.o dzasum.o dznrm2.o icamax.o idamax.o isamax.o izamax.o lsame.o sasum.o saxpy.o scasum.o scnrm2.o scopy.o sdot.o sdsdot.o sgbmv.o sgemm.o sgemv.o sger.o snrm2.o srot.o srotg.o srotm.o srotmg.o ssbmv.o sscal.o sspmv.o sspr2.o sspr.o sswap.o ssymm.o ssymv.o ssyr2.o ssyr2k.o ssyr.o ssyrk.o stbmv.o stbsv.o stpmv.o stpsv.o strmm.o strmv.o strsm.o strsv.o xerbla.o zaxpy.o zcopy.o zdotc.o zdotu.o zdrot.o zdscal.o zgbmv.o zgemm.o zgemv.o zgerc.o zgeru.o zhbmv.o zhemm.o zhemv.o zher2.o zher2k.o zher.o zherk.o zhpmv.o zhpr2.o zhpr.o zrotg.o zscal.o zswap.o zsymm.o zsyr2k.o zsyrk.o ztbmv.o ztbsv.o ztpmv.o ztpsv.o ztrmm.o ztrmv.o ztrsm.o ztrsv.o
+a - caxpy.o
+a - ccopy.o
+a - cdotc.o
+a - cdotu.o
+a - cgbmv.o
+a - cgemm.o
+a - cgemv.o
+a - cgerc.o
+a - cgeru.o
+a - chbmv.o
+a - chemm.o
+a - chemv.o
+a - cher2.o
+a - cher2k.o
+a - cher.o
+a - cherk.o
+a - chpmv.o
+a - chpr2.o
+a - chpr.o
+a - crotg.o
+a - cscal.o
+a - csrot.o
+a - csscal.o
+a - cswap.o
+a - csymm.o
+a - csyr2k.o
+a - csyrk.o
+a - ctbmv.o
+a - ctbsv.o
+a - ctpmv.o
+a - ctpsv.o
+a - ctrmm.o
+a - ctrmv.o
+a - ctrsm.o
+a - ctrsv.o
+a - dasum.o
+a - daxpy.o
+a - dcabs1.o
+a - dcopy.o
+a - ddot.o
+a - dgbmv.o
+a - dgemm.o
+a - dgemv.o
+a - dger.o
+a - dnrm2.o
+a - drot.o
+a - drotg.o
+a - drotm.o
+a - drotmg.o
+a - dsbmv.o
+a - dscal.o
+a - dsdot.o
+a - dspmv.o
+a - dspr2.o
+a - dspr.o
+a - dswap.o
+a - dsymm.o
+a - dsymv.o
+a - dsyr2.o
+a - dsyr2k.o
+a - dsyr.o
+a - dsyrk.o
+a - dtbmv.o
+a - dtbsv.o
+a - dtpmv.o
+a - dtpsv.o
+a - dtrmm.o
+a - dtrmv.o
+a - dtrsm.o
+a - dtrsv.o
+a - dzasum.o
+a - dznrm2.o
+a - icamax.o
+a - idamax.o
+a - isamax.o
+a - izamax.o
+a - lsame.o
+a - sasum.o
+a - saxpy.o
+a - scasum.o
+a - scnrm2.o
+a - scopy.o
+a - sdot.o
+a - sdsdot.o
+a - sgbmv.o
+a - sgemm.o
+a - sgemv.o
+a - sger.o
+a - snrm2.o
+a - srot.o
+a - srotg.o
+a - srotm.o
+a - srotmg.o
+a - ssbmv.o
+a - sscal.o
+a - sspmv.o
+a - sspr2.o
+a - sspr.o
+a - sswap.o
+a - ssymm.o
+a - ssymv.o
+a - ssyr2.o
+a - ssyr2k.o
+a - ssyr.o
+a - ssyrk.o
+a - stbmv.o
+a - stbsv.o
+a - stpmv.o
+a - stpsv.o
+a - strmm.o
+a - strmv.o
+a - strsm.o
+a - strsv.o
+a - xerbla.o
+a - zaxpy.o
+a - zcopy.o
+a - zdotc.o
+a - zdotu.o
+a - zdrot.o
+a - zdscal.o
+a - zgbmv.o
+a - zgemm.o
+a - zgemv.o
+a - zgerc.o
+a - zgeru.o
+a - zhbmv.o
+a - zhemm.o
+a - zhemv.o
+a - zher2.o
+a - zher2k.o
+a - zher.o
+a - zherk.o
+a - zhpmv.o
+a - zhpr2.o
+a - zhpr.o
+a - zrotg.o
+a - zscal.o
+a - zswap.o
+a - zsymm.o
+a - zsyr2k.o
+a - zsyrk.o
+a - ztbmv.o
+a - ztbsv.o
+a - ztpmv.o
+a - ztpsv.o
+a - ztrmm.o
+a - ztrmv.o
+a - ztrsm.o
+a - ztrsv.o
+ranlib libblas.a
+make[1]: Leaving directory `/home/jiyang/vepmpich2/saf627_1_0/src/blas'
+(mv blas/libblas.a ../lib -f )
+mpif90 -c fepglib.f
+ar rv libfepg.a fepglib.o
+a - fepglib.o
+ranlib libfepg.a
+(mv libfepg.a ../lib )

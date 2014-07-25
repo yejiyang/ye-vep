@@ -1,0 +1,18 @@
+#! /bin/csh
+
+#ifort  -o selnodesort selnodesort.f
+#./selnodesort
+ifort -O2 -o p1234 p1234.f
+./p1234
+#mv selnode.velo selnode.saf12.Lock101.50k.tl.velo
+
+#tar czvf res.tgz res.fl* slip grid.txt res.txt
+tar czvf res.tgz res.fl* 
+
+#rm stop slip grid.txt res.txt
+
+cp res.tgz ../results/saf627_1_23116.tgz
+rcp res.tgz jiyang@geo01:/home/jiyang/Dropbox/SAF/model/saf627/saf627_1_23116.tgz
+#rcp res.tgz jiyang@geo01:/home/jiyang/Dropbox/SAF/model/saf12/results/saf12.Lock101.50k.tgz
+#rcp selnode.saf12.Lock101.50k.tl.velo jiyang@geo01:/home/jiyang/Dropbox/SAF/model/saf12/post/.
+#rcp selnode.saf12.1870.bl.velo jiyang@geo01:/home/jiyang/Dropbox/SAF/model/saf12/post/.

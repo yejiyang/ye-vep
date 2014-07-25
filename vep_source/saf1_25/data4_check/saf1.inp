@@ -1,0 +1,171 @@
+/CLEAR,START
+
+/COM,ANSYS RELEASE 12.1    UP20091102       23:11:18    04/16/2012
+/CWD,'C:\fem\an_work\saf1'  
+/TITLE,saf1
+!
+/PREP7  
+!
+FLST,3,12,8  
+!
+FITEM,3,0,0,0   ! p1
+FITEM,3,200000,0,0  !p2
+FITEM,3,200400,0,0  !p3
+FITEM,3,400400,0,0  !p4
+FITEM,3,400800,0,0 !p5 
+FITEM,3,600800,0,0 !p6
+FITEM,3,600800,600000,0 !p7
+FITEM,3,400800,600000,0 !p8
+FITEM,3,400400,600000,0 !p9
+FITEM,3,200400,600000,0 !p10
+FITEM,3,200000,600000,0 !p11
+FITEM,3,0,600000,0 !p12
+!
+K, ,P51X
+!
+A,1,2,11,12       ! from left to right 1,2,3,4,5
+A,2,3,10,11       ! 2 & 4 area means faults
+A,3,4,9,10
+A,4,5,8,9
+A,5,6,7,8
+!
+!
+ET,1,PLANE42
+!
+MP,EX,1,8.75E10
+MP,NUXY,1,0.27
+TB,DP,1
+TBDATA,1,50,32,0    ! Cohesion = 50 (use consistent units),
+                     ! Angle of internal friction = 32 degrees,
+                     ! Dilatancy angle = 0 degrees
+MP,EX,2,8.75E8
+MP,NUXY,2,0.27
+TB,DP,2
+TBDATA,1,40,32,0    ! Cohesion = 30 (use consistent units),
+                     ! Angle of internal friction = 32 degrees,
+                     ! Dilatancy angle = 0 degrees    
+MP,EX,3,8.75E8
+MP,NUXY,3,0.27
+TB,DP,3
+TBDATA,1,40,32,0    ! Cohesion = 30 (use consistent units),
+                     ! Angle of internal friction = 32 degrees,
+                     ! Dilatancy angle = 0 degrees                       
+!!!!MESH START
+!!!!! mesh the left fault, area 2
+TYPE,   1    ! element type 3
+MAT,       2  ! mat 3
+REAL,   
+ESYS,       0   
+SECNUM, 
+ESIZE,10000,0,  ! size 10km
+MSHAPE,0,2D   ! 2D
+MSHKEY,1  ! using mapped mesh
+AMESH, 2  ! MESH AREA 2
+!!!!! mesh the left fault, area 2 
+!!!!! mesh the right fault, area 4
+TYPE,   1    ! element type 3
+MAT,       3  ! mat 3
+REAL,   
+ESYS,       0   
+SECNUM, 
+ESIZE,10000,0,  ! size 10km
+MSHAPE,0,2D   ! 2D
+MSHKEY,1  ! using mapped mesh  
+AMESH, 4  ! MESH AREA 2
+!!!!! mesh the right fault, area 4 
+
+!!!!! mesh the non-fault part, area 1&3&5
+TYPE,   1    ! element type 1
+MAT,       1  ! mat 1
+REAL,   
+ESYS,       0   
+SECNUM, 
+ESIZE,10000,0,  ! size 10km
+MSHAPE,0,2D   ! 2D
+MSHKEY,1  ! using mapped mesh 
+AMESH, 1,5,2  ! MESH AREA 1 & 3 & 5
+!!!!! mesh the non-fault part
+!
+/NUMBER,1   ! only showing colors no numbering
+/PNUM,MAT,1 ! show depend on the different mat
+/REPLOT 
+eplot ! show the element
+!!!!MESH end   
+
+/OUTPUT
+/COM
+/OUT,saf1,msh
+!/COM,Mesh "Whole" Dimension 3  Elemtype Hexahedra Nnode 8
+/COM,MESH dimension 3 ElemType Quadrilateral Nnode 4
+/COM,Coordinates                                      
+/NOPR
+!!!!!!!!!!!!!!!!!!!STORE ALL THE NODES, INCLUDES NODE_NUMBER, NODE_X, NODE_Y!!!!!!!!!!!!!!!!!!!!
+*GET, Nnod, NODE, 0, COUNT ! GET THE TOTAL NUMBER OF THE SELECTED NODES
+*DIM, Xy, ARRAY, NNOD, 4   ! STORE ALL THE NODES, INCLUDES NODE_NUMBER, NODE_X, NODE_Y
+*GET, Nd, NODE, 0, NUM, MIN	! GET THE MIMIUM NUMBER OF NODE
+*DO, i, 1, NNOD, 1				 ! STORE ALL THE NODES, INCLUDES NODE_NUMBER, NODE_X, NODE_Y
+	Xy(i,1) = Nd 	! Nd   
+	Xy(i,2) = NX(Nd) 	! GET THE X COORDINATE OF Nd
+	Xy(i,3) = NY(Nd) 	! GET THE Y COORDINATE OF Nd
+	Xy(i,4) = NZ(Nd) 	! GET THE Y COORDINATE OF Nd
+	Nd = NDNEXT (Nd)	! GET THE NEXT NODE NUMBER
+*ENDDO
+/GO
+! WRITE the node TO FILE
+*VWRITE, Xy(1,1), Xy(1,2), Xy(1,3), Xy(1,4)
+(F8.0,TL1,'		',F10.2,F10.2,F10.2)
+/COM,End Coordinates
+!
+!
+/NOPR
+!!!!!!!!!!!!!!!!!!!!STORE ALL THE ELEMENTS, INCLUDES ELEMENT_NUMBER, ELEMENT_NODE_NUM, ELEMENT_MAT!!!!!!!!!!!!!!!!!!!!
+*GET, Nelm, ELEM, 0, COUNT	! GET THE TOTAL NUMBER OF THE SELECTED ELEMENT
+*DIM, Elems, ARRAY, NELM, 4	! STORE THE ELEMENT_NUMBER, ELEMENT_MAT, ELEMENT_TYPE, ELEMENT_REAL
+*DIM, Enode, ARRAY, NELM, 4 ! STORE THE ELEMENT_NODE_LIST, !!!!!!!!!THE 4-4NODES, 3-3NODES
+*GET, El, ELEM, 0, NUM, MIN ! GET THE MIM NUMBER OF ELEMENTS
+*DO, i, 1, NELM, 1
+	Elems(i,1) = El
+	*GET, Emat0, ELEM, EL, ATTR, MAT ! GET THE ELEMENT EL'S MAT
+	*GET, Etype0, ELEM, EL, ATTR, TYPE ! GET THE ELEMENT EL'S TYPE
+	*GET, Ereal, ELEM, EL, ATTR, REAL ! GET THE ELEMENT EL'S REAL
+	Elems(i,2) = Emat0
+	Elems(i,3) = Etype0
+	Elems(i,4) = Ereal
+	*DO, J, 1, 4   !!!!!!!THE 4-4NODES, 3-3NODES
+		Enode(i,J)= NELEM(El,J)
+	*ENDDO
+	El=ELNEXT(El)
+*ENDDO
+/GO
+!    
+/COM
+/COM,Elements
+! WRITE the element TO FILE
+*VWRITE, Elems(1,1), Enode(1,1), Enode(1,2), Enode(1,3), Enode(1,4),Elems(1,2)
+(F10.0,TL1,'		',F10.0,TL1,'		',F10.0,TL1,'		',F10.0,TL1,'		',F10.0,TL1,'		',F6.0,TL1,'		')
+!
+!!!!!! OUTPUT FORMAT, USING FORTRAN FORMAT !!!!!!!!!!!!
+!*VWRITE, 999, 888, 666
+!(F10.2,F10.2,F10.2)
+!(1X,'   ',F10.2,'  ',F10.2,'   ',F10.2)
+!(1X,A8,A8,'   ',F10.2,'  ',F10.2,'   ',1F8.3)
+!!!!!!!OUTPUTFORMAT!!!!!!!!!!!!!!
+/COM,End Elements
+/OUT
+FINISH  
+!
+!  write the input_datapre.saf1 file
+!
+/OUTPUT
+/COM                                       
+/OUT,input_datapre,saf1   ! saf1 should be change 
+*VWRITE, Nnod, NELM 
+(F10.0,TL1,'		',F10.0,TL1,'		')
+/COM,saf1.msh
+/COM,# for saf1.msh
+/COM,# total nodes, total elements
+/COM,# input file name, saf1.msh
+/OUT
+FINISH  
+
+

@@ -1,0 +1,13 @@
+#! /bin/csh
+
+ifort -O2 -o p123 p123.f
+./p123
+
+tar czvf res.tgz res.fl* slip grid.txt res.txt
+#tar czvf res.tgz res.fl* 
+
+rm stop slip grid.txt res.txt
+
+cp res.tgz ../results/saf125_32472.tgz
+rcp res.tgz jiyang@geo01:/home/jiyang/Dropbox/SAF/model/saf1/saf125_32472.tgz
+

@@ -1,0 +1,11 @@
+#! /bin/csh
+
+tar xzvf data0.tgz
+./umcazpartition
+
+rm stop disp-vect* curve* part?.fl* part??.fl*
+
+#bsub -n 12 -a mvapich "mpirun.lsf ./ddmliq1 >fout"
+mpirun -np 60 ./ddmliq1 > saf3
+
+

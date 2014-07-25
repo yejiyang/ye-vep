@@ -1,0 +1,11 @@
+#! /bin/csh
+
+ifort -O2 -o p123 p123.f
+./p123
+
+tar czvf res.tgz res.fl* slip grid.txt res.txt
+#tar czvf res.tgz res.fl* 
+
+rm stop slip grid.txt res.txt
+
+cp res.tgz ../results/saf3.tgz

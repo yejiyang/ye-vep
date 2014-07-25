@@ -1,0 +1,13 @@
+#! /bin/csh
+
+tar xzvf data0.tgz
+./umcazpartition
+
+rm stop
+# disp-vect* curve* part?.fl* part??.fl*
+
+#bsub -n 12 -a mvapich "mpirun.lsf ./ddmliq1 >fout"
+cp ddmliq1 saf627_1
+nohup mpirun -np 12 -hosts halite04 ./saf627_1  > saf627_1.log &
+
+

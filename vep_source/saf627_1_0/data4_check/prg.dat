@@ -1,0 +1,33 @@
+        -0.0e4                          stif1
+        -0.0e1                          stif2
+        8.75e10  0.25     1.0e25          pe1,pv1,yita1
+        8.75e10  0.25     1.0e25          pe2,pv2,yita2
+        8.75e10  0.25     1.0e25          pe3,pv3,yita3
+        8.75e10  0.25     1.0e25          pe4,pv1,yita1
+        8.75e10  0.25     1.0e25          pe5,pv2,yita2
+        8.75e10  0.25     1.0e25          pe6,pv3,yita3
+        8.75e10  0.25     1.0e25          pe7,pv3,yita3
+        8.75e10  0.25     1.0e25          pe8,pv2,yita2
+        8.75e10  0.25     1.0e25          pe9,pv3,yita3
+        8.75e10  0.25     1.0e25          #10 middle layer
+        8.75e10  0.25     1.0e25          pe1,pv1,yita1
+        8.75e10  0.25     1.0e25          pe2,pv2,yita2
+        8.75e10  0.25     1.0e25          pe3,pv3,yita3
+        8.75e10  0.25     1.0e25          pe4,pv1,yita1
+        8.75e10  0.25     1.0e25          pe5,pv2,yita2
+        8.75e10  0.25     1.0e25          pe6,pv3,yita3
+        8.75e10  0.25     1.0e25          pe7,pv3,yita3
+        8.75e10  0.25     1.0e25          pe8,pv2,yita2
+        8.75e10  0.25     1.0e25          pe9,pv3,yita3
+        8.75e10  0.25     1.0e25          #20 top layer
+        8.75e10  0.25     1.0e20          pe1,pv1,yita1
+        8.75e10  0.25     1.0e20          pe2,pv2,yita2
+        8.75e10  0.25     1.0e20          pe3,pv3,yita3
+        8.75e10  0.25     1.0e20          pe4,pv1,yita1
+        8.75e10  0.25     1.0e20          pe5,pv2,yita2
+        8.75e10  0.25     1.0e20          pe6,pv3,yita3
+        8.75e10  0.25     1.0e20          pe7,pv3,yita3
+        8.75e10  0.25     1.0e20          pe8,pv2,yita2
+        8.75e10  0.25     1.0e20          pe9,pv3,yita3
+        8.75e10  0.25     1.0e20          # 30 bottom layer
+

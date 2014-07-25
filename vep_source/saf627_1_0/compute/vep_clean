@@ -1,0 +1,6 @@
+#! /bin/bash
+
+rm *0  curve1 data0.tgz disp1 displace disp-vector1 elem0.elm fstr1 grid.txt id0 id000
+rm mdisp1 mlmddm munod1 nohup.out output* part part1.tgz partition.dat partition.flavia.msh
+rm partition.flavia.res res.* slip st0p time u1v1 munod
+rm p123 ddmliq1 umcazpartition
