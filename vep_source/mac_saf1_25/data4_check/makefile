@@ -3,10 +3,14 @@
 ##########################################################################
 #
 FEGEN       =    ..
-CC          =    icc
-F77         =    ifort
-F90         =    ifort
-FLINKER     =    ifort
+#CC          =    icc
+#F77         =    ifort
+#F90         =    ifort
+#FLINKER     =    ifort
+CC          =    gcc
+F77         =    gfortran
+F90         =    gfortran
+FLINKER     =    gfortran
 OPTFLAGS    =    -O2 -L${FEGEN}/lib
 #OPTFLAGS    =    -O2 -L${FEGEN}/lib
 #OPTFLAGS1   =    -O2 -zero -save -static -L${FEGEN}/lib

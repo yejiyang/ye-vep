@@ -1,0 +1,2022 @@
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ initializing the parallel computational environment..
+ **********  Starting MPI Master Task  ************
+ myrank=====           0
+ myrank=====           2
+ myrank=====           6
+ myrank=====           9
+ myrank=====           1
+ myrank=====           5
+ myrank=====           3
+ myrank=====           8
+ myrank=====          10
+ myrank=====           4
+ myrank=====           7
+ myrank=====          11
+ time,dt,it   157680000.00000000        157680000.00000000                1
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709730e-02
+                iter:    4           residual = 2.075189e-02
+                iter:    5           residual = 1.869503e-02
+                iter:    6           residual = 1.666432e-02
+                iter:    7           residual = 1.458573e-02
+                iter:    8           residual = 1.063393e-02
+                iter:    9           residual = 8.570675e-03
+                iter:   10           residual = 8.124572e-03
+                iter:   11           residual = 8.201244e-03
+                iter:   12           residual = 7.488525e-03
+                iter:   13           residual = 6.692753e-03
+                iter:   14           residual = 6.119256e-03
+                iter:   15           residual = 5.208270e-03
+                iter:   16           residual = 3.482866e-03
+                iter:   17           residual = 1.898123e-03
+                iter:   18           residual = 1.196284e-03
+                iter:   19           residual = 8.651501e-04
+                iter:   20           residual = 3.948374e-04
+                iter:   21           residual = 1.384095e-04
+                iter:   22           residual = 1.989803e-04
+                iter:   23           residual = 1.283937e-04
+                iter:   24           residual = 9.502866e-05
+                iter:   25           residual = 1.011019e-04
+                iter:   26           residual = 6.806853e-05
+                iter:   27           residual = 5.327181e-05
+                iter:   28           residual = 3.817695e-05
+                iter:   29           residual = 2.607475e-05
+                iter:   30           residual = 1.440054e-05
+                iter:   31           residual = 1.758039e-05
+                iter:   32           residual = 1.522437e-05
+                iter:   33           residual = 1.347251e-05
+                iter:   34           residual = 1.237756e-05
+                iter:   35           residual = 1.403107e-05
+                iter:   36           residual = 1.061440e-05
+                iter:   37           residual = 1.098551e-05
+                iter:   38           residual = 8.352109e-06
+                iter:   39           residual = 6.839884e-06
+                iter:   40           residual = 6.132442e-06
+                iter:   41           residual = 5.693600e-06
+                iter:   42           residual = 5.048117e-06
+                iter:   43           residual = 4.509373e-06
+                iter:   44           residual = 5.829745e-06
+                iter:   45           residual = 2.911600e-06
+                iter:   46           residual = 1.869988e-06
+                iter:   47           residual = 1.671760e-06
+                iter:   48           residual = 1.413712e-06
+                iter:   49           residual = 1.343183e-06
+                iter:   50           residual = 1.048210e-06
+                iter:   51           residual = 1.057123e-06
+                iter:   52           residual = 9.476634e-07
+
+
+		Solution time: 1.128460 (sec.)
+		total iterations: 52
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   576.88386058215428                1   1.0000000000000000     
+ aa  bb  ab rab =   576.88386058215428        0.0000000000000000        0.0000000000000000        2.5903936751333718E-314
+ time,dt,it   157680000.00000000        157680000.00000000                1
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709730e-02
+                iter:    4           residual = 2.075189e-02
+                iter:    5           residual = 1.869503e-02
+                iter:    6           residual = 1.666432e-02
+                iter:    7           residual = 1.458573e-02
+                iter:    8           residual = 1.063393e-02
+                iter:    9           residual = 8.570675e-03
+                iter:   10           residual = 8.124572e-03
+                iter:   11           residual = 8.201244e-03
+                iter:   12           residual = 7.488524e-03
+                iter:   13           residual = 6.692750e-03
+                iter:   14           residual = 6.119253e-03
+                iter:   15           residual = 5.208196e-03
+                iter:   16           residual = 3.483981e-03
+                iter:   17           residual = 1.894107e-03
+                iter:   18           residual = 9.254438e-04
+                iter:   19           residual = 9.345499e-04
+                iter:   20           residual = 4.278422e-04
+                iter:   21           residual = 2.762582e-04
+                iter:   22           residual = 1.848855e-04
+                iter:   23           residual = 1.379276e-04
+                iter:   24           residual = 1.038739e-04
+                iter:   25           residual = 8.879713e-05
+                iter:   26           residual = 7.442814e-05
+                iter:   27           residual = 5.971270e-05
+                iter:   28           residual = 4.420990e-05
+                iter:   29           residual = 2.826400e-05
+                iter:   30           residual = 1.789367e-05
+                iter:   31           residual = 1.826257e-05
+                iter:   32           residual = 1.622535e-05
+                iter:   33           residual = 1.496594e-05
+                iter:   34           residual = 1.392306e-05
+                iter:   35           residual = 1.284803e-05
+                iter:   36           residual = 1.122964e-05
+                iter:   37           residual = 9.325410e-06
+                iter:   38           residual = 7.416112e-06
+                iter:   39           residual = 6.222925e-06
+                iter:   40           residual = 4.606280e-06
+                iter:   41           residual = 4.340333e-06
+                iter:   42           residual = 3.984882e-06
+                iter:   43           residual = 3.604527e-06
+                iter:   44           residual = 3.195933e-06
+                iter:   45           residual = 2.758848e-06
+                iter:   46           residual = 2.307278e-06
+                iter:   47           residual = 2.065514e-06
+                iter:   48           residual = 1.816641e-06
+                iter:   49           residual = 1.626772e-06
+                iter:   50           residual = 1.401548e-06
+                iter:   51           residual = 1.294790e-06
+                iter:   52           residual = 1.206072e-06
+                iter:   53           residual = 1.082788e-06
+                iter:   54           residual = 9.557710e-07
+
+
+		Solution time: 1.180955 (sec.)
+		total iterations: 54
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.0953182402566892E-010           2  0.50000000000000000     
+ aa  bb  ab rab =   1.0953182402566892E-010   576.88386058215428        2.0103206329361844E-005   2.5137052631629876E-004
+
+ time,dt,it   315360000.00000000        157680000.00000000                2
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709732e-02
+                iter:    4           residual = 2.076869e-02
+                iter:    5           residual = 1.984241e-02
+                iter:    6           residual = 1.898834e-02
+                iter:    7           residual = 1.654060e-02
+                iter:    8           residual = 1.197402e-02
+                iter:    9           residual = 1.008776e-02
+                iter:   10           residual = 8.408260e-03
+                iter:   11           residual = 8.012851e-03
+                iter:   12           residual = 8.000519e-03
+                iter:   13           residual = 7.684099e-03
+                iter:   14           residual = 7.103029e-03
+                iter:   15           residual = 6.387433e-03
+                iter:   16           residual = 5.146151e-03
+                iter:   17           residual = 3.918524e-03
+                iter:   18           residual = 2.861278e-03
+                iter:   19           residual = 2.129027e-03
+                iter:   20           residual = 2.123045e-03
+                iter:   21           residual = 9.931527e-04
+                iter:   22           residual = 5.651615e-04
+                iter:   23           residual = 4.676059e-04
+                iter:   24           residual = 3.804923e-04
+                iter:   25           residual = 3.230645e-04
+                iter:   26           residual = 2.702874e-04
+                iter:   27           residual = 2.347370e-04
+                iter:   28           residual = 1.779983e-04
+                iter:   29           residual = 1.315301e-04
+                iter:   30           residual = 9.020126e-05
+                iter:   31           residual = 4.861440e-05
+                iter:   32           residual = 4.703336e-05
+                iter:   33           residual = 3.390090e-05
+                iter:   34           residual = 2.805723e-05
+                iter:   35           residual = 2.468703e-05
+                iter:   36           residual = 2.118753e-05
+                iter:   37           residual = 1.814708e-05
+                iter:   38           residual = 1.569079e-05
+                iter:   39           residual = 1.295399e-05
+                iter:   40           residual = 1.021079e-05
+                iter:   41           residual = 1.018404e-05
+                iter:   42           residual = 8.121850e-06
+                iter:   43           residual = 1.071671e-05
+                iter:   44           residual = 5.831376e-06
+                iter:   45           residual = 4.451071e-06
+                iter:   46           residual = 3.747634e-06
+                iter:   47           residual = 3.000956e-06
+                iter:   48           residual = 2.162912e-06
+                iter:   49           residual = 1.332018e-06
+                iter:   50           residual = 1.186590e-06
+                iter:   51           residual = 1.085435e-06
+                iter:   52           residual = 8.650172e-07
+
+
+		Solution time: 1.192334 (sec.)
+		total iterations: 52
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.0453896781520033E-007           1   1.0000000000000000     
+ aa  bb  ab rab =   1.0453896781520033E-007   2.7382956006417229E-011  -4.9480116996336368E-010   2.5903936751333718E-314
+ time,dt,it   315360000.00000000        157680000.00000000                2
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709732e-02
+                iter:    4           residual = 2.076869e-02
+                iter:    5           residual = 1.984241e-02
+                iter:    6           residual = 1.898834e-02
+                iter:    7           residual = 1.654060e-02
+                iter:    8           residual = 1.197402e-02
+                iter:    9           residual = 1.008776e-02
+                iter:   10           residual = 8.408260e-03
+                iter:   11           residual = 8.012851e-03
+                iter:   12           residual = 8.000519e-03
+                iter:   13           residual = 7.684082e-03
+                iter:   14           residual = 7.102930e-03
+                iter:   15           residual = 6.388086e-03
+                iter:   16           residual = 5.205209e-03
+                iter:   17           residual = 3.884619e-03
+                iter:   18           residual = 2.125822e-03
+                iter:   19           residual = 2.095107e-03
+                iter:   20           residual = 1.403660e-03
+                iter:   21           residual = 8.201970e-04
+                iter:   22           residual = 4.275868e-04
+                iter:   23           residual = 4.112435e-04
+                iter:   24           residual = 3.050737e-04
+                iter:   25           residual = 2.590919e-04
+                iter:   26           residual = 2.231002e-04
+                iter:   27           residual = 1.863499e-04
+                iter:   28           residual = 1.403562e-04
+                iter:   29           residual = 1.064801e-04
+                iter:   30           residual = 7.578995e-05
+                iter:   31           residual = 3.580874e-05
+                iter:   32           residual = 2.218140e-05
+                iter:   33           residual = 1.664289e-05
+                iter:   34           residual = 1.445121e-05
+                iter:   35           residual = 1.275767e-05
+                iter:   36           residual = 1.168557e-05
+                iter:   37           residual = 1.077649e-05
+                iter:   38           residual = 9.908127e-06
+                iter:   39           residual = 7.749708e-06
+                iter:   40           residual = 6.201368e-06
+                iter:   41           residual = 5.352810e-06
+                iter:   42           residual = 4.533024e-06
+                iter:   43           residual = 3.436693e-06
+                iter:   44           residual = 2.434918e-06
+                iter:   45           residual = 2.357911e-06
+                iter:   46           residual = 1.987815e-06
+                iter:   47           residual = 1.769610e-06
+                iter:   48           residual = 1.493585e-06
+                iter:   49           residual = 2.490302e-06
+                iter:   50           residual = 1.253232e-06
+                iter:   51           residual = 1.111621e-06
+                iter:   52           residual = 9.742288e-07
+
+
+		Solution time: 1.297164 (sec.)
+		total iterations: 52
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.4740645028060276E-009           2  0.25000000000000000     
+ aa  bb  ab rab =   1.4740645028060276E-009   1.0453896781520033E-007  -1.1706056767318004E-008   1.2413588587365404E-008
+
+ time,dt,it   473040000.00000000        157680000.00000000                3
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709730e-02
+                iter:    4           residual = 2.075232e-02
+                iter:    5           residual = 1.949123e-02
+                iter:    6           residual = 1.826232e-02
+                iter:    7           residual = 1.588743e-02
+                iter:    8           residual = 1.115221e-02
+                iter:    9           residual = 8.958805e-03
+                iter:   10           residual = 8.344764e-03
+                iter:   11           residual = 8.017040e-03
+                iter:   12           residual = 7.981007e-03
+                iter:   13           residual = 7.769772e-03
+                iter:   14           residual = 6.792587e-03
+                iter:   15           residual = 5.623923e-03
+                iter:   16           residual = 4.746199e-03
+                iter:   17           residual = 3.594061e-03
+                iter:   18           residual = 2.261550e-03
+                iter:   19           residual = 1.614932e-03
+                iter:   20           residual = 1.093319e-03
+                iter:   21           residual = 6.842336e-04
+                iter:   22           residual = 3.336576e-04
+                iter:   23           residual = 1.732864e-04
+                iter:   24           residual = 1.885027e-04
+                iter:   25           residual = 1.059471e-04
+                iter:   26           residual = 7.373272e-05
+                iter:   27           residual = 5.614184e-05
+                iter:   28           residual = 4.377202e-05
+                iter:   29           residual = 3.111889e-05
+                iter:   30           residual = 2.112550e-05
+                iter:   31           residual = 1.834615e-05
+                iter:   32           residual = 1.704290e-05
+                iter:   33           residual = 1.580893e-05
+                iter:   34           residual = 1.364672e-05
+                iter:   35           residual = 1.151256e-05
+                iter:   36           residual = 6.559001e-06
+                iter:   37           residual = 4.026087e-06
+                iter:   38           residual = 4.433803e-06
+                iter:   39           residual = 2.801894e-06
+                iter:   40           residual = 2.055242e-06
+                iter:   41           residual = 1.876475e-06
+                iter:   42           residual = 1.964897e-06
+                iter:   43           residual = 1.120679e-06
+                iter:   44           residual = 7.913656e-07
+
+
+		Solution time: 1.097723 (sec.)
+		total iterations: 44
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   2.6833210748710902E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   2.6833210748710902E-009   9.2129031425376724E-011  -3.4367763950857792E-010   2.5903936751333718E-314
+
+ time,dt,it   630720000.00000000        157680000.00000000                4
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709735e-02
+                iter:    4           residual = 2.076172e-02
+                iter:    5           residual = 1.982740e-02
+                iter:    6           residual = 1.896859e-02
+                iter:    7           residual = 1.653098e-02
+                iter:    8           residual = 1.195943e-02
+                iter:    9           residual = 9.962119e-03
+                iter:   10           residual = 8.439913e-03
+                iter:   11           residual = 8.110825e-03
+                iter:   12           residual = 7.828648e-03
+                iter:   13           residual = 7.526314e-03
+                iter:   14           residual = 7.228812e-03
+                iter:   15           residual = 6.500214e-03
+                iter:   16           residual = 5.392344e-03
+                iter:   17           residual = 3.694062e-03
+                iter:   18           residual = 2.808344e-03
+                iter:   19           residual = 1.953369e-03
+                iter:   20           residual = 1.965283e-03
+                iter:   21           residual = 9.734610e-04
+                iter:   22           residual = 6.558374e-04
+                iter:   23           residual = 4.350055e-04
+                iter:   24           residual = 3.148818e-04
+                iter:   25           residual = 2.139480e-04
+                iter:   26           residual = 1.495937e-04
+                iter:   27           residual = 1.491627e-04
+                iter:   28           residual = 8.377796e-05
+                iter:   29           residual = 4.958588e-05
+                iter:   30           residual = 3.817234e-05
+                iter:   31           residual = 2.885245e-05
+                iter:   32           residual = 1.857239e-05
+                iter:   33           residual = 1.142294e-05
+                iter:   34           residual = 7.414667e-06
+                iter:   35           residual = 6.908668e-06
+                iter:   36           residual = 6.328800e-06
+                iter:   37           residual = 5.883742e-06
+                iter:   38           residual = 5.376598e-06
+                iter:   39           residual = 6.556690e-06
+                iter:   40           residual = 1.578898e-06
+                iter:   41           residual = 2.925561e-06
+                iter:   42           residual = 7.675917e-07
+
+
+		Solution time: 1.047450 (sec.)
+		total iterations: 42
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.5907927108055827E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   1.5907927108055827E-008   2.6833210748710902E-009   7.4437792230947204E-010   2.5903936751333718E-314
+
+ time,dt,it   788400000.00000000        157680000.00000000                5
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709767e-02
+                iter:    4           residual = 2.090238e-02
+                iter:    5           residual = 1.998121e-02
+                iter:    6           residual = 1.903638e-02
+                iter:    7           residual = 1.652127e-02
+                iter:    8           residual = 1.383914e-02
+                iter:    9           residual = 1.014786e-02
+                iter:   10           residual = 8.431005e-03
+                iter:   11           residual = 8.063885e-03
+                iter:   12           residual = 8.111245e-03
+                iter:   13           residual = 7.953156e-03
+                iter:   14           residual = 7.430141e-03
+                iter:   15           residual = 6.556100e-03
+                iter:   16           residual = 5.612475e-03
+                iter:   17           residual = 4.095547e-03
+                iter:   18           residual = 2.888971e-03
+                iter:   19           residual = 1.999009e-03
+                iter:   20           residual = 1.008684e-03
+                iter:   21           residual = 2.026671e-03
+                iter:   22           residual = 2.242461e-04
+                iter:   23           residual = 1.267464e-04
+                iter:   24           residual = 8.700847e-05
+                iter:   25           residual = 2.356749e-04
+                iter:   26           residual = 4.087080e-05
+                iter:   27           residual = 2.794097e-05
+                iter:   28           residual = 2.166452e-05
+                iter:   29           residual = 1.714792e-05
+                iter:   30           residual = 1.670282e-05
+                iter:   31           residual = 1.216011e-05
+                iter:   32           residual = 1.051001e-05
+                iter:   33           residual = 9.421015e-06
+                iter:   34           residual = 8.500683e-06
+                iter:   35           residual = 7.477134e-06
+                iter:   36           residual = 6.454791e-06
+                iter:   37           residual = 7.661079e-06
+                iter:   38           residual = 3.490389e-06
+                iter:   39           residual = 2.178779e-06
+                iter:   40           residual = 1.959384e-06
+                iter:   41           residual = 1.877453e-06
+                iter:   42           residual = 1.865189e-06
+                iter:   43           residual = 1.378385e-06
+                iter:   44           residual = 1.052038e-06
+                iter:   45           residual = 8.469993e-07
+
+
+		Solution time: 1.113083 (sec.)
+		total iterations: 45
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   8.5506500790062450E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   8.5506500790062450E-008   1.5907927108055827E-008  -2.9137866695452622E-008   2.5903936751333718E-314
+ time,dt,it   788400000.00000000        157680000.00000000                5
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709767e-02
+                iter:    4           residual = 2.090238e-02
+                iter:    5           residual = 1.998121e-02
+                iter:    6           residual = 1.903638e-02
+                iter:    7           residual = 1.652127e-02
+                iter:    8           residual = 1.383914e-02
+                iter:    9           residual = 1.014786e-02
+                iter:   10           residual = 8.431005e-03
+                iter:   11           residual = 8.063885e-03
+                iter:   12           residual = 8.111245e-03
+                iter:   13           residual = 7.953155e-03
+                iter:   14           residual = 7.430169e-03
+                iter:   15           residual = 6.556066e-03
+                iter:   16           residual = 5.609605e-03
+                iter:   17           residual = 4.108064e-03
+                iter:   18           residual = 2.620270e-03
+                iter:   19           residual = 2.092335e-03
+                iter:   20           residual = 1.184661e-03
+                iter:   21           residual = 1.684507e-03
+                iter:   22           residual = 4.327312e-04
+                iter:   23           residual = 2.383838e-04
+                iter:   24           residual = 1.830013e-04
+                iter:   25           residual = 4.267124e-04
+                iter:   26           residual = 5.353981e-05
+                iter:   27           residual = 3.770999e-05
+                iter:   28           residual = 3.038952e-05
+                iter:   29           residual = 2.462329e-05
+                iter:   30           residual = 1.864105e-05
+                iter:   31           residual = 1.700209e-05
+                iter:   32           residual = 1.369527e-05
+                iter:   33           residual = 1.228992e-05
+                iter:   34           residual = 1.089990e-05
+                iter:   35           residual = 1.483187e-05
+                iter:   36           residual = 4.162081e-06
+                iter:   37           residual = 2.816373e-06
+                iter:   38           residual = 2.140470e-06
+                iter:   39           residual = 1.917167e-06
+                iter:   40           residual = 1.561236e-06
+                iter:   41           residual = 1.458906e-06
+                iter:   42           residual = 1.292740e-06
+                iter:   43           residual = 1.127152e-06
+                iter:   44           residual = 1.229303e-06
+                iter:   45           residual = 7.088889e-07
+
+
+		Solution time: 1.098210 (sec.)
+		total iterations: 45
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   6.4170717185496950E-009           2  0.25000000000000000     
+ aa  bb  ab rab =   6.4170717185496950E-009   8.5506500790062450E-008  -1.3671533141754314E-008   2.3424375081783015E-008
+
+ time,dt,it   946080000.00000000        157680000.00000000                6
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709751e-02
+                iter:    4           residual = 2.085416e-02
+                iter:    5           residual = 1.993319e-02
+                iter:    6           residual = 1.901977e-02
+                iter:    7           residual = 1.652344e-02
+                iter:    8           residual = 1.359022e-02
+                iter:    9           residual = 1.026534e-02
+                iter:   10           residual = 8.575566e-03
+                iter:   11           residual = 8.219450e-03
+                iter:   12           residual = 8.189816e-03
+                iter:   13           residual = 6.779153e-03
+                iter:   14           residual = 5.429335e-03
+                iter:   15           residual = 4.857659e-03
+                iter:   16           residual = 4.115336e-03
+                iter:   17           residual = 2.933179e-03
+                iter:   18           residual = 4.246711e-03
+                iter:   19           residual = 1.472661e-03
+                iter:   20           residual = 7.408147e-04
+                iter:   21           residual = 3.354451e-04
+                iter:   22           residual = 3.330564e-04
+                iter:   23           residual = 2.030641e-04
+                iter:   24           residual = 1.477024e-04
+                iter:   25           residual = 1.197395e-04
+                iter:   26           residual = 1.033963e-04
+                iter:   27           residual = 8.369793e-05
+                iter:   28           residual = 6.621645e-05
+                iter:   29           residual = 5.040148e-05
+                iter:   30           residual = 3.389393e-05
+                iter:   31           residual = 2.142742e-05
+                iter:   32           residual = 1.334883e-05
+                iter:   33           residual = 8.913903e-06
+                iter:   34           residual = 7.757565e-06
+                iter:   35           residual = 6.976597e-06
+                iter:   36           residual = 6.379019e-06
+                iter:   37           residual = 5.751341e-06
+                iter:   38           residual = 4.690870e-06
+                iter:   39           residual = 3.755563e-06
+                iter:   40           residual = 3.697691e-06
+                iter:   41           residual = 3.239188e-06
+                iter:   42           residual = 2.847521e-06
+                iter:   43           residual = 2.475143e-06
+                iter:   44           residual = 2.003612e-06
+                iter:   45           residual = 1.571302e-06
+                iter:   46           residual = 1.547134e-06
+                iter:   47           residual = 1.299820e-06
+                iter:   48           residual = 1.198657e-06
+                iter:   49           residual = 5.997456e-07
+
+
+		Solution time: 1.215866 (sec.)
+		total iterations: 49
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   6.2682589906934731E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   6.2682589906934731E-008   4.0106698240935594E-010   4.5891754011232908E-009   2.5903936751333718E-314
+ time,dt,it   946080000.00000000        157680000.00000000                6
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709751e-02
+                iter:    4           residual = 2.085416e-02
+                iter:    5           residual = 1.993319e-02
+                iter:    6           residual = 1.901977e-02
+                iter:    7           residual = 1.652344e-02
+                iter:    8           residual = 1.359022e-02
+                iter:    9           residual = 1.026534e-02
+                iter:   10           residual = 8.575566e-03
+                iter:   11           residual = 8.219450e-03
+                iter:   12           residual = 8.189816e-03
+                iter:   13           residual = 6.779155e-03
+                iter:   14           residual = 5.429336e-03
+                iter:   15           residual = 4.857594e-03
+                iter:   16           residual = 4.107630e-03
+                iter:   17           residual = 2.954724e-03
+                iter:   18           residual = 2.929292e-03
+                iter:   19           residual = 1.475953e-03
+                iter:   20           residual = 7.397924e-04
+                iter:   21           residual = 3.632867e-04
+                iter:   22           residual = 2.457273e-04
+                iter:   23           residual = 1.875203e-04
+                iter:   24           residual = 1.376062e-04
+                iter:   25           residual = 1.037461e-04
+                iter:   26           residual = 8.641378e-05
+                iter:   27           residual = 6.763667e-05
+                iter:   28           residual = 5.354955e-05
+                iter:   29           residual = 4.192864e-05
+                iter:   30           residual = 2.882738e-05
+                iter:   31           residual = 2.333613e-05
+                iter:   32           residual = 2.014147e-05
+                iter:   33           residual = 1.759480e-05
+                iter:   34           residual = 1.611379e-05
+                iter:   35           residual = 1.454598e-05
+                iter:   36           residual = 1.329302e-05
+                iter:   37           residual = 1.135260e-05
+                iter:   38           residual = 9.789536e-06
+                iter:   39           residual = 8.965015e-06
+                iter:   40           residual = 7.975561e-06
+                iter:   41           residual = 7.103487e-06
+                iter:   42           residual = 6.011790e-06
+                iter:   43           residual = 4.760868e-06
+                iter:   44           residual = 3.587965e-06
+                iter:   45           residual = 1.774630e-06
+                iter:   46           residual = 1.283074e-06
+                iter:   47           residual = 7.630131e-07
+
+
+		Solution time: 1.177945 (sec.)
+		total iterations: 47
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.8582281268095441E-008           2  0.25000000000000000     
+ aa  bb  ab rab =   1.8582281268095441E-008   6.2682589906934731E-008  -3.0819046078734195E-008   3.4128954221647955E-008
+
+ time,dt,it   1103760000.0000000        157680000.00000000                7
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709984e-02
+                iter:    4           residual = 2.114693e-02
+                iter:    5           residual = 2.025005e-02
+                iter:    6           residual = 1.936061e-02
+                iter:    7           residual = 1.705480e-02
+                iter:    8           residual = 1.283940e-02
+                iter:    9           residual = 1.018943e-02
+                iter:   10           residual = 9.100441e-03
+                iter:   11           residual = 8.087167e-03
+                iter:   12           residual = 7.324804e-03
+                iter:   13           residual = 6.907065e-03
+                iter:   14           residual = 6.442375e-03
+                iter:   15           residual = 6.013224e-03
+                iter:   16           residual = 5.316059e-03
+                iter:   17           residual = 3.972383e-03
+                iter:   18           residual = 2.761593e-03
+                iter:   19           residual = 1.719828e-03
+                iter:   20           residual = 1.110284e-03
+                iter:   21           residual = 4.403485e-04
+                iter:   22           residual = 4.538083e-04
+                iter:   23           residual = 2.626939e-04
+                iter:   24           residual = 1.584347e-04
+                iter:   25           residual = 1.022452e-04
+                iter:   26           residual = 7.983724e-05
+                iter:   27           residual = 6.762689e-05
+                iter:   28           residual = 5.186994e-05
+                iter:   29           residual = 3.679717e-05
+                iter:   30           residual = 2.785821e-05
+                iter:   31           residual = 2.116223e-05
+                iter:   32           residual = 1.955084e-05
+                iter:   33           residual = 1.597630e-05
+                iter:   34           residual = 1.448557e-05
+                iter:   35           residual = 1.322354e-05
+                iter:   36           residual = 1.191035e-05
+                iter:   37           residual = 1.059837e-05
+                iter:   38           residual = 9.521093e-06
+                iter:   39           residual = 8.362737e-06
+                iter:   40           residual = 8.254145e-06
+                iter:   41           residual = 6.636360e-06
+                iter:   42           residual = 5.544617e-06
+                iter:   43           residual = 4.893928e-06
+                iter:   44           residual = 3.990515e-06
+                iter:   45           residual = 3.283210e-06
+                iter:   46           residual = 2.231531e-06
+                iter:   47           residual = 5.533247e-07
+
+
+		Solution time: 1.163663 (sec.)
+		total iterations: 47
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.5584591511764671E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   1.5584591511764671E-009   1.1613925792559651E-009   9.3788838916634543E-011   2.5903936751333718E-314
+
+ time,dt,it   1261440000.0000000        157680000.00000000                8
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709881e-02
+                iter:    4           residual = 2.108218e-02
+                iter:    5           residual = 2.017478e-02
+                iter:    6           residual = 1.923479e-02
+                iter:    7           residual = 1.678791e-02
+                iter:    8           residual = 1.448732e-02
+                iter:    9           residual = 1.011653e-02
+                iter:   10           residual = 8.489515e-03
+                iter:   11           residual = 8.104218e-03
+                iter:   12           residual = 7.411700e-03
+                iter:   13           residual = 6.628315e-03
+                iter:   14           residual = 6.186396e-03
+                iter:   15           residual = 5.579353e-03
+                iter:   16           residual = 4.460570e-03
+                iter:   17           residual = 2.851850e-03
+                iter:   18           residual = 3.053641e-03
+                iter:   19           residual = 1.959141e-03
+                iter:   20           residual = 1.202666e-03
+                iter:   21           residual = 8.718013e-04
+                iter:   22           residual = 5.195844e-04
+                iter:   23           residual = 3.811628e-04
+                iter:   24           residual = 2.826638e-04
+                iter:   25           residual = 2.339292e-04
+                iter:   26           residual = 1.880206e-04
+                iter:   27           residual = 1.429954e-04
+                iter:   28           residual = 1.897646e-04
+                iter:   29           residual = 4.864826e-05
+                iter:   30           residual = 2.526369e-05
+                iter:   31           residual = 2.375583e-05
+                iter:   32           residual = 1.866204e-05
+                iter:   33           residual = 1.763463e-05
+                iter:   34           residual = 1.210639e-05
+                iter:   35           residual = 9.070486e-06
+                iter:   36           residual = 8.444569e-06
+                iter:   37           residual = 7.563931e-06
+                iter:   38           residual = 6.709459e-06
+                iter:   39           residual = 5.946627e-06
+                iter:   40           residual = 4.899306e-06
+                iter:   41           residual = 3.268184e-06
+                iter:   42           residual = 1.948623e-06
+                iter:   43           residual = 1.621651e-06
+                iter:   44           residual = 1.315438e-06
+                iter:   45           residual = 1.089348e-06
+                iter:   46           residual = 1.070445e-06
+                iter:   47           residual = 7.297096e-07
+
+
+		Solution time: 1.175402 (sec.)
+		total iterations: 47
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   6.3525463307724403E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   6.3525463307724403E-008   1.5584591511764671E-009  -1.6043375971864847E-009   2.5903936751333718E-314
+ time,dt,it   1261440000.0000000        157680000.00000000                8
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709881e-02
+                iter:    4           residual = 2.108218e-02
+                iter:    5           residual = 2.017478e-02
+                iter:    6           residual = 1.923479e-02
+                iter:    7           residual = 1.678791e-02
+                iter:    8           residual = 1.448732e-02
+                iter:    9           residual = 1.011653e-02
+                iter:   10           residual = 8.489515e-03
+                iter:   11           residual = 8.104218e-03
+                iter:   12           residual = 7.411700e-03
+                iter:   13           residual = 6.628315e-03
+                iter:   14           residual = 6.186399e-03
+                iter:   15           residual = 5.579643e-03
+                iter:   16           residual = 4.495351e-03
+                iter:   17           residual = 3.296635e-03
+                iter:   18           residual = 3.340191e-03
+                iter:   19           residual = 1.107833e-03
+                iter:   20           residual = 6.502267e-04
+                iter:   21           residual = 4.551452e-04
+                iter:   22           residual = 2.709925e-04
+                iter:   23           residual = 2.077035e-04
+                iter:   24           residual = 1.477591e-04
+                iter:   25           residual = 1.102146e-04
+                iter:   26           residual = 6.336988e-05
+                iter:   27           residual = 3.513648e-05
+                iter:   28           residual = 4.797748e-05
+                iter:   29           residual = 2.003335e-05
+                iter:   30           residual = 1.147941e-05
+                iter:   31           residual = 8.846814e-06
+                iter:   32           residual = 8.128701e-06
+                iter:   33           residual = 8.652925e-06
+                iter:   34           residual = 6.844364e-06
+                iter:   35           residual = 6.558369e-06
+                iter:   36           residual = 5.468495e-06
+                iter:   37           residual = 4.505406e-06
+                iter:   38           residual = 3.993362e-06
+                iter:   39           residual = 3.528162e-06
+                iter:   40           residual = 2.662233e-06
+                iter:   41           residual = 2.717100e-06
+                iter:   42           residual = 2.149165e-06
+                iter:   43           residual = 1.972069e-06
+                iter:   44           residual = 1.625968e-06
+                iter:   45           residual = 1.601306e-06
+                iter:   46           residual = 1.256956e-06
+                iter:   47           residual = 1.085430e-06
+                iter:   48           residual = 9.421713e-07
+
+
+		Solution time: 1.203286 (sec.)
+		total iterations: 48
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.0564538890730458E-008           2   1.0000000000000000     
+ aa  bb  ab rab =   1.0564538890730458E-008   6.3525463307724403E-008   2.5111761994596628E-008   2.5905930357084750E-008
+
+ time,dt,it   1419120000.0000000        157680000.00000000                9
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709785e-02
+                iter:    4           residual = 2.095028e-02
+                iter:    5           residual = 2.003045e-02
+                iter:    6           residual = 1.906831e-02
+                iter:    7           residual = 1.654876e-02
+                iter:    8           residual = 1.385976e-02
+                iter:    9           residual = 9.971964e-03
+                iter:   10           residual = 8.325046e-03
+                iter:   11           residual = 7.921483e-03
+                iter:   12           residual = 7.756719e-03
+                iter:   13           residual = 7.393177e-03
+                iter:   14           residual = 6.731845e-03
+                iter:   15           residual = 6.547497e-03
+                iter:   16           residual = 5.064319e-03
+                iter:   17           residual = 3.837352e-03
+                iter:   18           residual = 2.832927e-03
+                iter:   19           residual = 2.136306e-03
+                iter:   20           residual = 1.429637e-03
+                iter:   21           residual = 8.369444e-04
+                iter:   22           residual = 7.933028e-04
+                iter:   23           residual = 4.977132e-04
+                iter:   24           residual = 3.513740e-04
+                iter:   25           residual = 3.278305e-04
+                iter:   26           residual = 2.570684e-04
+                iter:   27           residual = 2.126115e-04
+                iter:   28           residual = 1.570045e-04
+                iter:   29           residual = 1.120278e-04
+                iter:   30           residual = 7.553523e-05
+                iter:   31           residual = 4.763533e-05
+                iter:   32           residual = 3.656606e-05
+                iter:   33           residual = 2.589908e-05
+                iter:   34           residual = 1.824942e-05
+                iter:   35           residual = 1.430055e-05
+                iter:   36           residual = 1.131859e-05
+                iter:   37           residual = 9.992990e-06
+                iter:   38           residual = 8.604670e-06
+                iter:   39           residual = 7.441170e-06
+                iter:   40           residual = 6.660124e-06
+                iter:   41           residual = 5.874325e-06
+                iter:   42           residual = 5.072249e-06
+                iter:   43           residual = 4.353128e-06
+                iter:   44           residual = 3.486894e-06
+                iter:   45           residual = 3.001342e-06
+                iter:   46           residual = 2.568913e-06
+                iter:   47           residual = 2.264832e-06
+                iter:   48           residual = 2.035452e-06
+                iter:   49           residual = 1.720291e-06
+                iter:   50           residual = 1.580253e-06
+                iter:   51           residual = 1.239672e-06
+                iter:   52           residual = 1.041842e-06
+                iter:   53           residual = 8.534126e-07
+
+
+		Solution time: 1.324480 (sec.)
+		total iterations: 53
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   6.8816634343153266E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   6.8816634343153266E-008   1.0564538890730458E-008  -2.6499954420055203E-008   2.5903936751333718E-314
+ time,dt,it   1419120000.0000000        157680000.00000000                9
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709785e-02
+                iter:    4           residual = 2.095028e-02
+                iter:    5           residual = 2.003045e-02
+                iter:    6           residual = 1.906831e-02
+                iter:    7           residual = 1.654876e-02
+                iter:    8           residual = 1.385976e-02
+                iter:    9           residual = 9.971964e-03
+                iter:   10           residual = 8.325046e-03
+                iter:   11           residual = 7.921483e-03
+                iter:   12           residual = 7.756719e-03
+                iter:   13           residual = 7.393175e-03
+                iter:   14           residual = 6.731398e-03
+                iter:   15           residual = 6.546041e-03
+                iter:   16           residual = 5.055212e-03
+                iter:   17           residual = 3.764043e-03
+                iter:   18           residual = 1.883519e-03
+                iter:   19           residual = 1.728875e-03
+                iter:   20           residual = 1.033761e-03
+                iter:   21           residual = 5.688323e-04
+                iter:   22           residual = 3.565682e-04
+                iter:   23           residual = 1.503133e-04
+                iter:   24           residual = 7.595947e-05
+                iter:   25           residual = 8.208069e-05
+                iter:   26           residual = 6.592444e-05
+                iter:   27           residual = 5.711025e-05
+                iter:   28           residual = 4.634109e-05
+                iter:   29           residual = 3.711954e-05
+                iter:   30           residual = 2.887907e-05
+                iter:   31           residual = 2.197622e-05
+                iter:   32           residual = 2.187693e-05
+                iter:   33           residual = 1.509880e-05
+                iter:   34           residual = 1.151871e-05
+                iter:   35           residual = 8.617084e-06
+                iter:   36           residual = 6.602095e-06
+                iter:   37           residual = 6.144372e-06
+                iter:   38           residual = 5.506570e-06
+                iter:   39           residual = 5.048992e-06
+                iter:   40           residual = 4.545931e-06
+                iter:   41           residual = 4.098185e-06
+                iter:   42           residual = 3.767902e-06
+                iter:   43           residual = 3.337808e-06
+                iter:   44           residual = 2.909957e-06
+                iter:   45           residual = 2.435564e-06
+                iter:   46           residual = 2.054035e-06
+                iter:   47           residual = 1.821271e-06
+                iter:   48           residual = 1.538619e-06
+                iter:   49           residual = 1.222619e-06
+                iter:   50           residual = 8.799813e-07
+
+
+		Solution time: 1.239644 (sec.)
+		total iterations: 50
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   3.5037417888860593E-010           2  0.25000000000000000     
+ aa  bb  ab rab =   3.5037417888860593E-010   6.8816634343153266E-008  -3.1687317357274347E-009   4.9103535261587588E-009
+
+ time,dt,it   1576800000.0000000        157680000.00000000               10
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709733e-02
+                iter:    4           residual = 2.077206e-02
+                iter:    5           residual = 1.984765e-02
+                iter:    6           residual = 1.899295e-02
+                iter:    7           residual = 1.654275e-02
+                iter:    8           residual = 1.209214e-02
+                iter:    9           residual = 1.009752e-02
+                iter:   10           residual = 8.393214e-03
+                iter:   11           residual = 7.975728e-03
+                iter:   12           residual = 7.939930e-03
+                iter:   13           residual = 7.690639e-03
+                iter:   14           residual = 7.137815e-03
+                iter:   15           residual = 6.085621e-03
+                iter:   16           residual = 5.199693e-03
+                iter:   17           residual = 3.888786e-03
+                iter:   18           residual = 3.039670e-03
+                iter:   19           residual = 2.015391e-03
+                iter:   20           residual = 2.331994e-03
+                iter:   21           residual = 9.379398e-04
+                iter:   22           residual = 6.145296e-04
+                iter:   23           residual = 4.654844e-04
+                iter:   24           residual = 3.837406e-04
+                iter:   25           residual = 2.936511e-04
+                iter:   26           residual = 2.290547e-04
+                iter:   27           residual = 1.831235e-04
+                iter:   28           residual = 1.904266e-04
+                iter:   29           residual = 1.199890e-04
+                iter:   30           residual = 7.736463e-05
+                iter:   31           residual = 5.003564e-05
+                iter:   32           residual = 4.166204e-05
+                iter:   33           residual = 3.560115e-05
+                iter:   34           residual = 3.134697e-05
+                iter:   35           residual = 2.660035e-05
+                iter:   36           residual = 2.331782e-05
+                iter:   37           residual = 2.092406e-05
+                iter:   38           residual = 1.743299e-05
+                iter:   39           residual = 1.482002e-05
+                iter:   40           residual = 1.322723e-05
+                iter:   41           residual = 1.141027e-05
+                iter:   42           residual = 9.771815e-06
+                iter:   43           residual = 8.401213e-06
+                iter:   44           residual = 6.749950e-06
+                iter:   45           residual = 5.356051e-06
+                iter:   46           residual = 4.537161e-06
+                iter:   47           residual = 3.948242e-06
+                iter:   48           residual = 3.570527e-06
+                iter:   49           residual = 3.156174e-06
+                iter:   50           residual = 2.809804e-06
+                iter:   51           residual = 1.539960e-06
+                iter:   52           residual = 1.741893e-05
+                iter:   53           residual = 7.781354e-07
+
+
+		Solution time: 1.321122 (sec.)
+		total iterations: 53
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   2.7244767675919486E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   2.7244767675919486E-009   2.1898386180537871E-011   1.6448656207977773E-010   2.5903936751333718E-314
+
+ time,dt,it   1734480000.0000000        157680000.00000000               11
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709731e-02
+                iter:    4           residual = 2.076062e-02
+                iter:    5           residual = 1.982320e-02
+                iter:    6           residual = 1.896239e-02
+                iter:    7           residual = 1.652262e-02
+                iter:    8           residual = 1.175166e-02
+                iter:    9           residual = 1.000974e-02
+                iter:   10           residual = 8.434414e-03
+                iter:   11           residual = 8.039908e-03
+                iter:   12           residual = 8.068255e-03
+                iter:   13           residual = 7.896256e-03
+                iter:   14           residual = 7.542029e-03
+                iter:   15           residual = 6.791234e-03
+                iter:   16           residual = 5.516024e-03
+                iter:   17           residual = 4.067593e-03
+                iter:   18           residual = 2.304014e-03
+                iter:   19           residual = 1.802782e-03
+                iter:   20           residual = 1.017744e-03
+                iter:   21           residual = 6.143141e-04
+                iter:   22           residual = 3.730205e-04
+                iter:   23           residual = 1.854006e-04
+                iter:   24           residual = 1.132688e-04
+                iter:   25           residual = 9.149742e-05
+                iter:   26           residual = 7.210269e-05
+                iter:   27           residual = 7.395358e-05
+                iter:   28           residual = 4.831511e-05
+                iter:   29           residual = 3.498810e-05
+                iter:   30           residual = 2.670603e-05
+                iter:   31           residual = 2.087535e-05
+                iter:   32           residual = 1.759248e-05
+                iter:   33           residual = 1.506153e-05
+                iter:   34           residual = 1.342198e-05
+                iter:   35           residual = 9.728027e-06
+                iter:   36           residual = 1.124512e-05
+                iter:   37           residual = 9.719939e-06
+                iter:   38           residual = 8.864199e-06
+                iter:   39           residual = 7.829480e-06
+                iter:   40           residual = 4.059996e-05
+                iter:   41           residual = 6.407552e-06
+                iter:   42           residual = 5.380157e-06
+                iter:   43           residual = 5.312419e-06
+                iter:   44           residual = 4.420212e-06
+                iter:   45           residual = 3.616790e-06
+                iter:   46           residual = 3.141749e-06
+                iter:   47           residual = 2.226266e-06
+                iter:   48           residual = 1.529528e-06
+                iter:   49           residual = 1.513089e-06
+                iter:   50           residual = 1.429604e-06
+                iter:   51           residual = 1.157003e-06
+                iter:   52           residual = 9.457249e-07
+
+
+		Solution time: 1.287595 (sec.)
+		total iterations: 52
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.0679851512067271E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   1.0679851512067271E-008   2.7244767675919486E-009  -4.3364048442341251E-009   2.5903936751333718E-314
+
+ time,dt,it   1892160000.0000000        157680000.00000000               12
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709761e-02
+                iter:    4           residual = 2.088522e-02
+                iter:    5           residual = 1.996387e-02
+                iter:    6           residual = 1.902805e-02
+                iter:    7           residual = 1.651526e-02
+                iter:    8           residual = 1.374260e-02
+                iter:    9           residual = 1.020705e-02
+                iter:   10           residual = 8.517600e-03
+                iter:   11           residual = 8.179195e-03
+                iter:   12           residual = 8.229133e-03
+                iter:   13           residual = 8.094050e-03
+                iter:   14           residual = 6.785648e-03
+                iter:   15           residual = 5.445804e-03
+                iter:   16           residual = 4.541647e-03
+                iter:   17           residual = 3.454000e-03
+                iter:   18           residual = 2.754948e-03
+                iter:   19           residual = 1.847935e-03
+                iter:   20           residual = 1.013376e-03
+                iter:   21           residual = 5.059715e-04
+                iter:   22           residual = 4.478892e-04
+                iter:   23           residual = 2.440435e-04
+                iter:   24           residual = 1.477579e-04
+                iter:   25           residual = 9.744327e-05
+                iter:   26           residual = 8.415753e-05
+                iter:   27           residual = 6.579414e-05
+                iter:   28           residual = 6.444829e-05
+                iter:   29           residual = 4.250858e-05
+                iter:   30           residual = 3.004271e-05
+                iter:   31           residual = 2.504352e-05
+                iter:   32           residual = 2.175931e-05
+                iter:   33           residual = 1.861132e-05
+                iter:   34           residual = 1.642824e-05
+                iter:   35           residual = 1.504642e-05
+                iter:   36           residual = 1.302432e-05
+                iter:   37           residual = 1.079962e-05
+                iter:   38           residual = 9.469486e-06
+                iter:   39           residual = 8.420440e-06
+                iter:   40           residual = 7.692149e-06
+                iter:   41           residual = 6.909726e-06
+                iter:   42           residual = 1.534756e-05
+                iter:   43           residual = 3.739464e-06
+                iter:   44           residual = 2.142845e-06
+                iter:   45           residual = 2.144320e-06
+                iter:   46           residual = 1.221159e-06
+                iter:   47           residual = 7.775714e-07
+
+
+		Solution time: 1.163403 (sec.)
+		total iterations: 47
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.2432603991842269E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   1.2432603991842269E-008   1.0679851512067271E-008  -1.0946183216677567E-008   2.5903936751333718E-314
+
+ time,dt,it   2049840000.0000000        157680000.00000000               13
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709738e-02
+                iter:    4           residual = 2.080036e-02
+                iter:    5           residual = 1.987989e-02
+                iter:    6           residual = 1.900603e-02
+                iter:    7           residual = 1.653491e-02
+                iter:    8           residual = 1.269538e-02
+                iter:    9           residual = 1.017054e-02
+                iter:   10           residual = 8.376931e-03
+                iter:   11           residual = 7.888423e-03
+                iter:   12           residual = 7.677323e-03
+                iter:   13           residual = 7.489746e-03
+                iter:   14           residual = 6.719154e-03
+                iter:   15           residual = 5.729173e-03
+                iter:   16           residual = 4.471626e-03
+                iter:   17           residual = 3.592154e-03
+                iter:   18           residual = 1.833959e-03
+                iter:   19           residual = 1.917678e-03
+                iter:   20           residual = 1.067522e-03
+                iter:   21           residual = 6.483359e-04
+                iter:   22           residual = 2.989059e-04
+                iter:   23           residual = 1.853563e-04
+                iter:   24           residual = 1.469695e-04
+                iter:   25           residual = 1.130668e-04
+                iter:   26           residual = 8.961763e-05
+                iter:   27           residual = 4.087070e-05
+                iter:   28           residual = 1.710284e-04
+                iter:   29           residual = 3.055912e-05
+                iter:   30           residual = 3.829395e-05
+                iter:   31           residual = 2.201412e-05
+                iter:   32           residual = 1.617184e-05
+                iter:   33           residual = 1.301218e-05
+                iter:   34           residual = 1.199397e-05
+                iter:   35           residual = 1.131155e-05
+                iter:   36           residual = 1.028386e-05
+                iter:   37           residual = 9.875416e-06
+                iter:   38           residual = 8.296688e-06
+                iter:   39           residual = 7.814651e-06
+                iter:   40           residual = 6.313018e-06
+                iter:   41           residual = 5.195445e-06
+                iter:   42           residual = 4.171923e-06
+                iter:   43           residual = 3.210637e-06
+                iter:   44           residual = 2.665231e-06
+                iter:   45           residual = 2.203380e-06
+                iter:   46           residual = 1.829676e-06
+                iter:   47           residual = 1.581262e-06
+                iter:   48           residual = 1.375725e-06
+                iter:   49           residual = 1.164775e-06
+                iter:   50           residual = 1.154999e-06
+                iter:   51           residual = 1.009784e-06
+                iter:   52           residual = 8.793040e-07
+
+
+		Solution time: 1.275779 (sec.)
+		total iterations: 52
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   7.3622070372589807E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   7.3622070372589807E-009   1.2432603991842269E-008  -9.5083656939879427E-009   2.5903936751333718E-314
+
+ time,dt,it   2207520000.0000000        157680000.00000000               14
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709736e-02
+                iter:    4           residual = 2.078889e-02
+                iter:    5           residual = 1.986789e-02
+                iter:    6           residual = 1.900309e-02
+                iter:    7           residual = 1.654151e-02
+                iter:    8           residual = 1.258616e-02
+                iter:    9           residual = 1.014078e-02
+                iter:   10           residual = 8.372289e-03
+                iter:   11           residual = 7.901545e-03
+                iter:   12           residual = 7.759851e-03
+                iter:   13           residual = 7.432584e-03
+                iter:   14           residual = 6.879327e-03
+                iter:   15           residual = 6.260085e-03
+                iter:   16           residual = 5.556513e-03
+                iter:   17           residual = 4.030074e-03
+                iter:   18           residual = 2.552284e-03
+                iter:   19           residual = 2.373320e-03
+                iter:   20           residual = 1.599766e-03
+                iter:   21           residual = 9.049937e-04
+                iter:   22           residual = 5.642103e-04
+                iter:   23           residual = 2.832976e-04
+                iter:   24           residual = 1.475661e-04
+                iter:   25           residual = 1.427673e-04
+                iter:   26           residual = 1.103234e-04
+                iter:   27           residual = 8.826147e-05
+                iter:   28           residual = 7.136739e-05
+                iter:   29           residual = 4.525028e-05
+                iter:   30           residual = 4.297043e-05
+                iter:   31           residual = 2.720684e-05
+                iter:   32           residual = 2.295301e-05
+                iter:   33           residual = 2.070548e-05
+                iter:   34           residual = 1.894412e-05
+                iter:   35           residual = 1.718540e-05
+                iter:   36           residual = 1.517672e-05
+                iter:   37           residual = 1.439658e-05
+                iter:   38           residual = 1.169164e-05
+                iter:   39           residual = 1.033951e-05
+                iter:   40           residual = 9.286093e-06
+                iter:   41           residual = 8.010087e-06
+                iter:   42           residual = 7.531816e-06
+                iter:   43           residual = 6.264993e-06
+                iter:   44           residual = 5.440273e-06
+                iter:   45           residual = 4.110042e-06
+                iter:   46           residual = 3.251242e-06
+                iter:   47           residual = 2.980661e-06
+                iter:   48           residual = 4.200039e-05
+                iter:   49           residual = 2.397339e-06
+                iter:   50           residual = 2.308126e-06
+                iter:   51           residual = 1.408858e-06
+                iter:   52           residual = 8.567560e-07
+
+
+		Solution time: 1.313638 (sec.)
+		total iterations: 52
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   2.1590346009329302E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   2.1590346009329302E-009   7.3622070372589807E-009  -3.7696508427021043E-009   2.5903936751333718E-314
+
+ time,dt,it   2365200000.0000000        157680000.00000000               15
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709735e-02
+                iter:    4           residual = 2.078844e-02
+                iter:    5           residual = 1.986747e-02
+                iter:    6           residual = 1.900295e-02
+                iter:    7           residual = 1.654066e-02
+                iter:    8           residual = 1.249362e-02
+                iter:    9           residual = 1.014217e-02
+                iter:   10           residual = 8.377504e-03
+                iter:   11           residual = 7.919038e-03
+                iter:   12           residual = 7.799067e-03
+                iter:   13           residual = 7.544734e-03
+                iter:   14           residual = 7.069387e-03
+                iter:   15           residual = 6.396848e-03
+                iter:   16           residual = 5.525706e-03
+                iter:   17           residual = 3.927098e-03
+                iter:   18           residual = 2.820365e-03
+                iter:   19           residual = 1.951571e-03
+                iter:   20           residual = 1.828656e-03
+                iter:   21           residual = 8.690397e-04
+                iter:   22           residual = 4.982635e-04
+                iter:   23           residual = 3.964143e-04
+                iter:   24           residual = 3.260957e-04
+                iter:   25           residual = 2.788901e-04
+                iter:   26           residual = 2.035459e-04
+                iter:   27           residual = 1.456005e-04
+                iter:   28           residual = 1.175163e-04
+                iter:   29           residual = 5.103323e-05
+                iter:   30           residual = 6.202937e-05
+                iter:   31           residual = 3.451650e-05
+                iter:   32           residual = 2.723943e-05
+                iter:   33           residual = 2.260328e-05
+                iter:   34           residual = 2.043727e-05
+                iter:   35           residual = 1.814703e-05
+                iter:   36           residual = 1.603203e-05
+                iter:   37           residual = 1.464861e-05
+                iter:   38           residual = 1.237625e-05
+                iter:   39           residual = 1.257822e-05
+                iter:   40           residual = 8.170802e-06
+                iter:   41           residual = 6.022516e-06
+                iter:   42           residual = 5.535758e-06
+                iter:   43           residual = 5.066159e-06
+                iter:   44           residual = 4.157256e-06
+                iter:   45           residual = 3.176531e-06
+                iter:   46           residual = 2.418896e-06
+                iter:   47           residual = 2.007475e-06
+                iter:   48           residual = 1.718861e-06
+                iter:   49           residual = 1.428106e-06
+                iter:   50           residual = 1.395121e-06
+                iter:   51           residual = 1.248207e-06
+                iter:   52           residual = 1.132884e-06
+                iter:   53           residual = 9.589814e-07
+
+
+		Solution time: 1.320073 (sec.)
+		total iterations: 53
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   2.2343981406390670E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   2.2343981406390670E-009   2.1590346009329302E-009  -2.1798426085781159E-009   2.5903936751333718E-314
+
+ time,dt,it   2522880000.0000000        157680000.00000000               16
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709787e-02
+                iter:    4           residual = 2.095530e-02
+                iter:    5           residual = 2.003573e-02
+                iter:    6           residual = 1.907258e-02
+                iter:    7           residual = 1.655327e-02
+                iter:    8           residual = 1.385870e-02
+                iter:    9           residual = 9.964631e-03
+                iter:   10           residual = 8.404523e-03
+                iter:   11           residual = 8.071232e-03
+                iter:   12           residual = 8.025891e-03
+                iter:   13           residual = 7.827468e-03
+                iter:   14           residual = 7.227380e-03
+                iter:   15           residual = 6.383128e-03
+                iter:   16           residual = 5.328979e-03
+                iter:   17           residual = 4.033165e-03
+                iter:   18           residual = 2.970330e-03
+                iter:   19           residual = 1.477255e-03
+                iter:   20           residual = 7.753731e-04
+                iter:   21           residual = 3.190978e-04
+                iter:   22           residual = 3.244594e-04
+                iter:   23           residual = 2.137206e-04
+                iter:   24           residual = 1.437622e-04
+                iter:   25           residual = 1.178647e-04
+                iter:   26           residual = 7.695186e-05
+                iter:   27           residual = 5.854653e-05
+                iter:   28           residual = 3.351045e-05
+                iter:   29           residual = 2.016422e-05
+                iter:   30           residual = 1.474964e-05
+                iter:   31           residual = 1.472337e-05
+                iter:   32           residual = 9.681970e-06
+                iter:   33           residual = 8.169986e-06
+                iter:   34           residual = 7.504392e-06
+                iter:   35           residual = 7.066054e-06
+                iter:   36           residual = 6.139711e-06
+                iter:   37           residual = 5.319784e-06
+                iter:   38           residual = 3.983094e-06
+                iter:   39           residual = 3.029768e-06
+                iter:   40           residual = 2.717939e-06
+                iter:   41           residual = 2.371930e-06
+                iter:   42           residual = 1.885165e-06
+                iter:   43           residual = 1.613786e-06
+                iter:   44           residual = 1.396401e-06
+                iter:   45           residual = 1.197371e-06
+                iter:   46           residual = 9.970095e-07
+
+
+		Solution time: 1.143037 (sec.)
+		total iterations: 46
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.9309602689728777E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   1.9309602689728777E-009   2.2343981406390670E-009  -1.7923118061290178E-009   2.5903936751333718E-314
+
+ time,dt,it   2680560000.0000000        157680000.00000000               17
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709801e-02
+                iter:    4           residual = 2.098347e-02
+                iter:    5           residual = 2.006561e-02
+                iter:    6           residual = 1.910137e-02
+                iter:    7           residual = 1.659187e-02
+                iter:    8           residual = 1.374642e-02
+                iter:    9           residual = 9.857781e-03
+                iter:   10           residual = 8.351781e-03
+                iter:   11           residual = 7.951236e-03
+                iter:   12           residual = 7.691529e-03
+                iter:   13           residual = 7.367317e-03
+                iter:   14           residual = 6.930250e-03
+                iter:   15           residual = 6.292207e-03
+                iter:   16           residual = 5.460836e-03
+                iter:   17           residual = 3.891729e-03
+                iter:   18           residual = 2.726597e-03
+                iter:   19           residual = 2.056565e-03
+                iter:   20           residual = 1.242703e-03
+                iter:   21           residual = 8.283871e-04
+                iter:   22           residual = 1.215686e-03
+                iter:   23           residual = 1.930536e-04
+                iter:   24           residual = 1.162642e-04
+                iter:   25           residual = 8.909413e-05
+                iter:   26           residual = 6.909698e-05
+                iter:   27           residual = 5.228782e-05
+                iter:   28           residual = 4.088524e-05
+                iter:   29           residual = 3.311231e-05
+                iter:   30           residual = 2.646338e-05
+                iter:   31           residual = 2.311778e-05
+                iter:   32           residual = 1.994052e-05
+                iter:   33           residual = 1.950997e-05
+                iter:   34           residual = 1.634401e-05
+                iter:   35           residual = 1.552869e-05
+                iter:   36           residual = 1.329161e-05
+                iter:   37           residual = 1.050840e-05
+                iter:   38           residual = 8.923355e-06
+                iter:   39           residual = 6.430391e-06
+                iter:   40           residual = 6.323045e-06
+                iter:   41           residual = 5.532710e-06
+                iter:   42           residual = 4.981083e-06
+                iter:   43           residual = 4.085990e-06
+                iter:   44           residual = 3.082060e-06
+                iter:   45           residual = 2.845680e-06
+                iter:   46           residual = 1.601525e-06
+                iter:   47           residual = 1.001563e-06
+                iter:   48           residual = 9.067653e-07
+
+
+		Solution time: 1.211155 (sec.)
+		total iterations: 48
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   2.4463075546987292E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   2.4463075546987292E-009   1.9309602689728777E-009  -4.9727494498017991E-010   2.5903936751333718E-314
+
+ time,dt,it   2838240000.0000000        157680000.00000000               18
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.709735e-02
+                iter:    4           residual = 2.078611e-02
+                iter:    5           residual = 1.986491e-02
+                iter:    6           residual = 1.900213e-02
+                iter:    7           residual = 1.654148e-02
+                iter:    8           residual = 1.244078e-02
+                iter:    9           residual = 1.013657e-02
+                iter:   10           residual = 8.378624e-03
+                iter:   11           residual = 7.923018e-03
+                iter:   12           residual = 7.810958e-03
+                iter:   13           residual = 7.565814e-03
+                iter:   14           residual = 6.995907e-03
+                iter:   15           residual = 6.210531e-03
+                iter:   16           residual = 5.428984e-03
+                iter:   17           residual = 3.921696e-03
+                iter:   18           residual = 4.294372e-03
+                iter:   19           residual = 1.909429e-03
+                iter:   20           residual = 1.222776e-03
+                iter:   21           residual = 7.467341e-04
+                iter:   22           residual = 4.585529e-04
+                iter:   23           residual = 2.629927e-04
+                iter:   24           residual = 1.495815e-04
+                iter:   25           residual = 1.272222e-04
+                iter:   26           residual = 8.447081e-05
+                iter:   27           residual = 7.090352e-05
+                iter:   28           residual = 5.553436e-05
+                iter:   29           residual = 4.160860e-05
+                iter:   30           residual = 2.393821e-05
+                iter:   31           residual = 1.230344e-05
+                iter:   32           residual = 9.764007e-06
+                iter:   33           residual = 7.717556e-06
+                iter:   34           residual = 7.568519e-06
+                iter:   35           residual = 6.812698e-06
+                iter:   36           residual = 6.285057e-06
+                iter:   37           residual = 5.851617e-06
+                iter:   38           residual = 5.463591e-06
+                iter:   39           residual = 4.937627e-06
+                iter:   40           residual = 4.546570e-06
+                iter:   41           residual = 4.112515e-06
+                iter:   42           residual = 3.688889e-06
+                iter:   43           residual = 3.347356e-06
+                iter:   44           residual = 1.790918e-06
+                iter:   45           residual = 2.509168e-06
+                iter:   46           residual = 1.801957e-06
+                iter:   47           residual = 1.432245e-06
+                iter:   48           residual = 1.185807e-06
+                iter:   49           residual = 8.753475e-07
+
+
+		Solution time: 1.216194 (sec.)
+		total iterations: 49
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.2422395627737733E-009           1   1.0000000000000000     
+ aa  bb  ab rab =   1.2422395627737733E-009   2.4463075546987292E-009   1.2347198503394857E-009   2.5903936751333718E-314
+
+ time,dt,it   2995920000.0000000        157680000.00000000               19
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.710121e-02
+                iter:    4           residual = 2.119159e-02
+                iter:    5           residual = 2.030355e-02
+                iter:    6           residual = 1.945575e-02
+                iter:    7           residual = 1.725514e-02
+                iter:    8           residual = 1.290906e-02
+                iter:    9           residual = 1.033884e-02
+                iter:   10           residual = 9.314703e-03
+                iter:   11           residual = 8.603349e-03
+                iter:   12           residual = 7.165784e-03
+                iter:   13           residual = 6.435980e-03
+                iter:   14           residual = 5.872179e-03
+                iter:   15           residual = 5.163335e-03
+                iter:   16           residual = 4.307012e-03
+                iter:   17           residual = 3.370673e-03
+                iter:   18           residual = 2.581155e-03
+                iter:   19           residual = 1.617357e-03
+                iter:   20           residual = 1.598734e-03
+                iter:   21           residual = 8.268161e-04
+                iter:   22           residual = 5.342832e-04
+                iter:   23           residual = 3.106448e-04
+                iter:   24           residual = 2.034966e-04
+                iter:   25           residual = 1.593076e-04
+                iter:   26           residual = 1.195606e-04
+                iter:   27           residual = 9.674866e-05
+                iter:   28           residual = 7.698598e-05
+                iter:   29           residual = 5.353045e-05
+                iter:   30           residual = 3.206950e-05
+                iter:   31           residual = 3.248547e-05
+                iter:   32           residual = 2.509733e-05
+                iter:   33           residual = 2.136889e-05
+                iter:   34           residual = 1.937939e-05
+                iter:   35           residual = 1.768653e-05
+                iter:   36           residual = 1.601572e-05
+                iter:   37           residual = 1.424557e-05
+                iter:   38           residual = 1.211251e-05
+                iter:   39           residual = 9.099008e-06
+                iter:   40           residual = 5.255201e-06
+                iter:   41           residual = 3.906318e-06
+                iter:   42           residual = 3.155139e-06
+                iter:   43           residual = 2.891925e-06
+                iter:   44           residual = 2.529960e-06
+                iter:   45           residual = 2.077677e-06
+                iter:   46           residual = 1.737639e-06
+                iter:   47           residual = 1.480101e-06
+                iter:   48           residual = 1.295102e-06
+                iter:   49           residual = 1.278212e-06
+                iter:   50           residual = 1.099891e-06
+                iter:   51           residual = 9.696406e-07
+
+
+		Solution time: 1.274929 (sec.)
+		total iterations: 51
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.9406378419588620E-008           1   1.0000000000000000     
+ aa  bb  ab rab =   1.9406378419588620E-008   1.2422395627737733E-009  -4.8345894544791687E-009   2.5903936751333718E-314
+
+ time,dt,it   3153600000.0000000        157680000.00000000               20
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709730e-02
+                iter:    4           residual = 2.075491e-02
+                iter:    5           residual = 1.977348e-02
+                iter:    6           residual = 1.886353e-02
+                iter:    7           residual = 1.643583e-02
+                iter:    8           residual = 1.156765e-02
+                iter:    9           residual = 9.805036e-03
+                iter:   10           residual = 8.444356e-03
+                iter:   11           residual = 7.944844e-03
+                iter:   12           residual = 7.747546e-03
+                iter:   13           residual = 7.475990e-03
+                iter:   14           residual = 7.033903e-03
+                iter:   15           residual = 6.426546e-03
+                iter:   16           residual = 5.236346e-03
+                iter:   17           residual = 3.936750e-03
+                iter:   18           residual = 2.762097e-03
+                iter:   19           residual = 2.103334e-03
+                iter:   20           residual = 1.130570e-03
+                iter:   21           residual = 1.082751e-03
+                iter:   22           residual = 6.917101e-04
+                iter:   23           residual = 4.083220e-04
+                iter:   24           residual = 2.576519e-04
+                iter:   25           residual = 2.162429e-04
+                iter:   26           residual = 1.764236e-04
+                iter:   27           residual = 1.446862e-04
+                iter:   28           residual = 1.075741e-04
+                iter:   29           residual = 8.155891e-05
+                iter:   30           residual = 5.961962e-05
+                iter:   31           residual = 3.684837e-05
+                iter:   32           residual = 3.414159e-05
+                iter:   33           residual = 2.705434e-05
+                iter:   34           residual = 2.381708e-05
+                iter:   35           residual = 2.046594e-05
+                iter:   36           residual = 1.839058e-05
+                iter:   37           residual = 1.656287e-05
+                iter:   38           residual = 1.377251e-05
+                iter:   39           residual = 1.170167e-05
+                iter:   40           residual = 1.045822e-05
+                iter:   41           residual = 9.395297e-06
+                iter:   42           residual = 8.365621e-06
+                iter:   43           residual = 6.812401e-06
+                iter:   44           residual = 6.759716e-06
+                iter:   45           residual = 4.988514e-06
+                iter:   46           residual = 3.905189e-06
+                iter:   47           residual = 3.307060e-06
+                iter:   48           residual = 2.835286e-06
+                iter:   49           residual = 2.534369e-06
+                iter:   50           residual = 2.307215e-06
+                iter:   51           residual = 2.087628e-06
+                iter:   52           residual = 1.853016e-06
+                iter:   53           residual = 1.602614e-06
+                iter:   54           residual = 1.393767e-06
+                iter:   55           residual = 1.123138e-06
+                iter:   56           residual = 1.220195e-06
+                iter:   57           residual = 3.389650e-07
+
+
+		Solution time: 1.408157 (sec.)
+		total iterations: 57
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.1181362852343056E-007           1   1.0000000000000000     
+ aa  bb  ab rab =   1.1181362852343056E-007   1.9406378419588620E-008  -4.6374227745532419E-008   2.5903936751333718E-314
+ time,dt,it   3153600000.0000000        157680000.00000000               20
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709730e-02
+                iter:    4           residual = 2.075491e-02
+                iter:    5           residual = 1.977348e-02
+                iter:    6           residual = 1.886353e-02
+                iter:    7           residual = 1.643583e-02
+                iter:    8           residual = 1.156765e-02
+                iter:    9           residual = 9.805036e-03
+                iter:   10           residual = 8.444356e-03
+                iter:   11           residual = 7.944844e-03
+                iter:   12           residual = 7.747546e-03
+                iter:   13           residual = 7.475988e-03
+                iter:   14           residual = 7.033844e-03
+                iter:   15           residual = 6.426291e-03
+                iter:   16           residual = 5.226486e-03
+                iter:   17           residual = 3.934551e-03
+                iter:   18           residual = 2.717653e-03
+                iter:   19           residual = 2.141218e-03
+                iter:   20           residual = 1.255533e-03
+                iter:   21           residual = 1.462447e-03
+                iter:   22           residual = 5.329252e-04
+                iter:   23           residual = 2.913566e-04
+                iter:   24           residual = 5.548726e-04
+                iter:   25           residual = 1.094186e-04
+                iter:   26           residual = 6.313065e-05
+                iter:   27           residual = 5.114905e-05
+                iter:   28           residual = 3.889946e-05
+                iter:   29           residual = 3.202171e-05
+                iter:   30           residual = 2.608565e-05
+                iter:   31           residual = 1.997174e-05
+                iter:   32           residual = 2.662762e-05
+                iter:   33           residual = 9.452653e-06
+                iter:   34           residual = 6.808291e-06
+                iter:   35           residual = 6.154501e-06
+                iter:   36           residual = 5.612448e-06
+                iter:   37           residual = 5.064355e-06
+                iter:   38           residual = 5.026056e-06
+                iter:   39           residual = 4.362145e-06
+                iter:   40           residual = 3.962616e-06
+                iter:   41           residual = 3.419267e-06
+                iter:   42           residual = 2.947060e-06
+                iter:   43           residual = 2.770069e-06
+                iter:   44           residual = 2.519146e-06
+                iter:   45           residual = 2.149510e-06
+                iter:   46           residual = 1.689260e-06
+                iter:   47           residual = 1.325251e-06
+                iter:   48           residual = 1.100553e-06
+                iter:   49           residual = 9.552244e-07
+
+
+		Solution time: 1.164610 (sec.)
+		total iterations: 49
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   6.1278848560518752E-008           2  0.25000000000000000     
+ aa  bb  ab rab =   6.1278848560518752E-008   1.1181362852343056E-007  -8.2572948238848671E-008   8.2775663146177222E-008
+ time,dt,it   3153600000.0000000        157680000.00000000               20
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443532e-02
+                iter:    3           residual = 2.709730e-02
+                iter:    4           residual = 2.075491e-02
+                iter:    5           residual = 1.977348e-02
+                iter:    6           residual = 1.886353e-02
+                iter:    7           residual = 1.643583e-02
+                iter:    8           residual = 1.156765e-02
+                iter:    9           residual = 9.805036e-03
+                iter:   10           residual = 8.444356e-03
+                iter:   11           residual = 7.944844e-03
+                iter:   12           residual = 7.747545e-03
+                iter:   13           residual = 7.475991e-03
+                iter:   14           residual = 7.033957e-03
+                iter:   15           residual = 6.426869e-03
+                iter:   16           residual = 5.249906e-03
+                iter:   17           residual = 3.952428e-03
+                iter:   18           residual = 2.834613e-03
+                iter:   19           residual = 2.043231e-03
+                iter:   20           residual = 2.133961e-03
+                iter:   21           residual = 9.243314e-04
+                iter:   22           residual = 5.206945e-04
+                iter:   23           residual = 2.577930e-04
+                iter:   24           residual = 1.385454e-04
+                iter:   25           residual = 1.080679e-04
+                iter:   26           residual = 8.279132e-05
+                iter:   27           residual = 7.182073e-05
+                iter:   28           residual = 5.777994e-05
+                iter:   29           residual = 4.650929e-05
+                iter:   30           residual = 3.599323e-05
+                iter:   31           residual = 2.574528e-05
+                iter:   32           residual = 2.191390e-05
+                iter:   33           residual = 2.124650e-05
+                iter:   34           residual = 1.909286e-05
+                iter:   35           residual = 1.722977e-05
+                iter:   36           residual = 1.610021e-05
+                iter:   37           residual = 1.148293e-05
+                iter:   38           residual = 1.804040e-04
+                iter:   39           residual = 7.972328e-06
+                iter:   40           residual = 6.478861e-06
+                iter:   41           residual = 5.285367e-06
+                iter:   42           residual = 4.787327e-06
+                iter:   43           residual = 4.414175e-06
+                iter:   44           residual = 3.832059e-06
+                iter:   45           residual = 3.341031e-06
+                iter:   46           residual = 2.439716e-06
+                iter:   47           residual = 1.786757e-06
+                iter:   48           residual = 1.877493e-06
+                iter:   49           residual = 7.217461e-07
+
+
+		Solution time: 1.101970 (sec.)
+		total iterations: 49
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   3.9791144476578122E-010           3  0.50000000000000000     
+ aa  bb  ab rab =   3.9791144476578122E-010   3.8299280350324220E-009  -1.3159040316302851E-011   1.2344926884225442E-009
+
+ time,dt,it   3311280000.0000000        157680000.00000000               21
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.710304e-02
+                iter:    4           residual = 2.122259e-02
+                iter:    5           residual = 2.034147e-02
+                iter:    6           residual = 1.952849e-02
+                iter:    7           residual = 1.754141e-02
+                iter:    8           residual = 1.278937e-02
+                iter:    9           residual = 1.034731e-02
+                iter:   10           residual = 8.706223e-03
+                iter:   11           residual = 7.625346e-03
+                iter:   12           residual = 7.092627e-03
+                iter:   13           residual = 6.543365e-03
+                iter:   14           residual = 6.134924e-03
+                iter:   15           residual = 5.735651e-03
+                iter:   16           residual = 4.972483e-03
+                iter:   17           residual = 3.490580e-03
+                iter:   18           residual = 5.358946e-03
+                iter:   19           residual = 1.760035e-03
+                iter:   20           residual = 1.021936e-03
+                iter:   21           residual = 6.196322e-04
+                iter:   22           residual = 3.830982e-04
+                iter:   23           residual = 2.053198e-04
+                iter:   24           residual = 1.502060e-04
+                iter:   25           residual = 1.152113e-04
+                iter:   26           residual = 8.772905e-05
+                iter:   27           residual = 7.401814e-05
+                iter:   28           residual = 5.942826e-05
+                iter:   29           residual = 4.464605e-05
+                iter:   30           residual = 3.425728e-05
+                iter:   31           residual = 2.561026e-05
+                iter:   32           residual = 2.509766e-05
+                iter:   33           residual = 2.036626e-05
+                iter:   34           residual = 1.729986e-05
+                iter:   35           residual = 1.577806e-05
+                iter:   36           residual = 1.427668e-05
+                iter:   37           residual = 1.207894e-05
+                iter:   38           residual = 1.166028e-05
+                iter:   39           residual = 8.841014e-06
+                iter:   40           residual = 7.508306e-06
+                iter:   41           residual = 6.622874e-06
+                iter:   42           residual = 6.113230e-06
+                iter:   43           residual = 5.007196e-06
+                iter:   44           residual = 4.934455e-06
+                iter:   45           residual = 2.813102e-06
+                iter:   46           residual = 1.785431e-06
+                iter:   47           residual = 1.394191e-06
+                iter:   48           residual = 1.330085e-06
+                iter:   49           residual = 1.133062e-06
+                iter:   50           residual = 1.013036e-06
+                iter:   51           residual = 9.016936e-07
+
+
+		Solution time: 1.118466 (sec.)
+		total iterations: 51
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   1.3457059854130982E-007           1   1.0000000000000000     
+ aa  bb  ab rab =   1.3457059854130982E-007   9.9477861191445306E-011  -2.3565153983212188E-010   2.5903936751333718E-314
+ time,dt,it   3311280000.0000000        157680000.00000000               21
+
+		*******************************************************
+		***** Preconditioned BICGSTAB solution
+		***** 5 step symmetric Gauss-Seidel
+		***** symmetric diagonal scaling
+		*******************************************************
+
+                iter:    0           residual = 1.000000e+00
+                iter:    1           residual = 8.914712e-02
+                iter:    2           residual = 4.443531e-02
+                iter:    3           residual = 2.710304e-02
+                iter:    4           residual = 2.122259e-02
+                iter:    5           residual = 2.034147e-02
+                iter:    6           residual = 1.952849e-02
+                iter:    7           residual = 1.754141e-02
+                iter:    8           residual = 1.278937e-02
+                iter:    9           residual = 1.034731e-02
+                iter:   10           residual = 8.706223e-03
+                iter:   11           residual = 7.625346e-03
+                iter:   12           residual = 7.092627e-03
+                iter:   13           residual = 6.543364e-03
+                iter:   14           residual = 6.134958e-03
+                iter:   15           residual = 5.735502e-03
+                iter:   16           residual = 4.972492e-03
+                iter:   17           residual = 3.600232e-03
+                iter:   18           residual = 2.705280e-03
+                iter:   19           residual = 2.849957e-03
+                iter:   20           residual = 1.665875e-03
+                iter:   21           residual = 1.081267e-03
+                iter:   22           residual = 5.452778e-04
+                iter:   23           residual = 2.911504e-04
+                iter:   24           residual = 2.176394e-04
+                iter:   25           residual = 1.786687e-04
+                iter:   26           residual = 1.409646e-04
+                iter:   27           residual = 1.133508e-04
+                iter:   28           residual = 8.799230e-05
+                iter:   29           residual = 6.726021e-05
+                iter:   30           residual = 5.029386e-05
+                iter:   31           residual = 3.455101e-05
+                iter:   32           residual = 2.575105e-05
+                iter:   33           residual = 2.062724e-05
+                iter:   34           residual = 1.849803e-05
+                iter:   35           residual = 1.877629e-05
+                iter:   36           residual = 1.242613e-05
+                iter:   37           residual = 9.062493e-06
+                iter:   38           residual = 6.753913e-06
+                iter:   39           residual = 5.843385e-06
+                iter:   40           residual = 5.073064e-06
+                iter:   41           residual = 4.320366e-06
+                iter:   42           residual = 4.232281e-06
+                iter:   43           residual = 3.397502e-06
+                iter:   44           residual = 3.336922e-06
+                iter:   45           residual = 2.524088e-06
+                iter:   46           residual = 2.017769e-06
+                iter:   47           residual = 9.013439e-07
+
+
+		Solution time: 1.033725 (sec.)
+		total iterations: 47
+		Flops not available for options[AZ_scaling] = 4
+ err ecc  numit =   7.8197140447362351E-009           2  0.50000000000000000     
+ aa  bb  ab rab =   7.8197140447362351E-009   1.3457059854130982E-007  -5.4804172733292510E-009   3.2439229328423354E-008
+
+ hellox, fstr
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!
+ The process has been successfully finalized !!

@@ -8,13 +8,13 @@ RANLIB := ranlib
 FEGEN := ..
 
 default:
-	(rm ${FEGEN}/lib -rf ;mkdir ${FEGEN}/lib )
+	(rm -fr ${FEGEN}/lib ;mkdir ${FEGEN}/lib )
 	(cd fepgsolver ; make)
-	(mv fepgsolver/libfepgsolv.a ${FEGEN}/lib -f )
+	(mv -f fepgsolver/libfepgsolv.a ${FEGEN}/lib )
 	(cd metis-4.0 ; make )
-	(mv metis-4.0/libmetis.a ${FEGEN}/lib -f )
+	(mv -f metis-4.0/libmetis.a ${FEGEN}/lib )
 	(cd blas ; make )
-	(mv blas/libblas.a ${FEGEN}/lib -f )
+	(mv -f blas/libblas.a ${FEGEN}/lib )
 	${F77} -c fepglib.f
 	${AR} libfepg.a fepglib.o
 	${RANLIB} libfepg.a

@@ -13,8 +13,10 @@ COMM    = SERIAL
 MACHINE = GENERIC
 #MPI_INCLUDE_DIR = -I/export/mpiintel/include
 #MPI_LIB         = -L/export/mpiintel/lib -lmpich
-MPI_INCLUDE_DIR = -I/home/jiyang/mpich2-141p1-install-intel/include
-MPI_LIB         = -L/home/jiyang/mpich2-141p1-install-intel/lib -lmpich
+#MPI_INCLUDE_DIR = -I/home/jiyang/mpich2-141p1-install-intel/include
+#MPI_LIB         = -L/home/jiyang/mpich2-141p1-install-intel/lib -lmpich
+MPI_INCLUDE_DIR = -I/opt/local/include
+MPI_LIB         = -L/opt/local/lib -lmpich
 #MPI_INCLUDE_DIR = -I/export/mpi/mpich-gm/include
 #MPI_LIB         = -L/export/mpi/mpich-gm/lib -lmpich
 #
