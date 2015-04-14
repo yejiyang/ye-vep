@@ -1,0 +1,2391 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+1	ddms.f	/^1     continue$/;"	l	subroutine:slavep	file:
+1	ddmsub.f	/^1       CONTINUE$/;"	l	subroutine:GETD	file:
+1	ddmsub.f	/^1       CONTINUE$/;"	l	subroutine:POINTIN	file:
+1	esddm.f	/^1        open(26,file='munods0',form='unformatted',status='unknown')$/;"	l	subroutine:Mesddm	file:
+1	esddm.f	/^1     continue$/;"	l	subroutine:EsTSUB	file:
+1	fepglib.f	/^1     R1(I)=R(I,L)$/;"	l	subroutine:SMIT	file:
+1	fepglib.f	/^1     ib(i) = i$/;"	l	subroutine:boun3	file:
+1	fepglib.f	/^1     ib(i) = i$/;"	l	subroutine:boun4	file:
+1	gp.f	/^1       continue$/;"	l	subroutine:gidpostf	file:
+1	hsw6m.f	/^1     fehsw6m=+(+rx*(+1.-rz)\/2.)*u(1)+(+ry*(+1.-rz)\/2.)*u(2)$/;"	l	function:fehsw6m	file:
+1	hsw6m.f	/^1     fhsw6m1=+rx*(+1.-rz)\/2. $/;"	l	function:fhsw6m1	file:
+1	hsw6m.f	/^1     fhsw6m2=+rx*(+1.-rz)\/2. $/;"	l	function:fhsw6m2	file:
+1	hsw6m.f	/^1     fhsw6m3=+rx*(+1.-rz)\/2. $/;"	l	function:fhsw6m3	file:
+1	hsw6m.f	/^1     fhsw6m4=+rx*(+1.-rz)\/2. $/;"	l	function:fhsw6m4	file:
+1	hsw6m.f	/^1     fhsw6m5=+rx*(+1.-rz)\/2. $/;"	l	function:fhsw6m5	file:
+1	hsw6m.f	/^1     fhsw6m6=+rx*(+1.-rz)\/2. $/;"	l	function:fhsw6m6	file:
+1	hsw6m.f	/^1     fthsw6m=+(+rx*(+1.-rz)\/2.)*x(1)+(+ry*(+1.-rz)\/2.)*x(2)$/;"	l	function:fthsw6m	file:
+1	hugq4g2.f	/^1     coefr(j,i+ncoef) = r(i,j)$/;"	l	subroutine:hugq4g2	file:
+1	hulq4g2.f	/^1     fehulq4g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.)*gx(1)+(+(+1.+rx)\/$/;"	l	function:fehulq4g2	file:
+1	hulq4g2.f	/^1     fhulq4g21=+(+1.-rx)\/2.*(+1.-ry)\/2. $/;"	l	function:fhulq4g21	file:
+1	hulq4g2.f	/^1     fhulq4g22=+(+1.-rx)\/2.*(+1.-ry)\/2. $/;"	l	function:fhulq4g22	file:
+1	hulq4g2.f	/^1     fhulq4g23=+(+1.-rx)\/2.*(+1.-ry)\/2. $/;"	l	function:fhulq4g23	file:
+1	hulq4g2.f	/^1     fthulq4g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.)*x(1)+(+(+1.+rx)\/$/;"	l	function:fthulq4g2	file:
+1	huw6m.f	/^1     fehuw6m=+(+rx*(+1.-rz)\/2.)*un(1)+(+ry*(+1.-rz)\/2.)*un(2)$/;"	l	function:fehuw6m	file:
+1	huw6m.f	/^1     fhuw6m1=+rx*(+1.-rz)\/2. $/;"	l	function:fhuw6m1	file:
+1	huw6m.f	/^1     fhuw6m2=+rx*(+1.-rz)\/2. $/;"	l	function:fhuw6m2	file:
+1	huw6m.f	/^1     fhuw6m3=+rx*(+1.-rz)\/2. $/;"	l	function:fhuw6m3	file:
+1	huw6m.f	/^1     fthuw6m=+(+rx*(+1.-rz)\/2.)*x(1)+(+ry*(+1.-rz)\/2.)*x(2)$/;"	l	function:fthuw6m	file:
+1	nzrecvstr.f	/^1        open(22,file='munods0',form='unformatted',status='unknown')$/;"	l	subroutine:Mnzrecvstr	file:
+1	ssc27g3.f	/^1     fessc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:fessc27g3	file:
+1	ssc27g3.f	/^1     fssc27g31=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g31	file:
+1	ssc27g3.f	/^1     fssc27g32=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g32	file:
+1	ssc27g3.f	/^1     fssc27g33=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g33	file:
+1	ssc27g3.f	/^1     fssc27g34=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g34	file:
+1	ssc27g3.f	/^1     fssc27g35=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g35	file:
+1	ssc27g3.f	/^1     fssc27g36=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g36	file:
+1	ssc27g3.f	/^1     ftssc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:ftssc27g3	file:
+1	ssc8g2.f	/^1     fessc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*u(1)$/;"	l	function:fessc8g2	file:
+1	ssc8g2.f	/^1     fssc8g21=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g21	file:
+1	ssc8g2.f	/^1     fssc8g22=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g22	file:
+1	ssc8g2.f	/^1     fssc8g23=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g23	file:
+1	ssc8g2.f	/^1     fssc8g24=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g24	file:
+1	ssc8g2.f	/^1     fssc8g25=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g25	file:
+1	ssc8g2.f	/^1     fssc8g26=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g26	file:
+1	ssc8g2.f	/^1     ftssc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*x(1)$/;"	l	function:ftssc8g2	file:
+1	suc27g3.f	/^1     fesuc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:fesuc27g3	file:
+1	suc27g3.f	/^1     fsuc27g31=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g31	file:
+1	suc27g3.f	/^1     fsuc27g32=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g32	file:
+1	suc27g3.f	/^1     fsuc27g33=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g33	file:
+1	suc27g3.f	/^1     ftsuc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:ftsuc27g3	file:
+1	suc8g2.f	/^1     fesuc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*un(1)$/;"	l	function:fesuc8g2	file:
+1	suc8g2.f	/^1     fsuc8g21=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g21	file:
+1	suc8g2.f	/^1     fsuc8g22=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g22	file:
+1	suc8g2.f	/^1     fsuc8g23=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g23	file:
+1	suc8g2.f	/^1     ftsuc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*x(1)$/;"	l	function:ftsuc8g2	file:
+10	ddmsub.f	/^10     lef = lef+1$/;"	l	subroutine:ch	file:
+10	fepglib.f	/^   10 CC = CC+T(L , I)*A(L , K)$/;"	l	subroutine:TKT	file:
+10	fepglib.f	/^   10 CC = CC+T(L , I)*F(L)$/;"	l	subroutine:TL	file:
+10	fepglib.f	/^   10 CC = CC+T(L,I)*F(L)*T(L,I)$/;"	l	subroutine:TMT	file:
+10	fepglib.f	/^   10 TF(L) = F(L)$/;"	l	subroutine:NTMT	file:
+10	fepglib.f	/^  10  continue$/;"	l	subroutine:gqm8	file:
+10	fepglib.f	/^10    C = C + SHPR(I,LR+K)*CR(K,J)$/;"	l	subroutine:SHAP	file:
+10	fepglib.f	/^10    C = C + SHPR(I,LR+K)*CR(K,J)$/;"	l	subroutine:SHAPc	file:
+10	fepglib.f	/^10    C = C + SHPR(I,LR+K)*CR(K,J)$/;"	l	subroutine:SHAPn	file:
+10	fepglib.f	/^10    CONTINUE$/;"	l	subroutine:SMIT	file:
+10	fepglib.f	/^10    ELM(I) = EGM(I+NGVAR-NLVAR)$/;"	l	subroutine:CCTL	file:
+10	fepglib.f	/^10    continue$/;"	l	subroutine:getname	file:
+10	fepglib.f	/^10    continue$/;"	l	subroutine:splin1	file:
+10	hsw6m.f	/^10    continue$/;"	l	subroutine:hsw6m	file:
+10	hsw6m.f	/^10    continue$/;"	l	subroutine:hsw6mt	file:
+10	hugq4g2.f	/^10    t(i,j) = 0.0$/;"	l	subroutine:hugq4g2	file:
+10	hulq4g2.f	/^10    continue$/;"	l	subroutine:hulq4g2	file:
+10	hulq4g2.f	/^10    continue$/;"	l	subroutine:hulq4g2t	file:
+10	huw6m.f	/^10    continue$/;"	l	subroutine:huw6m	file:
+10	huw6m.f	/^10    continue$/;"	l	subroutine:huw6mt	file:
+10	plas.f	/^10      CONTINUE$/;"	l	subroutine:GETDF	file:
+10	ssc27g3.f	/^10     fssc27g31=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+10	ssc27g3.f	/^10     fssc27g32=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+10	ssc27g3.f	/^10     fssc27g33=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+10	ssc27g3.f	/^10     fssc27g34=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+10	ssc27g3.f	/^10     fssc27g35=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+10	ssc27g3.f	/^10     fssc27g36=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+10	ssc27g3.f	/^10    continue$/;"	l	subroutine:ssc27g3	file:
+10	ssc27g3.f	/^10    continue$/;"	l	subroutine:ssc27g3t	file:
+10	ssc8g2.f	/^10    continue$/;"	l	subroutine:ssc8g2	file:
+10	ssc8g2.f	/^10    continue$/;"	l	subroutine:ssc8g2t	file:
+10	stres.f	/^10    if (f1*f2 .le. 0.0) go to 30$/;"	l	subroutine:root	file:
+10	suc27g3.f	/^10     fsuc27g31=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+10	suc27g3.f	/^10     fsuc27g32=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+10	suc27g3.f	/^10     fsuc27g33=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+10	suc27g3.f	/^10    continue$/;"	l	subroutine:suc27g3	file:
+10	suc27g3.f	/^10    continue$/;"	l	subroutine:suc27g3t	file:
+10	suc8g2.f	/^10    continue$/;"	l	subroutine:suc8g2	file:
+10	suc8g2.f	/^10    continue$/;"	l	subroutine:suc8g2t	file:
+100	ddmsub.f	/^100       CONTINUE$/;"	l	subroutine:GETIDL	file:
+100	ddmsub.f	/^100     CONTINUE$/;"	l	subroutine:POINTIN	file:
+100	ddmsub.f	/^100     CONTINUE$/;"	l	subroutine:POSTVALUECONTACT	file:
+100	ddmsub.f	/^100     CONTINUE$/;"	l	subroutine:VALUECONTACT	file:
+100	ddmsub.f	/^100    continue$/;"	l	subroutine:ch	file:
+100	esddm.f	/^100     CONTINUE$/;"	l	subroutine:esddm	file:
+100	fepglib.f	/^  100 continue$/;"	l	subroutine:gqm4	file:
+100	fepglib.f	/^  100 continue$/;"	l	subroutine:gqm8	file:
+100	fepglib.f	/^  100 continue$/;"	l	subroutine:gtm3	file:
+100	fepglib.f	/^  100 continue$/;"	l	subroutine:gtm6	file:
+100	fepglib.f	/^100     IF (I .EQ. 1) GO TO 300$/;"	l	subroutine:INVER	file:
+100	fepglib.f	/^100     S0 = S0 - A(I,J) * F(J)$/;"	l	subroutine:SOLVE	file:
+100	fepglib.f	/^100     continue$/;"	l	subroutine:exps1	file:
+100	fepglib.f	/^100   CONTINUE$/;"	l	subroutine:PLINE	file:
+100	fepglib.f	/^100   CONTINUE$/;"	l	subroutine:QMESH	file:
+100	fepglib.f	/^100   CONTINUE$/;"	l	subroutine:SHAP	file:
+100	fepglib.f	/^100   CONTINUE$/;"	l	subroutine:SHAPc	file:
+100	fepglib.f	/^100   CONTINUE$/;"	l	subroutine:SHAPn	file:
+100	fepglib.f	/^100   CONTINUE$/;"	l	subroutine:SMIT	file:
+100	fepglib.f	/^100   CONTINUE$/;"	l	subroutine:TMESH	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:boun3	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:boun4	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:dcoef	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:dcoor	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:dshap	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:exps2	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:exps3	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:gets	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:gets1	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:getxy	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:merge	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:mid	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:sdcdx	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:sdfdx	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:tricb	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:tricbn	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:trimesh	file:
+100	fepglib.f	/^100   continue$/;"	l	subroutine:trinod	file:
+100	hsw6m.f	/^100   a(i,k) = a(i,k)\/c$/;"	l	subroutine:hsw6mt	file:
+100	hsw6m.f	/^100   continue$/;"	l	subroutine:thsw6m	file:
+100	hulq4g2.f	/^100   a(i,k) = a(i,k)\/c$/;"	l	subroutine:hulq4g2t	file:
+100	hulq4g2.f	/^100   continue$/;"	l	subroutine:thulq4g2	file:
+100	huw6m.f	/^100   a(i,k) = a(i,k)\/c$/;"	l	subroutine:huw6mt	file:
+100	huw6m.f	/^100   continue$/;"	l	subroutine:huw6m	file:
+100	huw6m.f	/^100   continue$/;"	l	subroutine:thuw6m	file:
+100	incore.f	/^100     continue$/;"	l	subroutine:initpool	file:
+100	plas.f	/^100     CONTINUE$/;"	l	subroutine:GETDP	file:
+100	ssc27g3.f	/^100   a(i,k) = a(i,k)\/c$/;"	l	subroutine:ssc27g3t	file:
+100	ssc27g3.f	/^100   continue$/;"	l	subroutine:tssc27g3	file:
+100	ssc8g2.f	/^100   a(i,k) = a(i,k)\/c$/;"	l	subroutine:ssc8g2t	file:
+100	ssc8g2.f	/^100   continue$/;"	l	subroutine:tssc8g2	file:
+100	start.f	/^100     R(J) = COOR(J,N)$/;"	l	subroutine:start	file:
+100	stres.f	/^100     CONTINUE$/;"	l	function:F	file:
+100	stres.f	/^100   CONTINUE$/;"	l	subroutine:GETSTR	file:
+100	suc27g3.f	/^100   a(i,k) = a(i,k)\/c$/;"	l	subroutine:suc27g3t	file:
+100	suc27g3.f	/^100   continue$/;"	l	subroutine:suc27g3	file:
+100	suc27g3.f	/^100   continue$/;"	l	subroutine:tsuc27g3	file:
+100	suc8g2.f	/^100   a(i,k) = a(i,k)\/c$/;"	l	subroutine:suc8g2t	file:
+100	suc8g2.f	/^100   continue$/;"	l	subroutine:suc8g2	file:
+100	suc8g2.f	/^100   continue$/;"	l	subroutine:tsuc8g2	file:
+100	uddm.f	/^100     continue$/;"	l	subroutine:uddm	file:
+1000	azpartition.f	/^1000    CONTINUE$/;"	l	file:
+1000	azpartition.f	/^1000  format(i10,3e15.5)$/;"	l	subroutine:azpartition	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READCOOR	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READDISP0	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READDISP1	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READDISP2	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READDISP3	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READELEM	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READEYTPE	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READID	file:
+1000	azrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:READSSUBNODES	file:
+1000	azrecvpart.f	/^1000  CONTINUE$/;"	l	subroutine:Mazrecvpart	file:
+1000	azsendpart.f	/^1000    CONTINUE$/;"	l	subroutine:Mazsendpart	file:
+1000	azsendpart.f	/^1000    format(10i6)$/;"	l	subroutine:azsendpart	file:
+1000	azsolv.f	/^1000    format(i5,10f25.16)$/;"	l	subroutine:azsolv	file:
+1000	bft.f	/^1000    CONTINUE$/;"	l	subroutine:Mbft	file:
+1000	ddmsub.f	/^1000   format(6i10)$/;"	l	subroutine:dualnode	file:
+1000	eddm.f	/^1000  continue$/;"	l	subroutine:etsub	file:
+1000	esddm.f	/^1000    CONTINUE$/;"	l	subroutine:EsTSUB	file:
+1000	esddm.f	/^1000    CONTINUE$/;"	l	subroutine:Mesddm	file:
+1000	fepglib.f	/^1000  CONTINUE$/;"	l	subroutine:INVER	file:
+1000	fepglib.f	/^1000  continue$/;"	l	subroutine:sdcdx	file:
+1000	fepglib.f	/^1000  continue$/;"	l	subroutine:sdfdx	file:
+1000	fepglib.f	/^1000  continue$/;"	l	subroutine:trimesh	file:
+1000	gp.f	/^1000  format(1x,i10,6e11.4)$/;"	l	subroutine:gidpostf	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fehsw6m	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fhsw6m1	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fhsw6m2	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fhsw6m3	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fhsw6m4	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fhsw6m5	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fhsw6m6	file:
+1000	hsw6m.f	/^1000  return$/;"	l	function:fthsw6m	file:
+1000	hulq4g2.f	/^1000  return$/;"	l	function:fehulq4g2	file:
+1000	hulq4g2.f	/^1000  return$/;"	l	function:fhulq4g21	file:
+1000	hulq4g2.f	/^1000  return$/;"	l	function:fhulq4g22	file:
+1000	hulq4g2.f	/^1000  return$/;"	l	function:fhulq4g23	file:
+1000	hulq4g2.f	/^1000  return$/;"	l	function:fthulq4g2	file:
+1000	huw6m.f	/^1000   continue$/;"	l	subroutine:huw6m	file:
+1000	huw6m.f	/^1000  return$/;"	l	function:fehuw6m	file:
+1000	huw6m.f	/^1000  return$/;"	l	function:fhuw6m1	file:
+1000	huw6m.f	/^1000  return$/;"	l	function:fhuw6m2	file:
+1000	huw6m.f	/^1000  return$/;"	l	function:fhuw6m3	file:
+1000	huw6m.f	/^1000  return$/;"	l	function:fthuw6m	file:
+1000	mbft.f	/^1000    CONTINUE$/;"	l	subroutine:Mmbft	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADCOOR	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADDISP0	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADDISP1	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADDISP2	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADDISP3	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADELEM	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADEYTPE	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADID	file:
+1000	msazrecvpart.f	/^1000    format(10i6)$/;"	l	subroutine:MREADSSUBNODES	file:
+1000	msazrecvpart.f	/^1000  CONTINUE$/;"	l	subroutine:Mmsazrecvpart	file:
+1000	nzrecvdip.f	/^1000    continue$/;"	l	subroutine:Mnzrecvdip	file:
+1000	nzrecvstr.f	/^1000    continue$/;"	l	subroutine:Mnzrecvstr	file:
+1000	partit.f	/^1000    CONTINUE$/;"	l	file:
+1000	partit.f	/^1000  format(i10,3e15.5)$/;"	l	subroutine:azpartition	file:
+1000	partition.f	/^1000    CONTINUE$/;"	l	file:
+1000	partition.f	/^1000  format(i10,3e15.5)$/;"	l	subroutine:azpartition	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:fessc27g3	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:fssc27g31	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:fssc27g32	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:fssc27g33	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:fssc27g34	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:fssc27g35	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:fssc27g36	file:
+1000	ssc27g3.f	/^1000  return$/;"	l	function:ftssc27g3	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:fessc8g2	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:fssc8g21	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:fssc8g22	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:fssc8g23	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:fssc8g24	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:fssc8g25	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:fssc8g26	file:
+1000	ssc8g2.f	/^1000  return$/;"	l	function:ftssc8g2	file:
+1000	start.f	/^1000    CONTINUE$/;"	l	subroutine:Mstart	file:
+1000	stres.f	/^1000  format (1x,12hinput x1 d e)$/;"	l	subroutine:root	file:
+1000	suc27g3.f	/^1000   continue$/;"	l	subroutine:suc27g3	file:
+1000	suc27g3.f	/^1000  return$/;"	l	function:fesuc27g3	file:
+1000	suc27g3.f	/^1000  return$/;"	l	function:fsuc27g31	file:
+1000	suc27g3.f	/^1000  return$/;"	l	function:fsuc27g32	file:
+1000	suc27g3.f	/^1000  return$/;"	l	function:fsuc27g33	file:
+1000	suc27g3.f	/^1000  return$/;"	l	function:ftsuc27g3	file:
+1000	suc8g2.f	/^1000   continue$/;"	l	subroutine:suc8g2	file:
+1000	suc8g2.f	/^1000  return$/;"	l	function:fesuc8g2	file:
+1000	suc8g2.f	/^1000  return$/;"	l	function:fsuc8g21	file:
+1000	suc8g2.f	/^1000  return$/;"	l	function:fsuc8g22	file:
+1000	suc8g2.f	/^1000  return$/;"	l	function:fsuc8g23	file:
+1000	suc8g2.f	/^1000  return$/;"	l	function:ftsuc8g2	file:
+1000	umcazpartition.f	/^1000    CONTINUE$/;"	l	file:
+1000	umcazpartition.f	/^1000  format(i10,3e15.5)$/;"	l	subroutine:azpartition	file:
+1001	azsolv.f	/^1001  format(1x,7i7)$/;"	l	subroutine:Mazsolv	file:
+1001	dmbs2dmsr.f	/^1001  format(1x,7i7)$/;"	l	subroutine:Mdmbs2dmsr	file:
+1001	nzdmbsdiag.f	/^1001  format(1x,7i7)$/;"	l	subroutine:Mnzdmbsdiag	file:
+101	huw6m.f	/^101   continue$/;"	l	subroutine:huw6m	file:
+101	suc27g3.f	/^101   continue$/;"	l	subroutine:suc27g3	file:
+101	suc8g2.f	/^101   continue$/;"	l	subroutine:suc8g2	file:
+102	huw6m.f	/^102   continue$/;"	l	subroutine:huw6m	file:
+102	suc27g3.f	/^102   continue$/;"	l	subroutine:suc27g3	file:
+102	suc8g2.f	/^102   continue$/;"	l	subroutine:suc8g2	file:
+103	huw6m.f	/^103   continue$/;"	l	subroutine:huw6m	file:
+103	suc27g3.f	/^103   continue$/;"	l	subroutine:suc27g3	file:
+103	suc8g2.f	/^103   continue$/;"	l	subroutine:suc8g2	file:
+104	huw6m.f	/^104   continue$/;"	l	subroutine:huw6m	file:
+104	suc27g3.f	/^104   continue$/;"	l	subroutine:suc27g3	file:
+104	suc8g2.f	/^104   continue$/;"	l	subroutine:suc8g2	file:
+105	huw6m.f	/^105   continue$/;"	l	subroutine:huw6m	file:
+105	suc27g3.f	/^105   continue$/;"	l	subroutine:suc27g3	file:
+105	suc8g2.f	/^105   continue$/;"	l	subroutine:suc8g2	file:
+106	huw6m.f	/^106   continue$/;"	l	subroutine:huw6m	file:
+106	suc27g3.f	/^106   continue$/;"	l	subroutine:suc27g3	file:
+106	suc8g2.f	/^106   continue$/;"	l	subroutine:suc8g2	file:
+107	huw6m.f	/^107   continue$/;"	l	subroutine:huw6m	file:
+107	suc27g3.f	/^107   continue$/;"	l	subroutine:suc27g3	file:
+107	suc8g2.f	/^107   continue$/;"	l	subroutine:suc8g2	file:
+108	huw6m.f	/^108   continue$/;"	l	subroutine:huw6m	file:
+108	suc27g3.f	/^108   continue$/;"	l	subroutine:suc27g3	file:
+108	suc8g2.f	/^108   continue$/;"	l	subroutine:suc8g2	file:
+109	huw6m.f	/^109   continue$/;"	l	subroutine:huw6m	file:
+109	suc27g3.f	/^109   continue$/;"	l	subroutine:suc27g3	file:
+109	suc8g2.f	/^109   continue$/;"	l	subroutine:suc8g2	file:
+1099	stres.f	/^1099  continue$/;"	l	subroutine:root	file:
+11	eddm.f	/^11      continue$/;"	l	subroutine:eddm	file:
+11	ssc27g3.f	/^11     fssc27g31=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+11	ssc27g3.f	/^11     fssc27g32=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+11	ssc27g3.f	/^11     fssc27g33=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+11	ssc27g3.f	/^11     fssc27g34=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+11	ssc27g3.f	/^11     fssc27g35=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+11	ssc27g3.f	/^11     fssc27g36=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+11	suc27g3.f	/^11     fsuc27g31=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+11	suc27g3.f	/^11     fsuc27g32=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+11	suc27g3.f	/^11     fsuc27g33=+(+1.-rx**2)*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+110	eddm.f	/^110   continue$/;"	l	subroutine:etsub	file:
+110	suc8g2.f	/^110   continue$/;"	l	subroutine:suc8g2	file:
+1100	azpartition.f	/^1100  format(10i10)$/;"	l	subroutine:azpartition	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READCOOR	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READDISP0	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READDISP1	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READDISP2	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READDISP3	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READELEM	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READEYTPE	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READID	file:
+1100	azrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:READSSUBNODES	file:
+1100	azsendpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:azsendpart	file:
+1100	fepglib.f	/^1100  CONTINUE$/;"	l	subroutine:INVER	file:
+1100	gp.f	/^1100  format(1x,i10,28i10)$/;"	l	subroutine:gidpostf	file:
+1100	huw6m.f	/^1100  continue$/;"	l	subroutine:huw6m	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADCOOR	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADDISP0	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADDISP1	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADDISP2	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADDISP3	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADELEM	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADEYTPE	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADID	file:
+1100	msazrecvpart.f	/^1100    format(i6,8e16.5)$/;"	l	subroutine:MREADSSUBNODES	file:
+1100	partit.f	/^1100  format(10i10)$/;"	l	subroutine:azpartition	file:
+1100	partition.f	/^1100  format(10i10)$/;"	l	subroutine:azpartition	file:
+1100	suc27g3.f	/^1100  continue$/;"	l	subroutine:suc27g3	file:
+1100	suc8g2.f	/^1100  continue$/;"	l	subroutine:suc8g2	file:
+1100	umcazpartition.f	/^1100  format(10i10)$/;"	l	subroutine:azpartition	file:
+111	suc8g2.f	/^111   continue$/;"	l	subroutine:suc8g2	file:
+112	suc8g2.f	/^112   continue$/;"	l	subroutine:suc8g2	file:
+113	suc8g2.f	/^113   continue$/;"	l	subroutine:suc8g2	file:
+114	suc8g2.f	/^114   continue$/;"	l	subroutine:suc8g2	file:
+115	eddm.f	/^115     continue$/;"	l	subroutine:eddm	file:
+115	esddm.f	/^115     CONTINUE$/;"	l	subroutine:esddm	file:
+115	suc8g2.f	/^115   continue$/;"	l	subroutine:suc8g2	file:
+12	ssc27g3.f	/^12     fssc27g31=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+12	ssc27g3.f	/^12     fssc27g32=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+12	ssc27g3.f	/^12     fssc27g33=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+12	ssc27g3.f	/^12     fssc27g34=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+12	ssc27g3.f	/^12     fssc27g35=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+12	ssc27g3.f	/^12     fssc27g36=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+12	suc27g3.f	/^12     fsuc27g31=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+12	suc27g3.f	/^12     fsuc27g32=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+12	suc27g3.f	/^12     fsuc27g33=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+120	eddm.f	/^120   R(NR) = COOR(I,JNOD)$/;"	l	subroutine:etsub	file:
+120	esddm.f	/^120   R(NR) = COOR(I,JNOD)$/;"	l	subroutine:EsTSUB	file:
+1200	azpartition.f	/^1200  format(i10,e15.5)$/;"	l	subroutine:azpartition	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READCOOR	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READDISP0	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READDISP1	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READDISP2	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READDISP3	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READELEM	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READEYTPE	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READID	file:
+1200	azrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:READSSUBNODES	file:
+1200	azsendpart.f	/^1200    format(6i6)$/;"	l	subroutine:azsendpart	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADCOOR	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADDISP0	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADDISP1	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADDISP2	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADDISP3	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADELEM	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADEYTPE	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADID	file:
+1200	msazrecvpart.f	/^1200    format(6i6)$/;"	l	subroutine:MREADSSUBNODES	file:
+1200	partit.f	/^1200  format(i10,e15.5)$/;"	l	subroutine:azpartition	file:
+1200	partition.f	/^1200  format(i10,e15.5)$/;"	l	subroutine:azpartition	file:
+1200	umcazpartition.f	/^1200  format(i10,e15.5)$/;"	l	subroutine:azpartition	file:
+1201	azpartition.f	/^1201   format(i10,10e15.5)$/;"	l	subroutine:azpartition	file:
+1201	partit.f	/^1201   format(i10,10e15.5)$/;"	l	subroutine:azpartition	file:
+1201	partition.f	/^1201   format(i10,10e15.5)$/;"	l	subroutine:azpartition	file:
+1201	umcazpartition.f	/^1201   format(i10,10e15.5)$/;"	l	subroutine:azpartition	file:
+1212	azsendpart.f	/^1212  continue$/;"	l	subroutine:azsendpart	file:
+123	stres.f	/^123     continue$/;"	l	subroutine:GETSTR	file:
+127	esddm.f	/^127        CONTINUE$/;"	l	subroutine:esddm	file:
+13	ssc27g3.f	/^13     fssc27g31=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+13	ssc27g3.f	/^13     fssc27g32=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+13	ssc27g3.f	/^13     fssc27g33=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+13	ssc27g3.f	/^13     fssc27g34=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+13	ssc27g3.f	/^13     fssc27g35=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+13	ssc27g3.f	/^13     fssc27g36=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+13	suc27g3.f	/^13     fsuc27g31=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+13	suc27g3.f	/^13     fsuc27g32=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+13	suc27g3.f	/^13     fsuc27g33=+rx*(+rx-1.)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+130	eddm.f	/^130   CONTINUE$/;"	l	subroutine:etsub	file:
+130	esddm.f	/^130   CONTINUE$/;"	l	subroutine:EsTSUB	file:
+14	ssc27g3.f	/^14     fssc27g31=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+14	ssc27g3.f	/^14     fssc27g32=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+14	ssc27g3.f	/^14     fssc27g33=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+14	ssc27g3.f	/^14     fssc27g34=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+14	ssc27g3.f	/^14     fssc27g35=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+14	ssc27g3.f	/^14     fssc27g36=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+14	suc27g3.f	/^14     fsuc27g31=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+14	suc27g3.f	/^14     fsuc27g32=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+14	suc27g3.f	/^14     fsuc27g33=+(+1.-rx**2)*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+140	eddm.f	/^140   PRMT(J) = EMATE((IMATE-1)*NMATE+J)$/;"	l	subroutine:etsub	file:
+140	esddm.f	/^140   PRMT(J) = EMATE((IMATE-1)*NMATE+J)$/;"	l	subroutine:EsTSUB	file:
+140	fepglib.f	/^140   continue$/;"	l	subroutine:trimesh	file:
+1400	fepglib.f	/^1400   CONTINUE$/;"	l	subroutine:INVER	file:
+15	ddmsub.f	/^15      CONTINUE$/;"	l	subroutine:POINTIN	file:
+15	fepglib.f	/^15    C=C+Z(L,I)**2$/;"	l	subroutine:SMIT	file:
+15	ssc27g3.f	/^15     fssc27g31=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+15	ssc27g3.f	/^15     fssc27g32=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+15	ssc27g3.f	/^15     fssc27g33=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+15	ssc27g3.f	/^15     fssc27g34=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+15	ssc27g3.f	/^15     fssc27g35=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+15	ssc27g3.f	/^15     fssc27g36=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+15	suc27g3.f	/^15     fsuc27g31=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+15	suc27g3.f	/^15     fsuc27g32=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+15	suc27g3.f	/^15     fsuc27g33=+rx*(+1.+rx)\/2.*(+1.-ry**2)*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+150	fepglib.f	/^150   continue$/;"	l	subroutine:mid	file:
+150	stres.f	/^150   CONTINUE$/;"	l	subroutine:GETSTR	file:
+1500	fepglib.f	/^1500  CONTINUE$/;"	l	subroutine:INVER	file:
+1500	uddm.f	/^1500    format (1x,4hnode,2x,6(4x,a8))$/;"	l	subroutine:Muddm	file:
+16	eddm.f	/^16     format (1x,10i5)$/;"	l	subroutine:Meddm	file:
+16	ssc27g3.f	/^16     fssc27g31=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+16	ssc27g3.f	/^16     fssc27g32=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+16	ssc27g3.f	/^16     fssc27g33=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+16	ssc27g3.f	/^16     fssc27g34=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+16	ssc27g3.f	/^16     fssc27g35=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+16	ssc27g3.f	/^16     fssc27g36=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+16	suc27g3.f	/^16     fsuc27g31=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+16	suc27g3.f	/^16     fsuc27g32=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+16	suc27g3.f	/^16     fsuc27g33=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+1600	uddm.f	/^1600    format (1x,i4,6e12.5)$/;"	l	subroutine:uddm	file:
+17	eddm.f	/^17     format (1x,6e12.5)$/;"	l	subroutine:Meddm	file:
+17	esddm.f	/^17      FORMAT (1X,10I5)$/;"	l	subroutine:EsTSUB	file:
+17	fepglib.f	/^17    Z(L,I)=Z(L,I)\/C$/;"	l	subroutine:SMIT	file:
+17	ssc27g3.f	/^17     fssc27g31=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+17	ssc27g3.f	/^17     fssc27g32=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+17	ssc27g3.f	/^17     fssc27g33=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+17	ssc27g3.f	/^17     fssc27g34=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+17	ssc27g3.f	/^17     fssc27g35=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+17	ssc27g3.f	/^17     fssc27g36=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+17	suc27g3.f	/^17     fsuc27g31=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+17	suc27g3.f	/^17     fsuc27g32=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+17	suc27g3.f	/^17     fsuc27g33=+(+1.-rx**2)*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+18	azpartition.f	/^18        CONTINUE$/;"	l	subroutine:azpartition	file:
+18	esddm.f	/^18      FORMAT (1X,6E12.5)$/;"	l	subroutine:EsTSUB	file:
+18	ssc27g3.f	/^18     fssc27g31=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g31	file:
+18	ssc27g3.f	/^18     fssc27g32=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g32	file:
+18	ssc27g3.f	/^18     fssc27g33=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g33	file:
+18	ssc27g3.f	/^18     fssc27g34=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g34	file:
+18	ssc27g3.f	/^18     fssc27g35=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g35	file:
+18	ssc27g3.f	/^18     fssc27g36=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fssc27g36	file:
+18	start.f	/^18        CONTINUE$/;"	l	subroutine:start	file:
+18	suc27g3.f	/^18     fsuc27g31=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g31	file:
+18	suc27g3.f	/^18     fsuc27g32=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g32	file:
+18	suc27g3.f	/^18     fsuc27g33=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*(+1.-rz**2) $/;"	l	function:fsuc27g33	file:
+18	umcazpartition.f	/^18        CONTINUE$/;"	l	subroutine:azpartition	file:
+19	ssc27g3.f	/^19     fssc27g31=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g31	file:
+19	ssc27g3.f	/^19     fssc27g32=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g32	file:
+19	ssc27g3.f	/^19     fssc27g33=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g33	file:
+19	ssc27g3.f	/^19     fssc27g34=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g34	file:
+19	ssc27g3.f	/^19     fssc27g35=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g35	file:
+19	ssc27g3.f	/^19     fssc27g36=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g36	file:
+19	suc27g3.f	/^19     fsuc27g31=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g31	file:
+19	suc27g3.f	/^19     fsuc27g32=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g32	file:
+19	suc27g3.f	/^19     fsuc27g33=+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g33	file:
+2	ddmsub.f	/^2       CONTINUE$/;"	l	subroutine:GETD	file:
+2	ddmsub.f	/^2       CONTINUE$/;"	l	subroutine:POINTIN	file:
+2	esddm.f	/^2        CLOSE(26)$/;"	l	subroutine:Mesddm	file:
+2	esddm.f	/^2     continue$/;"	l	subroutine:EsTSUB	file:
+2	fepglib.f	/^2     ib(i) = (2*n+3-i)*i\/2$/;"	l	subroutine:boun3	file:
+2	fepglib.f	/^2     ib(i) = (n+1)*i$/;"	l	subroutine:boun4	file:
+2	gp.f	/^2       continue$/;"	l	subroutine:gidpostf	file:
+2	hsw6m.f	/^2     continue$/;"	l	subroutine:hsw6m	file:
+2	hsw6m.f	/^2     fehsw6m=+(+rx*(+1.-rz)\/2.)*v(1)+(+ry*(+1.-rz)\/2.)*v(2)$/;"	l	function:fehsw6m	file:
+2	hsw6m.f	/^2     fhsw6m1=+ry*(+1.-rz)\/2. $/;"	l	function:fhsw6m1	file:
+2	hsw6m.f	/^2     fhsw6m2=+ry*(+1.-rz)\/2. $/;"	l	function:fhsw6m2	file:
+2	hsw6m.f	/^2     fhsw6m3=+ry*(+1.-rz)\/2. $/;"	l	function:fhsw6m3	file:
+2	hsw6m.f	/^2     fhsw6m4=+ry*(+1.-rz)\/2. $/;"	l	function:fhsw6m4	file:
+2	hsw6m.f	/^2     fhsw6m5=+ry*(+1.-rz)\/2. $/;"	l	function:fhsw6m5	file:
+2	hsw6m.f	/^2     fhsw6m6=+ry*(+1.-rz)\/2. $/;"	l	function:fhsw6m6	file:
+2	hsw6m.f	/^2     fthsw6m=+(+rx*(+1.-rz)\/2.)*y(1)+(+ry*(+1.-rz)\/2.)*y(2)$/;"	l	function:fthsw6m	file:
+2	hulq4g2.f	/^2     continue$/;"	l	subroutine:hulq4g2	file:
+2	hulq4g2.f	/^2     fehulq4g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.)*gy(1)+(+(+1.+rx)\/$/;"	l	function:fehulq4g2	file:
+2	hulq4g2.f	/^2     fhulq4g21=+(+1.+rx)\/2.*(+1.-ry)\/2. $/;"	l	function:fhulq4g21	file:
+2	hulq4g2.f	/^2     fhulq4g22=+(+1.+rx)\/2.*(+1.-ry)\/2. $/;"	l	function:fhulq4g22	file:
+2	hulq4g2.f	/^2     fhulq4g23=+(+1.+rx)\/2.*(+1.-ry)\/2. $/;"	l	function:fhulq4g23	file:
+2	hulq4g2.f	/^2     fthulq4g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.)*y(1)+(+(+1.+rx)\/$/;"	l	function:fthulq4g2	file:
+2	huw6m.f	/^2     continue$/;"	l	subroutine:huw6m	file:
+2	huw6m.f	/^2     fehuw6m=+(+rx*(+1.-rz)\/2.)*vn(1)+(+ry*(+1.-rz)\/2.)*vn(2)$/;"	l	function:fehuw6m	file:
+2	huw6m.f	/^2     fhuw6m1=+ry*(+1.-rz)\/2. $/;"	l	function:fhuw6m1	file:
+2	huw6m.f	/^2     fhuw6m2=+ry*(+1.-rz)\/2. $/;"	l	function:fhuw6m2	file:
+2	huw6m.f	/^2     fhuw6m3=+ry*(+1.-rz)\/2. $/;"	l	function:fhuw6m3	file:
+2	huw6m.f	/^2     fthuw6m=+(+rx*(+1.-rz)\/2.)*y(1)+(+ry*(+1.-rz)\/2.)*y(2)$/;"	l	function:fthuw6m	file:
+2	nzrecvdip.f	/^2        open(22,file='munod0',form='unformatted',status='unknown')$/;"	l	subroutine:Mnzrecvdip	file:
+2	ssc27g3.f	/^2     continue$/;"	l	subroutine:ssc27g3	file:
+2	ssc27g3.f	/^2     fessc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:fessc27g3	file:
+2	ssc27g3.f	/^2     fssc27g31=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g31	file:
+2	ssc27g3.f	/^2     fssc27g32=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g32	file:
+2	ssc27g3.f	/^2     fssc27g33=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g33	file:
+2	ssc27g3.f	/^2     fssc27g34=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g34	file:
+2	ssc27g3.f	/^2     fssc27g35=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g35	file:
+2	ssc27g3.f	/^2     fssc27g36=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g36	file:
+2	ssc27g3.f	/^2     ftssc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:ftssc27g3	file:
+2	ssc8g2.f	/^2     continue$/;"	l	subroutine:ssc8g2	file:
+2	ssc8g2.f	/^2     fessc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*v(1)$/;"	l	function:fessc8g2	file:
+2	ssc8g2.f	/^2     fssc8g21=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g21	file:
+2	ssc8g2.f	/^2     fssc8g22=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g22	file:
+2	ssc8g2.f	/^2     fssc8g23=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g23	file:
+2	ssc8g2.f	/^2     fssc8g24=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g24	file:
+2	ssc8g2.f	/^2     fssc8g25=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g25	file:
+2	ssc8g2.f	/^2     fssc8g26=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g26	file:
+2	ssc8g2.f	/^2     ftssc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*y(1)$/;"	l	function:ftssc8g2	file:
+2	suc27g3.f	/^2     continue$/;"	l	subroutine:suc27g3	file:
+2	suc27g3.f	/^2     fesuc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:fesuc27g3	file:
+2	suc27g3.f	/^2     fsuc27g31=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g31	file:
+2	suc27g3.f	/^2     fsuc27g32=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g32	file:
+2	suc27g3.f	/^2     fsuc27g33=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g33	file:
+2	suc27g3.f	/^2     ftsuc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:ftsuc27g3	file:
+2	suc8g2.f	/^2     continue$/;"	l	subroutine:suc8g2	file:
+2	suc8g2.f	/^2     fesuc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*vn(1)$/;"	l	function:fesuc8g2	file:
+2	suc8g2.f	/^2     fsuc8g21=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g21	file:
+2	suc8g2.f	/^2     fsuc8g22=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g22	file:
+2	suc8g2.f	/^2     fsuc8g23=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g23	file:
+2	suc8g2.f	/^2     ftsuc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*y(1)$/;"	l	function:ftsuc8g2	file:
+2	uddm.f	/^2        open(20,file='munod0',form='unformatted',status='unknown')$/;"	l	subroutine:Muddm	file:
+20	azpartition.f	/^20      CONTINUE$/;"	l	subroutine:azpartition	file:
+20	ddmsub.f	/^20      CONTINUE$/;"	l	subroutine:POINTIN	file:
+20	fepglib.f	/^   20 TA(K) = CC$/;"	l	subroutine:TKT	file:
+20	fepglib.f	/^   20 TF(I) = CC$/;"	l	subroutine:TL	file:
+20	fepglib.f	/^   20 TF(I) = CC$/;"	l	subroutine:TMT	file:
+20	fepglib.f	/^20    CONTINUE$/;"	l	subroutine:SMIT	file:
+20	fepglib.f	/^20    SHPC(I,LC+J) = C$/;"	l	subroutine:SHAP	file:
+20	fepglib.f	/^20    SHPC(I,LC+J) = C$/;"	l	subroutine:SHAPc	file:
+20	fepglib.f	/^20    SHPC(I,LC+J) = C$/;"	l	subroutine:SHAPn	file:
+20	fepglib.f	/^20    continue$/;"	l	subroutine:getname	file:
+20	fepglib.f	/^20    continue$/;"	l	subroutine:splin1	file:
+20	ssc27g3.f	/^20     fssc27g31=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g31	file:
+20	ssc27g3.f	/^20     fssc27g32=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g32	file:
+20	ssc27g3.f	/^20     fssc27g33=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g33	file:
+20	ssc27g3.f	/^20     fssc27g34=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g34	file:
+20	ssc27g3.f	/^20     fssc27g35=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g35	file:
+20	ssc27g3.f	/^20     fssc27g36=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g36	file:
+20	ssc8g2.f	/^20     continue$/;"	l	subroutine:ssc8g2	file:
+20	start.f	/^20      CONTINUE$/;"	l	subroutine:start	file:
+20	stres.f	/^20    CONTINUE$/;"	l	subroutine:GETSTR	file:
+20	stres.f	/^20    x2 = x1 + 1.1*(x1-x2)$/;"	l	subroutine:root	file:
+20	suc27g3.f	/^20     fsuc27g31=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g31	file:
+20	suc27g3.f	/^20     fsuc27g32=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g32	file:
+20	suc27g3.f	/^20     fsuc27g33=+(+1.-rx**2)*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g33	file:
+20	suc8g2.f	/^20     continue$/;"	l	subroutine:suc8g2	file:
+20	umcazpartition.f	/^20      CONTINUE$/;"	l	subroutine:azpartition	file:
+200	ddmsub.f	/^200       CONTINUE$/;"	l	subroutine:GETIDL	file:
+200	ddmsub.f	/^200       CONTINUE$/;"	l	subroutine:POSTVALUECONTACT	file:
+200	ddmsub.f	/^200    continue$/;"	l	subroutine:ch	file:
+200	eddm.f	/^200     continue$/;"	l	subroutine:eddm	file:
+200	esddm.f	/^200     CONTINUE$/;"	l	subroutine:esddm	file:
+200	fepglib.f	/^  200 continue$/;"	l	subroutine:gqm4	file:
+200	fepglib.f	/^  200 continue$/;"	l	subroutine:gqm8	file:
+200	fepglib.f	/^  200 continue$/;"	l	subroutine:gtm3	file:
+200	fepglib.f	/^  200 continue$/;"	l	subroutine:gtm6	file:
+200	fepglib.f	/^  200 continue$/;"	l	subroutine:gtnod3	file:
+200	fepglib.f	/^200      R0 = R0 - A(I,L) * A(J,L)$/;"	l	subroutine:INVER	file:
+200	fepglib.f	/^200    F(I) = S0 \/ A(I,I)$/;"	l	subroutine:SOLVE	file:
+200	fepglib.f	/^200   CONTINUE$/;"	l	subroutine:PLINE	file:
+200	fepglib.f	/^200   CONTINUE$/;"	l	subroutine:QMESH	file:
+200	fepglib.f	/^200   CONTINUE$/;"	l	subroutine:TMESH	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:dcoef	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:dcoor	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:dshap	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:gets	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:gets1	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:getxy	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:merge	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:mid	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:sdcdx	file:
+200	fepglib.f	/^200   continue$/;"	l	subroutine:sdfdx	file:
+200	hsw6m.f	/^200   a(j,k) = a(j,k)-a(i,k)*a(j,i)$/;"	l	subroutine:hsw6mt	file:
+200	hsw6m.f	/^200   continue$/;"	l	subroutine:thsw6m	file:
+200	hulq4g2.f	/^200   a(j,k) = a(j,k)-a(i,k)*a(j,i)$/;"	l	subroutine:hulq4g2t	file:
+200	hulq4g2.f	/^200   continue$/;"	l	subroutine:thulq4g2	file:
+200	huw6m.f	/^200   a(j,k) = a(j,k)-a(i,k)*a(j,i)$/;"	l	subroutine:huw6mt	file:
+200	huw6m.f	/^200   continue$/;"	l	subroutine:thuw6m	file:
+200	plas.f	/^200     CONTINUE$/;"	l	subroutine:GETDP	file:
+200	ssc27g3.f	/^200   a(j,k) = a(j,k)-a(i,k)*a(j,i)$/;"	l	subroutine:ssc27g3t	file:
+200	ssc27g3.f	/^200   continue$/;"	l	subroutine:tssc27g3	file:
+200	ssc8g2.f	/^200   a(j,k) = a(j,k)-a(i,k)*a(j,i)$/;"	l	subroutine:ssc8g2t	file:
+200	ssc8g2.f	/^200   continue$/;"	l	subroutine:tssc8g2	file:
+200	start.f	/^200     CONTINUE$/;"	l	subroutine:start	file:
+200	stres.f	/^200     CONTINUE$/;"	l	function:F	file:
+200	stres.f	/^200   CONTINUE$/;"	l	subroutine:GETSTR	file:
+200	suc27g3.f	/^200   a(j,k) = a(j,k)-a(i,k)*a(j,i)$/;"	l	subroutine:suc27g3t	file:
+200	suc27g3.f	/^200   continue$/;"	l	subroutine:tsuc27g3	file:
+200	suc8g2.f	/^200   a(j,k) = a(j,k)-a(i,k)*a(j,i)$/;"	l	subroutine:suc8g2t	file:
+200	suc8g2.f	/^200   continue$/;"	l	subroutine:tsuc8g2	file:
+200	uddm.f	/^200     continue$/;"	l	subroutine:uddm	file:
+2000	ddmsub.f	/^2000   continue$/;"	l	subroutine:dualnode	file:
+2000	fepglib.f	/^2000    FORMAT (1X,4X,17HA is singular  I=,I4,9H  Lii**2=,E15.7)$/;"	l	subroutine:INVER	file:
+2000	nzdmbsdiag.f	/^2000    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+2000	stres.f	/^2000  format(1x,3hx =,f16.6,3x,3hf =,f16.6)$/;"	l	subroutine:root	file:
+2001	azpartition.f	/^2001   continue$/;"	l	subroutine:azpartition	file:
+2001	partit.f	/^2001   continue$/;"	l	subroutine:azpartition	file:
+2001	partition.f	/^2001   continue$/;"	l	subroutine:azpartition	file:
+2001	umcazpartition.f	/^2001   continue$/;"	l	subroutine:azpartition	file:
+2002	azpartition.f	/^2002   continue$/;"	l	subroutine:azpartition	file:
+2002	partit.f	/^2002   continue$/;"	l	subroutine:azpartition	file:
+2002	partition.f	/^2002   continue$/;"	l	subroutine:azpartition	file:
+2002	umcazpartition.f	/^2002   continue$/;"	l	subroutine:azpartition	file:
+2003	azpartition.f	/^2003   continue$/;"	l	subroutine:azpartition	file:
+2003	partit.f	/^2003   continue$/;"	l	subroutine:azpartition	file:
+2003	partition.f	/^2003   continue$/;"	l	subroutine:azpartition	file:
+2003	umcazpartition.f	/^2003   continue$/;"	l	subroutine:azpartition	file:
+2004	azpartition.f	/^2004   continue$/;"	l	subroutine:azpartition	file:
+2004	partit.f	/^2004   continue$/;"	l	subroutine:azpartition	file:
+2004	partition.f	/^2004   continue$/;"	l	subroutine:azpartition	file:
+2004	umcazpartition.f	/^2004   continue$/;"	l	subroutine:azpartition	file:
+2005	azpartition.f	/^2005   continue$/;"	l	subroutine:azpartition	file:
+2005	partit.f	/^2005   continue$/;"	l	subroutine:azpartition	file:
+2005	partition.f	/^2005   continue$/;"	l	subroutine:azpartition	file:
+2005	umcazpartition.f	/^2005   continue$/;"	l	subroutine:azpartition	file:
+201	eddm.f	/^201   continue$/;"	l	subroutine:etsub	file:
+201	esddm.f	/^201   continue$/;"	l	subroutine:EsTSUB	file:
+201	hsw6m.f	/^201    continue$/;"	l	subroutine:hsw6m	file:
+201	hulq4g2.f	/^201    continue$/;"	l	subroutine:hulq4g2	file:
+201	huw6m.f	/^201    continue$/;"	l	subroutine:huw6m	file:
+201	ssc27g3.f	/^201    continue$/;"	l	subroutine:ssc27g3	file:
+201	ssc8g2.f	/^201    continue$/;"	l	subroutine:ssc8g2	file:
+201	suc27g3.f	/^201    continue$/;"	l	subroutine:suc27g3	file:
+201	suc8g2.f	/^201    continue$/;"	l	subroutine:suc8g2	file:
+202	eddm.f	/^202   continue$/;"	l	subroutine:etsub	file:
+202	esddm.f	/^202   continue$/;"	l	subroutine:EsTSUB	file:
+202	hsw6m.f	/^202    continue$/;"	l	subroutine:hsw6m	file:
+202	hulq4g2.f	/^202    continue$/;"	l	subroutine:hulq4g2	file:
+202	huw6m.f	/^202    continue$/;"	l	subroutine:huw6m	file:
+202	ssc27g3.f	/^202    continue$/;"	l	subroutine:ssc27g3	file:
+202	ssc8g2.f	/^202    continue$/;"	l	subroutine:ssc8g2	file:
+202	suc27g3.f	/^202    continue$/;"	l	subroutine:suc27g3	file:
+202	suc8g2.f	/^202    continue$/;"	l	subroutine:suc8g2	file:
+203	esddm.f	/^203   continue$/;"	l	subroutine:EsTSUB	file:
+204	esddm.f	/^204   continue$/;"	l	subroutine:EsTSUB	file:
+21	ssc27g3.f	/^21     fssc27g31=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g31	file:
+21	ssc27g3.f	/^21     fssc27g32=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g32	file:
+21	ssc27g3.f	/^21     fssc27g33=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g33	file:
+21	ssc27g3.f	/^21     fssc27g34=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g34	file:
+21	ssc27g3.f	/^21     fssc27g35=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g35	file:
+21	ssc27g3.f	/^21     fssc27g36=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g36	file:
+21	start.f	/^21      CONTINUE$/;"	l	subroutine:start	file:
+21	suc27g3.f	/^21     fsuc27g31=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g31	file:
+21	suc27g3.f	/^21     fsuc27g32=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g32	file:
+21	suc27g3.f	/^21     fsuc27g33=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g33	file:
+210	ddmsub.f	/^210       CONTINUE$/;"	l	subroutine:POSTVALUECONTACT	file:
+210	eddm.f	/^210     continue$/;"	l	subroutine:eddm	file:
+2100	fepglib.f	/^2100  continue$/;"	l	subroutine:trimesh	file:
+22	ssc27g3.f	/^22     fssc27g31=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g31	file:
+22	ssc27g3.f	/^22     fssc27g32=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g32	file:
+22	ssc27g3.f	/^22     fssc27g33=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g33	file:
+22	ssc27g3.f	/^22     fssc27g34=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g34	file:
+22	ssc27g3.f	/^22     fssc27g35=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g35	file:
+22	ssc27g3.f	/^22     fssc27g36=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g36	file:
+22	start.f	/^22      CONTINUE$/;"	l	subroutine:start	file:
+22	suc27g3.f	/^22     fsuc27g31=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g31	file:
+22	suc27g3.f	/^22     fsuc27g32=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g32	file:
+22	suc27g3.f	/^22     fsuc27g33=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g33	file:
+220	eddm.f	/^220     continue$/;"	l	subroutine:eddm	file:
+2200	fepglib.f	/^2200  continue$/;"	l	subroutine:trimesh	file:
+225	eddm.f	/^225     continue$/;"	l	subroutine:eddm	file:
+226	eddm.f	/^226     continue$/;"	l	subroutine:eddm	file:
+23	ssc27g3.f	/^23     fssc27g31=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g31	file:
+23	ssc27g3.f	/^23     fssc27g32=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g32	file:
+23	ssc27g3.f	/^23     fssc27g33=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g33	file:
+23	ssc27g3.f	/^23     fssc27g34=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g34	file:
+23	ssc27g3.f	/^23     fssc27g35=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g35	file:
+23	ssc27g3.f	/^23     fssc27g36=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g36	file:
+23	suc27g3.f	/^23     fsuc27g31=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g31	file:
+23	suc27g3.f	/^23     fsuc27g32=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g32	file:
+23	suc27g3.f	/^23     fsuc27g33=+(+1.-rx**2)*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g33	file:
+2300	azsolv.f	/^2300  continue$/;"	l	subroutine:Mazsolv	file:
+2300	dmbs2dmsr.f	/^2300  continue$/;"	l	subroutine:Mdmbs2dmsr	file:
+2300	eddm.f	/^2300  continue$/;"	l	subroutine:Meddm	file:
+2300	nzdmbsdiag.f	/^2300  continue$/;"	l	subroutine:Mnzdmbsdiag	file:
+2300	uddm.f	/^2300    continue$/;"	l	subroutine:Muddm	file:
+234	stres.f	/^234   continue$/;"	l	subroutine:GETSTR	file:
+24	ssc27g3.f	/^24     fssc27g31=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g31	file:
+24	ssc27g3.f	/^24     fssc27g32=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g32	file:
+24	ssc27g3.f	/^24     fssc27g33=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g33	file:
+24	ssc27g3.f	/^24     fssc27g34=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g34	file:
+24	ssc27g3.f	/^24     fssc27g35=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g35	file:
+24	ssc27g3.f	/^24     fssc27g36=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g36	file:
+24	suc27g3.f	/^24     fsuc27g31=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g31	file:
+24	suc27g3.f	/^24     fsuc27g32=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g32	file:
+24	suc27g3.f	/^24     fsuc27g33=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g33	file:
+2400	fepglib.f	/^2400  continue$/;"	l	subroutine:trimesh	file:
+25	ddmsub.f	/^25      CONTINUE$/;"	l	subroutine:POINTIN	file:
+25	ssc27g3.f	/^25     fssc27g31=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g31	file:
+25	ssc27g3.f	/^25     fssc27g32=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g32	file:
+25	ssc27g3.f	/^25     fssc27g33=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g33	file:
+25	ssc27g3.f	/^25     fssc27g34=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g34	file:
+25	ssc27g3.f	/^25     fssc27g35=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g35	file:
+25	ssc27g3.f	/^25     fssc27g36=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g36	file:
+25	suc27g3.f	/^25     fsuc27g31=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g31	file:
+25	suc27g3.f	/^25     fsuc27g32=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g32	file:
+25	suc27g3.f	/^25     fsuc27g33=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g33	file:
+250	fepglib.f	/^250     continue$/;"	l	subroutine:delnod	file:
+26	ssc27g3.f	/^26     fssc27g31=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g31	file:
+26	ssc27g3.f	/^26     fssc27g32=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g32	file:
+26	ssc27g3.f	/^26     fssc27g33=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g33	file:
+26	ssc27g3.f	/^26     fssc27g34=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g34	file:
+26	ssc27g3.f	/^26     fssc27g35=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g35	file:
+26	ssc27g3.f	/^26     fssc27g36=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fssc27g36	file:
+26	suc27g3.f	/^26     fsuc27g31=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g31	file:
+26	suc27g3.f	/^26     fsuc27g32=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g32	file:
+26	suc27g3.f	/^26     fsuc27g33=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/2. $/;"	l	function:fsuc27g33	file:
+260	fepglib.f	/^260     continue$/;"	l	subroutine:delnod	file:
+2600	fepglib.f	/^2600  continue$/;"	l	subroutine:trimesh	file:
+2650	fepglib.f	/^2650  continue$/;"	l	subroutine:trimesh	file:
+27	azpartition.f	/^27          continue$/;"	l	subroutine:azpartition	file:
+27	ssc27g3.f	/^27     fssc27g31=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g31	file:
+27	ssc27g3.f	/^27     fssc27g32=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g32	file:
+27	ssc27g3.f	/^27     fssc27g33=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g33	file:
+27	ssc27g3.f	/^27     fssc27g34=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g34	file:
+27	ssc27g3.f	/^27     fssc27g35=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g35	file:
+27	ssc27g3.f	/^27     fssc27g36=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fssc27g36	file:
+27	start.f	/^27          CONTINUE$/;"	l	subroutine:start	file:
+27	suc27g3.f	/^27     fsuc27g31=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g31	file:
+27	suc27g3.f	/^27     fsuc27g32=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g32	file:
+27	suc27g3.f	/^27     fsuc27g33=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+1.+rz)\/$/;"	l	function:fsuc27g33	file:
+27	umcazpartition.f	/^27          continue$/;"	l	subroutine:azpartition	file:
+270	fepglib.f	/^270     continue$/;"	l	subroutine:delnod	file:
+2700	fepglib.f	/^2700  continue$/;"	l	subroutine:trimesh	file:
+28	azpartition.f	/^28        continue$/;"	l	subroutine:azpartition	file:
+28	start.f	/^28        CONTINUE$/;"	l	subroutine:start	file:
+28	umcazpartition.f	/^28        continue$/;"	l	subroutine:azpartition	file:
+280	eddm.f	/^280     CONTINUE$/;"	l	subroutine:ADDMBS	file:
+280	eddm.f	/^280     CONTINUE$/;"	l	subroutine:NZADDMBS	file:
+280	nzdmbsdiag.f	/^280     continue$/;"	l	subroutine:nzdmbsadd	file:
+2800	fepglib.f	/^2800  continue$/;"	l	subroutine:trimesh	file:
+3	ddmsub.f	/^3       CONTINUE$/;"	l	subroutine:GETD	file:
+3	ddmsub.f	/^3       CONTINUE$/;"	l	subroutine:POINTIN	file:
+3	fepglib.f	/^   3  continue$/;"	l	subroutine:gqm4	file:
+3	fepglib.f	/^3     R(I,J)=R(I,J)-R1(I)$/;"	l	subroutine:SMIT	file:
+3	fepglib.f	/^3     ib(i) = ((n+2)*(n+1)-(i+1)*i)\/2+1$/;"	l	subroutine:boun3	file:
+3	fepglib.f	/^3     ib(i) = (n+1)*n+i$/;"	l	subroutine:boun4	file:
+3	gp.f	/^3     continue$/;"	l	subroutine:gidpostf	file:
+3	hsw6m.f	/^3     fehsw6m=+(+rx*(+1.-rz)\/2.)*w(1)+(+ry*(+1.-rz)\/2.)*w(2)$/;"	l	function:fehsw6m	file:
+3	hsw6m.f	/^3     fhsw6m1=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhsw6m1	file:
+3	hsw6m.f	/^3     fhsw6m2=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhsw6m2	file:
+3	hsw6m.f	/^3     fhsw6m3=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhsw6m3	file:
+3	hsw6m.f	/^3     fhsw6m4=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhsw6m4	file:
+3	hsw6m.f	/^3     fhsw6m5=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhsw6m5	file:
+3	hsw6m.f	/^3     fhsw6m6=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhsw6m6	file:
+3	hsw6m.f	/^3     fthsw6m=+(+rx*(+1.-rz)\/2.)*z(1)+(+ry*(+1.-rz)\/2.)*z(2)$/;"	l	function:fthsw6m	file:
+3	hulq4g2.f	/^3     fehulq4g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.)*gz(1)+(+(+1.+rx)\/$/;"	l	function:fehulq4g2	file:
+3	hulq4g2.f	/^3     fhulq4g21=+(+1.+rx)\/2.*(+1.+ry)\/2. $/;"	l	function:fhulq4g21	file:
+3	hulq4g2.f	/^3     fhulq4g22=+(+1.+rx)\/2.*(+1.+ry)\/2. $/;"	l	function:fhulq4g22	file:
+3	hulq4g2.f	/^3     fhulq4g23=+(+1.+rx)\/2.*(+1.+ry)\/2. $/;"	l	function:fhulq4g23	file:
+3	huw6m.f	/^3     fehuw6m=+(+rx*(+1.-rz)\/2.)*wn(1)+(+ry*(+1.-rz)\/2.)*wn(2)$/;"	l	function:fehuw6m	file:
+3	huw6m.f	/^3     fhuw6m1=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhuw6m1	file:
+3	huw6m.f	/^3     fhuw6m2=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhuw6m2	file:
+3	huw6m.f	/^3     fhuw6m3=+(+1.-rx-ry)*(+1.-rz)\/2. $/;"	l	function:fhuw6m3	file:
+3	huw6m.f	/^3     fthuw6m=+(+rx*(+1.-rz)\/2.)*z(1)+(+ry*(+1.-rz)\/2.)*z(2)$/;"	l	function:fthuw6m	file:
+3	nzrecvstr.f	/^3        close(22)$/;"	l	subroutine:Mnzrecvstr	file:
+3	ssc27g3.f	/^3     fessc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:fessc27g3	file:
+3	ssc27g3.f	/^3     fssc27g31=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g31	file:
+3	ssc27g3.f	/^3     fssc27g32=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g32	file:
+3	ssc27g3.f	/^3     fssc27g33=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g33	file:
+3	ssc27g3.f	/^3     fssc27g34=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g34	file:
+3	ssc27g3.f	/^3     fssc27g35=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g35	file:
+3	ssc27g3.f	/^3     fssc27g36=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g36	file:
+3	ssc27g3.f	/^3     ftssc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:ftssc27g3	file:
+3	ssc8g2.f	/^3     fessc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*w(1)$/;"	l	function:fessc8g2	file:
+3	ssc8g2.f	/^3     fssc8g21=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g21	file:
+3	ssc8g2.f	/^3     fssc8g22=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g22	file:
+3	ssc8g2.f	/^3     fssc8g23=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g23	file:
+3	ssc8g2.f	/^3     fssc8g24=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g24	file:
+3	ssc8g2.f	/^3     fssc8g25=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g25	file:
+3	ssc8g2.f	/^3     fssc8g26=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g26	file:
+3	ssc8g2.f	/^3     ftssc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*z(1)$/;"	l	function:ftssc8g2	file:
+3	suc27g3.f	/^3     fesuc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:fesuc27g3	file:
+3	suc27g3.f	/^3     fsuc27g31=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g31	file:
+3	suc27g3.f	/^3     fsuc27g32=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g32	file:
+3	suc27g3.f	/^3     fsuc27g33=+rx*(+1.+rx)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g33	file:
+3	suc27g3.f	/^3     ftsuc27g3=+(+rx*(+rx-1.)\/2.*ry*(+ry-1.)\/2.*rz*(+rz-$/;"	l	function:ftsuc27g3	file:
+3	suc8g2.f	/^3     fesuc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*wn(1)$/;"	l	function:fesuc8g2	file:
+3	suc8g2.f	/^3     fsuc8g21=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g21	file:
+3	suc8g2.f	/^3     fsuc8g22=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g22	file:
+3	suc8g2.f	/^3     fsuc8g23=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g23	file:
+3	suc8g2.f	/^3     ftsuc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*z(1)$/;"	l	function:ftsuc8g2	file:
+30	ddmsub.f	/^30      CONTINUE$/;"	l	subroutine:POINTIN	file:
+30	fepglib.f	/^   30  DD = DD + TA(K)*T(K , J)$/;"	l	subroutine:TKT	file:
+30	fepglib.f	/^30    C = C+Z(I,2)*Z(I,2)$/;"	l	subroutine:SMIT	file:
+30	fepglib.f	/^30    CONTINUE$/;"	l	function:FLINT	file:
+30	fepglib.f	/^30    CONTINUE$/;"	l	subroutine:SHAP	file:
+30	fepglib.f	/^30    CONTINUE$/;"	l	subroutine:SHAPc	file:
+30	fepglib.f	/^30    CONTINUE$/;"	l	subroutine:SHAPn	file:
+30	fepglib.f	/^30    continue$/;"	l	subroutine:splin1	file:
+30	start.f	/^30      CONTINUE$/;"	l	subroutine:start	file:
+30	stres.f	/^30    if (x1 .ge. x2) go to 40$/;"	l	subroutine:root	file:
+300	ddmsub.f	/^300     continue$/;"	l	subroutine:getec	file:
+300	ddmsub.f	/^300    continue$/;"	l	subroutine:ch	file:
+300	eddm.f	/^300     CONTINUE$/;"	l	subroutine:ADDMBS	file:
+300	eddm.f	/^300     CONTINUE$/;"	l	subroutine:NZADDMBS	file:
+300	esddm.f	/^300     CONTINUE$/;"	l	subroutine:esddm	file:
+300	fepglib.f	/^  300 continue$/;"	l	subroutine:gtm3	file:
+300	fepglib.f	/^  300 continue$/;"	l	subroutine:gtm6	file:
+300	fepglib.f	/^  300 continue$/;"	l	subroutine:gtnod3	file:
+300	fepglib.f	/^300     IF (J .NE. I) GO TO 500$/;"	l	subroutine:INVER	file:
+300	fepglib.f	/^300     continue$/;"	l	subroutine:delnod	file:
+300	fepglib.f	/^300   CONTINUE$/;"	l	subroutine:QMESH	file:
+300	fepglib.f	/^300   CONTINUE$/;"	l	subroutine:TMESH	file:
+300	fepglib.f	/^300   S0 = S0 - A(N-M+I,J)*F(J)$/;"	l	subroutine:SOLVE	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:gets	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:gets1	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:getxy	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:merge	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:mid	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:sdcdx	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:sdfdx	file:
+300	fepglib.f	/^300   continue$/;"	l	subroutine:trinod	file:
+300	hsw6m.f	/^300   continue$/;"	l	subroutine:hsw6mt	file:
+300	hulq4g2.f	/^300   continue$/;"	l	subroutine:hulq4g2t	file:
+300	huw6m.f	/^300   continue$/;"	l	subroutine:huw6mt	file:
+300	nzdmbsdiag.f	/^300     continue$/;"	l	subroutine:nzdmbsadd	file:
+300	ssc27g3.f	/^300   continue$/;"	l	subroutine:ssc27g3t	file:
+300	ssc8g2.f	/^300   continue$/;"	l	subroutine:ssc8g2t	file:
+300	start.f	/^300     CONTINUE$/;"	l	subroutine:start	file:
+300	stres.f	/^300   CONTINUE$/;"	l	subroutine:GETSTR	file:
+300	suc27g3.f	/^300   continue$/;"	l	subroutine:suc27g3t	file:
+300	suc8g2.f	/^300   continue$/;"	l	subroutine:suc8g2t	file:
+3000	nzdmbsdiag.f	/^3000    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+3000	stres.f	/^3000  format(5x,18hfail,nonmonotone f)$/;"	l	subroutine:root	file:
+301	hsw6m.f	/^301   continue$/;"	l	subroutine:hsw6m	file:
+301	hulq4g2.f	/^301   continue$/;"	l	subroutine:hulq4g2	file:
+301	huw6m.f	/^301   continue$/;"	l	subroutine:huw6m	file:
+301	ssc27g3.f	/^301   continue$/;"	l	subroutine:ssc27g3	file:
+301	ssc8g2.f	/^301   continue$/;"	l	subroutine:ssc8g2	file:
+301	stres.f	/^301   CONTINUE$/;"	l	subroutine:GETSTR	file:
+305	eddm.f	/^305   j=0$/;"	l	subroutine:etsub	file:
+305	esddm.f	/^305     J=0$/;"	l	subroutine:EsTSUB	file:
+310	eddm.f	/^310   continue$/;"	l	subroutine:etsub	file:
+310	esddm.f	/^310     CONTINUE$/;"	l	subroutine:EsTSUB	file:
+310	fepglib.f	/^310     continue$/;"	l	subroutine:delnod	file:
+315	fepglib.f	/^315     continue$/;"	l	subroutine:delnod	file:
+320	fepglib.f	/^320     continue$/;"	l	subroutine:delnod	file:
+35	fepglib.f	/^35    Z(I,2) = Z(I,2)\/C$/;"	l	subroutine:SMIT	file:
+350	azsolv.f	/^350    continue$/;"	l	subroutine:callpsolv	file:
+3600	nzdmbsdiag.f	/^3600    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+3700	nzdmbsdiag.f	/^3700    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+4	fepglib.f	/^   4  continue$/;"	l	subroutine:gqm4	file:
+4	fepglib.f	/^4     ib(i) = (n+1)*(i-1)+1$/;"	l	subroutine:boun4	file:
+4	hsw6m.f	/^4     fehsw6m=+(+rx*(+1.-rz)\/2.)*fxx(1)+(+ry*(+1.-rz)\/2.)*fxx(2)$/;"	l	function:fehsw6m	file:
+4	hsw6m.f	/^4     fhsw6m1=+rx*(+1.+rz)\/2. $/;"	l	function:fhsw6m1	file:
+4	hsw6m.f	/^4     fhsw6m2=+rx*(+1.+rz)\/2. $/;"	l	function:fhsw6m2	file:
+4	hsw6m.f	/^4     fhsw6m3=+rx*(+1.+rz)\/2. $/;"	l	function:fhsw6m3	file:
+4	hsw6m.f	/^4     fhsw6m4=+rx*(+1.+rz)\/2. $/;"	l	function:fhsw6m4	file:
+4	hsw6m.f	/^4     fhsw6m5=+rx*(+1.+rz)\/2. $/;"	l	function:fhsw6m5	file:
+4	hsw6m.f	/^4     fhsw6m6=+rx*(+1.+rz)\/2. $/;"	l	function:fhsw6m6	file:
+4	hulq4g2.f	/^4     fhulq4g21=+(+1.-rx)\/2.*(+1.+ry)\/2. $/;"	l	function:fhulq4g21	file:
+4	hulq4g2.f	/^4     fhulq4g22=+(+1.-rx)\/2.*(+1.+ry)\/2. $/;"	l	function:fhulq4g22	file:
+4	hulq4g2.f	/^4     fhulq4g23=+(+1.-rx)\/2.*(+1.+ry)\/2. $/;"	l	function:fhulq4g23	file:
+4	huw6m.f	/^4     fehuw6m=+(+rx*(+1.-rz)\/2.)*fxx(1)+(+ry*(+1.-rz)\/2.)*fxx(2)$/;"	l	function:fehuw6m	file:
+4	huw6m.f	/^4     fhuw6m1=+rx*(+1.+rz)\/2. $/;"	l	function:fhuw6m1	file:
+4	huw6m.f	/^4     fhuw6m2=+rx*(+1.+rz)\/2. $/;"	l	function:fhuw6m2	file:
+4	huw6m.f	/^4     fhuw6m3=+rx*(+1.+rz)\/2. $/;"	l	function:fhuw6m3	file:
+4	ssc27g3.f	/^4     fssc27g31=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g31	file:
+4	ssc27g3.f	/^4     fssc27g32=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g32	file:
+4	ssc27g3.f	/^4     fssc27g33=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g33	file:
+4	ssc27g3.f	/^4     fssc27g34=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g34	file:
+4	ssc27g3.f	/^4     fssc27g35=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g35	file:
+4	ssc27g3.f	/^4     fssc27g36=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g36	file:
+4	ssc8g2.f	/^4     fessc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*fxyz(1)$/;"	l	function:fessc8g2	file:
+4	ssc8g2.f	/^4     fssc8g21=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g21	file:
+4	ssc8g2.f	/^4     fssc8g22=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g22	file:
+4	ssc8g2.f	/^4     fssc8g23=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g23	file:
+4	ssc8g2.f	/^4     fssc8g24=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g24	file:
+4	ssc8g2.f	/^4     fssc8g25=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g25	file:
+4	ssc8g2.f	/^4     fssc8g26=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fssc8g26	file:
+4	suc27g3.f	/^4     fsuc27g31=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g31	file:
+4	suc27g3.f	/^4     fsuc27g32=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g32	file:
+4	suc27g3.f	/^4     fsuc27g33=+rx*(+rx-1.)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g33	file:
+4	suc8g2.f	/^4     fesuc8g2=+(+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.-rz)\/2.)*fxyz(1)$/;"	l	function:fesuc8g2	file:
+4	suc8g2.f	/^4     fsuc8g21=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g21	file:
+4	suc8g2.f	/^4     fsuc8g22=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g22	file:
+4	suc8g2.f	/^4     fsuc8g23=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.-rz)\/2. $/;"	l	function:fsuc8g23	file:
+40	fepglib.f	/^   40 CONTINUE$/;"	l	subroutine:TKT	file:
+40	fepglib.f	/^40    CONTINUE$/;"	l	subroutine:SHAP	file:
+40	fepglib.f	/^40    CONTINUE$/;"	l	subroutine:SHAPc	file:
+40	fepglib.f	/^40    CONTINUE$/;"	l	subroutine:SHAPn	file:
+40	stres.f	/^40    CONTINUE$/;"	l	subroutine:GETSTR	file:
+40	stres.f	/^40    xm1 = x2$/;"	l	subroutine:root	file:
+400	bft.f	/^400     CONTINUE$/;"	l	subroutine:bft	file:
+400	ddmsub.f	/^400     CONTINUE$/;"	l	subroutine:POSTVALUECONTACT	file:
+400	ddmsub.f	/^400     continue$/;"	l	subroutine:getec	file:
+400	eddm.f	/^400   continue$/;"	l	subroutine:etsub	file:
+400	esddm.f	/^400     CONTINUE$/;"	l	subroutine:EsTSUB	file:
+400	esddm.f	/^400     CONTINUE$/;"	l	subroutine:esddm	file:
+400	fepglib.f	/^400    CONTINUE$/;"	l	subroutine:SOLVE	file:
+400	fepglib.f	/^400   continue$/;"	l	subroutine:merge	file:
+400	fepglib.f	/^400   continue$/;"	l	subroutine:mid	file:
+400	fepglib.f	/^400   continue$/;"	l	subroutine:sdcdx	file:
+400	fepglib.f	/^400   continue$/;"	l	subroutine:sdfdx	file:
+400	fepglib.f	/^400   continue$/;"	l	subroutine:trimesh	file:
+400	hsw6m.f	/^400   continue$/;"	l	subroutine:hsw6mt	file:
+400	hulq4g2.f	/^400   continue$/;"	l	subroutine:hulq4g2t	file:
+400	huw6m.f	/^400   continue$/;"	l	subroutine:huw6mt	file:
+400	mbft.f	/^400     CONTINUE$/;"	l	subroutine:bftmas	file:
+400	plas.f	/^400     CONTINUE$/;"	l	subroutine:GETDP	file:
+400	ssc27g3.f	/^400   continue$/;"	l	subroutine:ssc27g3t	file:
+400	ssc8g2.f	/^400   continue$/;"	l	subroutine:ssc8g2t	file:
+400	stres.f	/^400   CONTINUE$/;"	l	subroutine:GETSTR	file:
+400	suc27g3.f	/^400   continue$/;"	l	subroutine:suc27g3t	file:
+400	suc8g2.f	/^400   continue$/;"	l	subroutine:suc8g2t	file:
+401	hulq4g2.f	/^401   continue$/;"	l	subroutine:hulq4g2	file:
+401	huw6m.f	/^401   continue$/;"	l	subroutine:huw6m	file:
+401	stres.f	/^401   CONTINUE$/;"	l	subroutine:GETSTR	file:
+430	stres.f	/^430   CONTINUE$/;"	l	subroutine:GETSTR	file:
+431	stres.f	/^431   CONTINUE$/;"	l	subroutine:GETSTR	file:
+450	stres.f	/^450   CONTINUE$/;"	l	subroutine:GETSTR	file:
+470	stres.f	/^470   DO 500 I=1,N$/;"	l	subroutine:GETSTR	file:
+5	fepglib.f	/^   5  continue$/;"	l	subroutine:gtnod4	file:
+5	fepglib.f	/^5     Z(L,I)=R(L,I1)$/;"	l	subroutine:SMIT	file:
+5	hsw6m.f	/^5     fehsw6m=+(+rx*(+1.-rz)\/2.)*fyy(1)+(+ry*(+1.-rz)\/2.)*fyy(2)$/;"	l	function:fehsw6m	file:
+5	hsw6m.f	/^5     fhsw6m1=+ry*(+1.+rz)\/2. $/;"	l	function:fhsw6m1	file:
+5	hsw6m.f	/^5     fhsw6m2=+ry*(+1.+rz)\/2. $/;"	l	function:fhsw6m2	file:
+5	hsw6m.f	/^5     fhsw6m3=+ry*(+1.+rz)\/2. $/;"	l	function:fhsw6m3	file:
+5	hsw6m.f	/^5     fhsw6m4=+ry*(+1.+rz)\/2. $/;"	l	function:fhsw6m4	file:
+5	hsw6m.f	/^5     fhsw6m5=+ry*(+1.+rz)\/2. $/;"	l	function:fhsw6m5	file:
+5	hsw6m.f	/^5     fhsw6m6=+ry*(+1.+rz)\/2. $/;"	l	function:fhsw6m6	file:
+5	huw6m.f	/^5     fehuw6m=+(+rx*(+1.-rz)\/2.)*fyy(1)+(+ry*(+1.-rz)\/2.)*fyy(2)$/;"	l	function:fehuw6m	file:
+5	huw6m.f	/^5     fhuw6m1=+ry*(+1.+rz)\/2. $/;"	l	function:fhuw6m1	file:
+5	huw6m.f	/^5     fhuw6m2=+ry*(+1.+rz)\/2. $/;"	l	function:fhuw6m2	file:
+5	huw6m.f	/^5     fhuw6m3=+ry*(+1.+rz)\/2. $/;"	l	function:fhuw6m3	file:
+5	ssc27g3.f	/^5     fssc27g31=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g31	file:
+5	ssc27g3.f	/^5     fssc27g32=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g32	file:
+5	ssc27g3.f	/^5     fssc27g33=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g33	file:
+5	ssc27g3.f	/^5     fssc27g34=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g34	file:
+5	ssc27g3.f	/^5     fssc27g35=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g35	file:
+5	ssc27g3.f	/^5     fssc27g36=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g36	file:
+5	ssc8g2.f	/^5     fssc8g21=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g21	file:
+5	ssc8g2.f	/^5     fssc8g22=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g22	file:
+5	ssc8g2.f	/^5     fssc8g23=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g23	file:
+5	ssc8g2.f	/^5     fssc8g24=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g24	file:
+5	ssc8g2.f	/^5     fssc8g25=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g25	file:
+5	ssc8g2.f	/^5     fssc8g26=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g26	file:
+5	suc27g3.f	/^5     fsuc27g31=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g31	file:
+5	suc27g3.f	/^5     fsuc27g32=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g32	file:
+5	suc27g3.f	/^5     fsuc27g33=+(+1.-rx**2)*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g33	file:
+5	suc8g2.f	/^5     fsuc8g21=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g21	file:
+5	suc8g2.f	/^5     fsuc8g22=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g22	file:
+5	suc8g2.f	/^5     fsuc8g23=+(+1.-rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g23	file:
+5	uddm.f	/^5        close(20)$/;"	l	subroutine:Muddm	file:
+50	fepglib.f	/^   50 CONTINUE$/;"	l	subroutine:TKT	file:
+50	fepglib.f	/^   50 continue$/;"	l	subroutine:gqm4	file:
+50	fepglib.f	/^   50 continue$/;"	l	subroutine:gqm8	file:
+50	fepglib.f	/^   50 continue$/;"	l	subroutine:gtm3	file:
+50	fepglib.f	/^   50 continue$/;"	l	subroutine:gtm6	file:
+50	fepglib.f	/^50    CONTINUE$/;"	l	function:FLINT	file:
+50	fepglib.f	/^50    SHPC(I,LC+J) = C$/;"	l	subroutine:SHAP	file:
+50	fepglib.f	/^50    SHPC(I,LC+J) = C$/;"	l	subroutine:SHAPc	file:
+50	fepglib.f	/^50    SHPC(I,LC+J) = C$/;"	l	subroutine:SHAPn	file:
+50	fepglib.f	/^50    continue$/;"	l	subroutine:sdfdx	file:
+50	fepglib.f	/^50    continue$/;"	l	subroutine:trimesh	file:
+50	hsw6m.f	/^50    continue$/;"	l	subroutine:hsw6mt	file:
+50	hulq4g2.f	/^50    continue$/;"	l	subroutine:hulq4g2t	file:
+50	huw6m.f	/^50    continue$/;"	l	subroutine:huw6mt	file:
+50	plas.f	/^50      CONTINUE$/;"	l	subroutine:GETDF	file:
+50	ssc27g3.f	/^50    continue$/;"	l	subroutine:ssc27g3t	file:
+50	ssc8g2.f	/^50    continue$/;"	l	subroutine:ssc8g2t	file:
+50	stres.f	/^50    continue$/;"	l	subroutine:root	file:
+50	suc27g3.f	/^50    continue$/;"	l	subroutine:suc27g3t	file:
+50	suc8g2.f	/^50    continue$/;"	l	subroutine:suc8g2t	file:
+500	bft.f	/^500     CONTINUE$/;"	l	subroutine:bft	file:
+500	ddmsub.f	/^500     continue$/;"	l	subroutine:getec	file:
+500	eddm.f	/^500   continue$/;"	l	subroutine:etsub	file:
+500	esddm.f	/^500     CONTINUE$/;"	l	subroutine:EsTSUB	file:
+500	esddm.f	/^500     CONTINUE$/;"	l	subroutine:esddm	file:
+500	fepglib.f	/^500     A(I,J) = R0 \/ A(J,J)$/;"	l	subroutine:INVER	file:
+500	fepglib.f	/^500   continue$/;"	l	subroutine:sdcdx	file:
+500	fepglib.f	/^500   continue$/;"	l	subroutine:sdfdx	file:
+500	fepglib.f	/^500   continue$/;"	l	subroutine:splin	file:
+500	fepglib.f	/^500   continue$/;"	l	subroutine:spline	file:
+500	fepglib.f	/^500   continue$/;"	l	subroutine:trimesh	file:
+500	fepglib.f	/^500   continue$/;"	l	subroutine:trinod	file:
+500	fepglib.f	/^500   continue$/;"	l	subroutine:xplin	file:
+500	hsw6m.f	/^500   cr(i,j) = a(i,n+j)$/;"	l	subroutine:hsw6mt	file:
+500	hulq4g2.f	/^500   cr(i,j) = a(i,n+j)$/;"	l	subroutine:hulq4g2t	file:
+500	huw6m.f	/^500   cr(i,j) = a(i,n+j)$/;"	l	subroutine:huw6mt	file:
+500	mbft.f	/^500     CONTINUE$/;"	l	subroutine:bftmas	file:
+500	plas.f	/^500     CONTINUE$/;"	l	subroutine:GETDP	file:
+500	ssc27g3.f	/^500   cr(i,j) = a(i,n+j)$/;"	l	subroutine:ssc27g3t	file:
+500	ssc8g2.f	/^500   cr(i,j) = a(i,n+j)$/;"	l	subroutine:ssc8g2t	file:
+500	stres.f	/^500   CONTINUE$/;"	l	subroutine:GETSTR	file:
+500	suc27g3.f	/^500   cr(i,j) = a(i,n+j)$/;"	l	subroutine:suc27g3t	file:
+500	suc8g2.f	/^500   cr(i,j) = a(i,n+j)$/;"	l	subroutine:suc8g2t	file:
+5000	nzdmbsdiag.f	/^5000    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+501	hsw6m.f	/^501   continue$/;"	l	subroutine:hsw6m	file:
+501	hulq4g2.f	/^501   continue$/;"	l	subroutine:hulq4g2	file:
+501	huw6m.f	/^501   continue$/;"	l	subroutine:huw6m	file:
+501	ssc27g3.f	/^501   continue$/;"	l	subroutine:ssc27g3	file:
+501	ssc8g2.f	/^501   continue$/;"	l	subroutine:ssc8g2	file:
+501	suc27g3.f	/^501   continue$/;"	l	subroutine:suc27g3	file:
+501	suc8g2.f	/^501   continue$/;"	l	subroutine:suc8g2	file:
+502	hsw6m.f	/^502   continue$/;"	l	subroutine:hsw6m	file:
+502	hulq4g2.f	/^502   continue$/;"	l	subroutine:hulq4g2	file:
+502	huw6m.f	/^502   continue$/;"	l	subroutine:huw6m	file:
+502	ssc27g3.f	/^502   continue$/;"	l	subroutine:ssc27g3	file:
+502	ssc8g2.f	/^502   continue$/;"	l	subroutine:ssc8g2	file:
+502	suc27g3.f	/^502   continue$/;"	l	subroutine:suc27g3	file:
+502	suc8g2.f	/^502   continue$/;"	l	subroutine:suc8g2	file:
+503	hsw6m.f	/^503   continue$/;"	l	subroutine:hsw6m	file:
+503	hulq4g2.f	/^503   continue$/;"	l	subroutine:hulq4g2	file:
+503	huw6m.f	/^503   continue$/;"	l	subroutine:huw6m	file:
+503	ssc27g3.f	/^503   continue$/;"	l	subroutine:ssc27g3	file:
+503	ssc8g2.f	/^503   continue$/;"	l	subroutine:ssc8g2	file:
+503	suc27g3.f	/^503   continue$/;"	l	subroutine:suc27g3	file:
+503	suc8g2.f	/^503   continue$/;"	l	subroutine:suc8g2	file:
+504	hsw6m.f	/^504   continue$/;"	l	subroutine:hsw6m	file:
+504	huw6m.f	/^504   continue$/;"	l	subroutine:huw6m	file:
+504	ssc27g3.f	/^504   continue$/;"	l	subroutine:ssc27g3	file:
+504	ssc8g2.f	/^504   continue$/;"	l	subroutine:ssc8g2	file:
+504	suc27g3.f	/^504   continue$/;"	l	subroutine:suc27g3	file:
+504	suc8g2.f	/^504   continue$/;"	l	subroutine:suc8g2	file:
+505	hsw6m.f	/^505   continue$/;"	l	subroutine:hsw6m	file:
+505	ssc27g3.f	/^505   continue$/;"	l	subroutine:ssc27g3	file:
+505	ssc8g2.f	/^505   continue$/;"	l	subroutine:ssc8g2	file:
+506	hsw6m.f	/^506   continue$/;"	l	subroutine:hsw6m	file:
+506	ssc27g3.f	/^506   continue$/;"	l	subroutine:ssc27g3	file:
+506	ssc8g2.f	/^506   continue$/;"	l	subroutine:ssc8g2	file:
+550	stres.f	/^550   continue$/;"	l	subroutine:GETSTR	file:
+570	stres.f	/^570   continue$/;"	l	subroutine:GETSTR	file:
+6	azsolv.f	/^6       format (1x,10i5)$/;"	l	subroutine:azsolv	file:
+6	azsolv.f	/^6     format (1x,10i5)$/;"	l	subroutine:Mazsolv	file:
+6	bft.f	/^6       FORMAT (1X,10I5)$/;"	l	subroutine:bft	file:
+6	ddmsub.f	/^6       FORMAT(1X,10I5)$/;"	l	subroutine:AREATRI	file:
+6	ddmsub.f	/^6       FORMAT(1X,10I5)$/;"	l	subroutine:PROJECT	file:
+6	ddmsub.f	/^6       FORMAT(1X,8I6)$/;"	l	subroutine:GETD	file:
+6	ddmsub.f	/^6       FORMAT(1X,8I6)$/;"	l	subroutine:POINTIN	file:
+6	ddmsub.f	/^6       FORMAT(2X,10I5)$/;"	l	subroutine:POINTINTRI	file:
+6	ddmsub.f	/^6       FORMAT(2X,10I5)$/;"	l	subroutine:SHORTDIST	file:
+6	ddmsub.f	/^6       FORMAT(2X,10I6)$/;"	l	subroutine:POSTVALUECONTACT	file:
+6	ddmsub.f	/^6       FORMAT(2X,10I6)$/;"	l	subroutine:SIZEELEM	file:
+6	ddmsub.f	/^6       FORMAT(2X,8I6)$/;"	l	subroutine:GETIDL	file:
+6	ddmsub.f	/^6       FORMAT(2X,8I6)$/;"	l	subroutine:VALUECONTACT	file:
+6	ddmsub.f	/^6       FORMAT(2X,8I8)$/;"	l	subroutine:MINMAXELEM	file:
+6	ddmsub.f	/^6       FORMAT(2X,8I8)$/;"	l	subroutine:POINTINLINE	file:
+6	ddmsub.f	/^6       FORMAT(2X,8I8)$/;"	l	subroutine:SECTIONANGLE	file:
+6	dmbs2dmsr.f	/^6       format (1x,10i5)$/;"	l	subroutine:dmbs2dmsr	file:
+6	dmbs2dmsr.f	/^6     format (1x,10i5)$/;"	l	subroutine:Mdmbs2dmsr	file:
+6	eddm.f	/^6       format (1x,10i5)$/;"	l	subroutine:eddm	file:
+6	esddm.f	/^6       FORMAT(2X,10I5)$/;"	l	subroutine:esddm	file:
+6	esddm.f	/^6       format(2x,10i5)$/;"	l	subroutine:Mesddm	file:
+6	fepglib.f	/^   6  continue$/;"	l	subroutine:gtnod4	file:
+6	hsw6m.f	/^6     fehsw6m=+(+rx*(+1.-rz)\/2.)*fzz(1)+(+ry*(+1.-rz)\/2.)*fzz(2)$/;"	l	function:fehsw6m	file:
+6	hsw6m.f	/^6     fhsw6m1=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhsw6m1	file:
+6	hsw6m.f	/^6     fhsw6m2=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhsw6m2	file:
+6	hsw6m.f	/^6     fhsw6m3=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhsw6m3	file:
+6	hsw6m.f	/^6     fhsw6m4=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhsw6m4	file:
+6	hsw6m.f	/^6     fhsw6m5=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhsw6m5	file:
+6	hsw6m.f	/^6     fhsw6m6=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhsw6m6	file:
+6	huw6m.f	/^6     fehuw6m=+(+rx*(+1.-rz)\/2.)*fzz(1)+(+ry*(+1.-rz)\/2.)*fzz(2)$/;"	l	function:fehuw6m	file:
+6	huw6m.f	/^6     fhuw6m1=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhuw6m1	file:
+6	huw6m.f	/^6     fhuw6m2=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhuw6m2	file:
+6	huw6m.f	/^6     fhuw6m3=+(+1.-rx-ry)*(+1.+rz)\/2. $/;"	l	function:fhuw6m3	file:
+6	mbft.f	/^6       FORMAT (1X,10I5)$/;"	l	subroutine:bftmas	file:
+6	nzdmbsdiag.f	/^6       format (1x,10i5)$/;"	l	subroutine:nzdmbsdiag	file:
+6	nzdmbsdiag.f	/^6     format (1x,10i10)$/;"	l	subroutine:Mnzdmbsdiag	file:
+6	ssc27g3.f	/^6     fssc27g31=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g31	file:
+6	ssc27g3.f	/^6     fssc27g32=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g32	file:
+6	ssc27g3.f	/^6     fssc27g33=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g33	file:
+6	ssc27g3.f	/^6     fssc27g34=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g34	file:
+6	ssc27g3.f	/^6     fssc27g35=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g35	file:
+6	ssc27g3.f	/^6     fssc27g36=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g36	file:
+6	ssc8g2.f	/^6     fssc8g21=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g21	file:
+6	ssc8g2.f	/^6     fssc8g22=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g22	file:
+6	ssc8g2.f	/^6     fssc8g23=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g23	file:
+6	ssc8g2.f	/^6     fssc8g24=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g24	file:
+6	ssc8g2.f	/^6     fssc8g25=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g25	file:
+6	ssc8g2.f	/^6     fssc8g26=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g26	file:
+6	start.f	/^6       FORMAT (1X,10I5)$/;"	l	subroutine:start	file:
+6	suc27g3.f	/^6     fsuc27g31=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g31	file:
+6	suc27g3.f	/^6     fsuc27g32=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g32	file:
+6	suc27g3.f	/^6     fsuc27g33=+rx*(+1.+rx)\/2.*(+1.-ry**2)*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g33	file:
+6	suc8g2.f	/^6     fsuc8g21=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g21	file:
+6	suc8g2.f	/^6     fsuc8g22=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g22	file:
+6	suc8g2.f	/^6     fsuc8g23=+(+1.+rx)\/2.*(+1.-ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g23	file:
+6	uddm.f	/^6       format (1x,10i5)$/;"	l	subroutine:uddm	file:
+60	fepglib.f	/^60       if (xx(j).gt.xl(i+1)) then$/;"	l	subroutine:splin1	file:
+60	fepglib.f	/^60    CONTINUE$/;"	l	subroutine:SHAP	file:
+60	fepglib.f	/^60    CONTINUE$/;"	l	subroutine:SHAPc	file:
+60	fepglib.f	/^60    CONTINUE$/;"	l	subroutine:SHAPn	file:
+60	fepglib.f	/^60    CONTINUE$/;"	l	subroutine:SMIT	file:
+60	hsw6m.f	/^60    continue$/;"	l	subroutine:hsw6mt	file:
+60	hulq4g2.f	/^60    continue$/;"	l	subroutine:hulq4g2t	file:
+60	huw6m.f	/^60    continue$/;"	l	subroutine:huw6mt	file:
+60	ssc27g3.f	/^60    continue$/;"	l	subroutine:ssc27g3t	file:
+60	ssc8g2.f	/^60    continue$/;"	l	subroutine:ssc8g2t	file:
+60	stres.f	/^60    if (x3 .le. xm2) go to 70$/;"	l	subroutine:root	file:
+60	suc27g3.f	/^60    continue$/;"	l	subroutine:suc27g3t	file:
+60	suc8g2.f	/^60    continue$/;"	l	subroutine:suc8g2t	file:
+600	eddm.f	/^600   continue$/;"	l	subroutine:etsub	file:
+600	esddm.f	/^600       CONTINUE$/;"	l	subroutine:esddm	file:
+600	esddm.f	/^600     CONTINUE$/;"	l	subroutine:EsTSUB	file:
+600	fepglib.f	/^600   continue$/;"	l	subroutine:splin	file:
+600	fepglib.f	/^600   continue$/;"	l	subroutine:spline	file:
+600	fepglib.f	/^600   continue$/;"	l	subroutine:xplin	file:
+600	plas.f	/^600     CONTINUE$/;"	l	subroutine:GETDP	file:
+600	stres.f	/^600   CONTINUE$/;"	l	subroutine:GETSTR	file:
+6000	nzdmbsdiag.f	/^6000    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+6600	nzdmbsdiag.f	/^6600    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+6700	nzdmbsdiag.f	/^6700    CONTINUE$/;"	l	subroutine:nzdmbsdiag	file:
+7	azsolv.f	/^7       format (1x,6e12.5)$/;"	l	subroutine:azsolv	file:
+7	azsolv.f	/^7     format (1x,6e12.5)$/;"	l	subroutine:Mazsolv	file:
+7	bft.f	/^7       FORMAT (1X,6E12.5)$/;"	l	subroutine:bft	file:
+7	ddmsub.f	/^7       FORMAT(1X,6E12.5)$/;"	l	subroutine:AREATRI	file:
+7	ddmsub.f	/^7       FORMAT(1X,6E12.5)$/;"	l	subroutine:GETD	file:
+7	ddmsub.f	/^7       FORMAT(1X,6E12.5)$/;"	l	subroutine:POINTIN	file:
+7	ddmsub.f	/^7       FORMAT(1X,6E12.5)$/;"	l	subroutine:PROJECT	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:GETIDL	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:MINMAXELEM	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:POINTINLINE	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:POINTINTRI	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:POSTVALUECONTACT	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:SECTIONANGLE	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:SHORTDIST	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:SIZEELEM	file:
+7	ddmsub.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:VALUECONTACT	file:
+7	dmbs2dmsr.f	/^7       format (1x,6e12.5)$/;"	l	subroutine:dmbs2dmsr	file:
+7	dmbs2dmsr.f	/^7     format (1x,6e12.5)$/;"	l	subroutine:Mdmbs2dmsr	file:
+7	eddm.f	/^7       format (1x,10i5)$/;"	l	subroutine:etsub	file:
+7	eddm.f	/^7       format (1x,6e12.5)$/;"	l	subroutine:eddm	file:
+7	esddm.f	/^7       FORMAT(2X,6E12.5)$/;"	l	subroutine:esddm	file:
+7	esddm.f	/^7       format(2x,6e12.5)$/;"	l	subroutine:Mesddm	file:
+7	fepglib.f	/^   7  continue$/;"	l	subroutine:gtnod4	file:
+7	fepglib.f	/^7     C=C+R(L,I1)*Z(L,J)$/;"	l	subroutine:SMIT	file:
+7	hsw6m.f	/^7     fehsw6m=+(+rx*(+1.-rz)\/2.)*fyz(1)+(+ry*(+1.-rz)\/2.)*fyz(2)$/;"	l	function:fehsw6m	file:
+7	huw6m.f	/^7     fehuw6m=+(+rx*(+1.-rz)\/2.)*fyz(1)+(+ry*(+1.-rz)\/2.)*fyz(2)$/;"	l	function:fehuw6m	file:
+7	mbft.f	/^7       FORMAT (1X,6E12.5)$/;"	l	subroutine:bftmas	file:
+7	nzdmbsdiag.f	/^7       format (1x,6e12.5)$/;"	l	subroutine:nzdmbsdiag	file:
+7	nzdmbsdiag.f	/^7     format (1x,6e12.5)$/;"	l	subroutine:Mnzdmbsdiag	file:
+7	nzrecvdip.f	/^7        close(22)$/;"	l	subroutine:Mnzrecvdip	file:
+7	ssc27g3.f	/^7     fssc27g31=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g31	file:
+7	ssc27g3.f	/^7     fssc27g32=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g32	file:
+7	ssc27g3.f	/^7     fssc27g33=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g33	file:
+7	ssc27g3.f	/^7     fssc27g34=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g34	file:
+7	ssc27g3.f	/^7     fssc27g35=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g35	file:
+7	ssc27g3.f	/^7     fssc27g36=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g36	file:
+7	ssc8g2.f	/^7     fssc8g21=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g21	file:
+7	ssc8g2.f	/^7     fssc8g22=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g22	file:
+7	ssc8g2.f	/^7     fssc8g23=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g23	file:
+7	ssc8g2.f	/^7     fssc8g24=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g24	file:
+7	ssc8g2.f	/^7     fssc8g25=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g25	file:
+7	ssc8g2.f	/^7     fssc8g26=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g26	file:
+7	start.f	/^7       FORMAT (1X,6E12.5)$/;"	l	subroutine:start	file:
+7	suc27g3.f	/^7     fsuc27g31=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g31	file:
+7	suc27g3.f	/^7     fsuc27g32=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g32	file:
+7	suc27g3.f	/^7     fsuc27g33=+rx*(+rx-1.)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g33	file:
+7	suc8g2.f	/^7     fsuc8g21=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g21	file:
+7	suc8g2.f	/^7     fsuc8g22=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g22	file:
+7	suc8g2.f	/^7     fsuc8g23=+(+1.+rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g23	file:
+7	uddm.f	/^7       format (1x,6e12.5)$/;"	l	subroutine:uddm	file:
+70	fepglib.f	/^70    C=C+R(L,I)*Z(L,J)$/;"	l	subroutine:SMIT	file:
+70	fepglib.f	/^70    continue$/;"	l	subroutine:splin1	file:
+70	stres.f	/^70    f3 = f(x3,p,fsub)$/;"	l	subroutine:root	file:
+700	bft.f	/^700     CONTINUE$/;"	l	subroutine:bft	file:
+700	eddm.f	/^700   continue$/;"	l	subroutine:etsub	file:
+700	esddm.f	/^700     CONTINUE$/;"	l	subroutine:EsTSUB	file:
+700	mbft.f	/^700     CONTINUE$/;"	l	subroutine:bftmas	file:
+8	eddm.f	/^8       format (1x,6e12.5)$/;"	l	subroutine:etsub	file:
+8	esddm.f	/^8       FORMAT (1X,6E12.5)$/;"	l	subroutine:EsTSUB	file:
+8	fepglib.f	/^   8  continue$/;"	l	subroutine:gtnod4	file:
+8	fepglib.f	/^8     FORMAT(1X,6E13.4)$/;"	l	subroutine:SHAPc	file:
+8	fepglib.f	/^8     FORMAT(1X,6e13.4)$/;"	l	subroutine:SHAPn	file:
+8	fepglib.f	/^8     FORMAT(1X,8F9.2)$/;"	l	subroutine:SHAP	file:
+8	hsw6m.f	/^8     fehsw6m=+(+rx*(+1.-rz)\/2.)*fxz(1)+(+ry*(+1.-rz)\/2.)*fxz(2)$/;"	l	function:fehsw6m	file:
+8	hsw6m.f	/^8     format(1x,6f12.3)$/;"	l	subroutine:hsw6mt	file:
+8	hulq4g2.f	/^8     format(1x,6f12.3)$/;"	l	subroutine:hulq4g2t	file:
+8	huw6m.f	/^8     fehuw6m=+(+rx*(+1.-rz)\/2.)*fxz(1)+(+ry*(+1.-rz)\/2.)*fxz(2)$/;"	l	function:fehuw6m	file:
+8	huw6m.f	/^8     format(1x,6f12.3)$/;"	l	subroutine:huw6mt	file:
+8	ssc27g3.f	/^8     format(1x,6f12.3)$/;"	l	subroutine:ssc27g3t	file:
+8	ssc27g3.f	/^8     fssc27g31=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g31	file:
+8	ssc27g3.f	/^8     fssc27g32=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g32	file:
+8	ssc27g3.f	/^8     fssc27g33=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g33	file:
+8	ssc27g3.f	/^8     fssc27g34=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g34	file:
+8	ssc27g3.f	/^8     fssc27g35=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g35	file:
+8	ssc27g3.f	/^8     fssc27g36=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fssc27g36	file:
+8	ssc8g2.f	/^8     format(1x,6f12.3)$/;"	l	subroutine:ssc8g2t	file:
+8	ssc8g2.f	/^8     fssc8g21=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g21	file:
+8	ssc8g2.f	/^8     fssc8g22=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g22	file:
+8	ssc8g2.f	/^8     fssc8g23=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g23	file:
+8	ssc8g2.f	/^8     fssc8g24=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g24	file:
+8	ssc8g2.f	/^8     fssc8g25=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g25	file:
+8	ssc8g2.f	/^8     fssc8g26=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fssc8g26	file:
+8	suc27g3.f	/^8     format(1x,6f12.3)$/;"	l	subroutine:suc27g3t	file:
+8	suc27g3.f	/^8     fsuc27g31=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g31	file:
+8	suc27g3.f	/^8     fsuc27g32=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g32	file:
+8	suc27g3.f	/^8     fsuc27g33=+(+1.-rx**2)*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/2. $/;"	l	function:fsuc27g33	file:
+8	suc8g2.f	/^8     format(1x,6f12.3)$/;"	l	subroutine:suc8g2t	file:
+8	suc8g2.f	/^8     fsuc8g21=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g21	file:
+8	suc8g2.f	/^8     fsuc8g22=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g22	file:
+8	suc8g2.f	/^8     fsuc8g23=+(+1.-rx)\/2.*(+1.+ry)\/2.*(+1.+rz)\/2. $/;"	l	function:fsuc8g23	file:
+8	timer.f	/^8      format(a,3x,e7.2,1x,i5,4x,e7.2,1x,i5,4x,e7.2)$/;"	l	subroutine:timereport	file:
+80	fepglib.f	/^80    CONTINUE$/;"	l	subroutine:SMIT	file:
+800	esddm.f	/^800     CONTINUE$/;"	l	subroutine:EsTSUB	file:
+800	fepglib.f	/^800   continue$/;"	l	subroutine:sdcdx	file:
+800	fepglib.f	/^800   continue$/;"	l	subroutine:sdfdx	file:
+800	fepglib.f	/^800   continue$/;"	l	subroutine:splin	file:
+800	fepglib.f	/^800   continue$/;"	l	subroutine:spline	file:
+800	fepglib.f	/^800   continue$/;"	l	subroutine:xplin	file:
+8001	azpartition.f	/^8001    format(8i10)$/;"	l	subroutine:azpartition	file:
+8001	partit.f	/^8001    format(8i10)$/;"	l	subroutine:azpartition	file:
+8001	partition.f	/^8001    format(8i10)$/;"	l	subroutine:azpartition	file:
+8001	umcazpartition.f	/^8001    format(8i10)$/;"	l	subroutine:azpartition	file:
+85	stres.f	/^85    continue$/;"	l	subroutine:root	file:
+9	fepglib.f	/^   9  continue$/;"	l	subroutine:gqm8	file:
+9	fepglib.f	/^9     FORMAT(1X,15I4)$/;"	l	subroutine:SHAP	file:
+9	fepglib.f	/^9     FORMAT(1X,15I5)$/;"	l	subroutine:SHAPc	file:
+9	fepglib.f	/^9     FORMAT(1X,15I5)$/;"	l	subroutine:SHAPn	file:
+9	fepglib.f	/^9     Z(L,I)=Z(L,I)-C*Z(L,J)$/;"	l	subroutine:SMIT	file:
+9	hsw6m.f	/^9     fehsw6m=+(+rx*(+1.-rz)\/2.)*fxy(1)+(+ry*(+1.-rz)\/2.)*fxy(2)$/;"	l	function:fehsw6m	file:
+9	huw6m.f	/^9     fehuw6m=+(+rx*(+1.-rz)\/2.)*fxy(1)+(+ry*(+1.-rz)\/2.)*fxy(2)$/;"	l	function:fehuw6m	file:
+9	ssc27g3.f	/^9     fssc27g31=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g31	file:
+9	ssc27g3.f	/^9     fssc27g32=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g32	file:
+9	ssc27g3.f	/^9     fssc27g33=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g33	file:
+9	ssc27g3.f	/^9     fssc27g34=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g34	file:
+9	ssc27g3.f	/^9     fssc27g35=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g35	file:
+9	ssc27g3.f	/^9     fssc27g36=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fssc27g36	file:
+9	suc27g3.f	/^9     fsuc27g31=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g31	file:
+9	suc27g3.f	/^9     fsuc27g32=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g32	file:
+9	suc27g3.f	/^9     fsuc27g33=+rx*(+1.+rx)\/2.*ry*(+1.+ry)\/2.*rz*(+rz-1.)\/$/;"	l	function:fsuc27g33	file:
+9	timer.f	/^9      format(i3,1x,9(1x,e7.2))        $/;"	l	subroutine:timereport	file:
+90	fepglib.f	/^90    CONTINUE$/;"	l	subroutine:SMIT	file:
+90	stres.f	/^90    x1 = x3$/;"	l	subroutine:root	file:
+900	fepglib.f	/^900   CONTINUE$/;"	l	subroutine:INVER	file:
+900	fepglib.f	/^900   continue$/;"	l	subroutine:sdcdx	file:
+900	fepglib.f	/^900   continue$/;"	l	subroutine:sdfdx	file:
+9000	intcommu.f	/^9000   format(6i10)$/;"	l	subroutine:recvai	file:
+9000	intcommu.f	/^9000   format(6i10)$/;"	l	subroutine:recvai_2d	file:
+9000	intcommu.f	/^9000   format(6i10)$/;"	l	subroutine:sendai	file:
+9000	intcommu.f	/^9000   format(6i10)$/;"	l	subroutine:sendai_2d	file:
+9000	realcommu.f	/^9000   format(6e15.5)$/;"	l	subroutine:recvar_2d	file:
+9000	realcommu.f	/^9000   format(6e15.5)$/;"	l	subroutine:sendar_2d	file:
+9000	realcommu.f	/^9000   format(6e16.5)       $/;"	l	subroutine:recvar	file:
+9000	realcommu.f	/^9000   format(6e16.5) $/;"	l	subroutine:sendar	file:
+99	ddmsub.f	/^99      CONTINUE$/;"	l	subroutine:POINTIN	file:
+990	stres.f	/^990    continue$/;"	l	subroutine:root	file:
+999	hsw6m.f	/^999   continue$/;"	l	subroutine:hsw6m	file:
+999	hulq4g2.f	/^999   continue$/;"	l	subroutine:hulq4g2	file:
+999	huw6m.f	/^999   continue$/;"	l	subroutine:huw6m	file:
+999	ssc27g3.f	/^999   continue$/;"	l	subroutine:ssc27g3	file:
+999	ssc8g2.f	/^999   continue$/;"	l	subroutine:ssc8g2	file:
+999	stres.f	/^999   continue$/;"	l	subroutine:root	file:
+999	suc27g3.f	/^999   continue$/;"	l	subroutine:suc27g3	file:
+999	suc8g2.f	/^999   continue$/;"	l	subroutine:suc8g2	file:
+ADDMBS	eddm.f	/^        SUBROUTINE ADDMBS(/;"	s
+AND	macros.h	/^#define AND(/;"	d
+AR	makefile	/^AR          =     ar rv$/;"	m
+AREATRI	ddmsub.f	/^        SUBROUTINE AREATRI(/;"	s
+ASSERT	macros.h	/^#   define ASSERT(/;"	d
+ASSERTP	macros.h	/^#   define ASSERTP(/;"	d
+Allocate2WayNodePartitionMemory	rename.h	/^#define Allocate2WayNodePartitionMemory	/;"	d
+Allocate2WayPartitionMemory	rename.h	/^#define Allocate2WayPartitionMemory	/;"	d
+AllocateKWayPartitionMemory	rename.h	/^#define AllocateKWayPartitionMemory	/;"	d
+AllocateVolKWayPartitionMemory	rename.h	/^#define AllocateVolKWayPartitionMemory	/;"	d
+AllocateWorkSpace	rename.h	/^#define AllocateWorkSpace	/;"	d
+AreAllBelow	rename.h	/^#define AreAllBelow	/;"	d
+AreAllHVwgtsAbove	rename.h	/^#define AreAllHVwgtsAbove	/;"	d
+AreAllHVwgtsBelow	rename.h	/^#define AreAllHVwgtsBelow	/;"	d
+AreAllVwgtsAbove	rename.h	/^#define AreAllVwgtsAbove	/;"	d
+AreAllVwgtsBelow	rename.h	/^#define AreAllVwgtsBelow	/;"	d
+AreAllVwgtsBelowFast	rename.h	/^#define AreAllVwgtsBelowFast	/;"	d
+AreAnyVwgtsBelow	rename.h	/^#define AreAnyVwgtsBelow	/;"	d
+AuxTmr1	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+AuxTmr2	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+AuxTmr3	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+AuxTmr4	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+AuxTmr5	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+AuxTmr6	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+BNDDelete	macros.h	/^#define BNDDelete(/;"	d
+BNDInsert	macros.h	/^#define BNDInsert(/;"	d
+Balance2Way	rename.h	/^#define Balance2Way	/;"	d
+BetterBalance	rename.h	/^#define BetterBalance	/;"	d
+BetterVBalance	rename.h	/^#define BetterVBalance	/;"	d
+Bnd2WayBalance	rename.h	/^#define Bnd2WayBalance	/;"	d
+BucketSortKeysInc	rename.h	/^#define BucketSortKeysInc	/;"	d
+CC	makefile	/^CC          =    mpicc$/;"	m
+CCTD	fepglib.f	/^      SUBROUTINE CCTD(/;"	s
+CCTL	fepglib.f	/^      SUBROUTINE CCTL(/;"	s
+CFLAGS	makefile	/^CFLAGS    = -O2 $/;"	m
+COARSEN_FRACTION	defs.h	/^#define COARSEN_FRACTION	/;"	d
+COARSEN_FRACTION2	defs.h	/^#define COARSEN_FRACTION2	/;"	d
+COBJ	makefile	/^COBJ   = io.o partdmesh.o subtime.o$/;"	m
+COMPRESSION_FRACTION	defs.h	/^#define COMPRESSION_FRACTION	/;"	d
+CType	struct.h	/^  int CType;			\/* The type of coarsening *\/$/;"	m	struct:controldef
+Change2CNumbering	rename.h	/^#define Change2CNumbering	/;"	d
+Change2FNumbering	rename.h	/^#define Change2FNumbering	/;"	d
+Change2FNumbering2	rename.h	/^#define Change2FNumbering2	/;"	d
+Change2FNumberingOrder	rename.h	/^#define Change2FNumberingOrder	/;"	d
+ChangeMesh2CNumbering	rename.h	/^#define ChangeMesh2CNumbering	/;"	d
+ChangeMesh2FNumbering	rename.h	/^#define ChangeMesh2FNumbering	/;"	d
+ChangeMesh2FNumbering2	rename.h	/^#define ChangeMesh2FNumbering2	/;"	d
+CheckBnd	rename.h	/^#define CheckBnd	/;"	d
+CheckBnd2	rename.h	/^#define CheckBnd2	/;"	d
+CheckGraph	io.c	/^int CheckGraph(GraphType *graph)$/;"	f
+CheckHeap	rename.h	/^#define CheckHeap	/;"	d
+CheckNodeBnd	rename.h	/^#define CheckNodeBnd	/;"	d
+CheckNodePartitionParams	rename.h	/^#define CheckNodePartitionParams	/;"	d
+CheckRInfo	rename.h	/^#define CheckRInfo	/;"	d
+CheckVolKWayPartitionParams	rename.h	/^#define CheckVolKWayPartitionParams	/;"	d
+Coarsen2Way	rename.h	/^#define Coarsen2Way	/;"	d
+CoarsenTmr	struct.h	/^  timer TotalTmr, InitPartTmr, MatchTmr, ContractTmr, CoarsenTmr, UncoarsenTmr, $/;"	m	struct:controldef
+CoarsenTo	struct.h	/^  int CoarsenTo;		\/* The # of vertices in the coarsest graph *\/$/;"	m	struct:controldef
+CompressGraph	rename.h	/^#define CompressGraph	/;"	d
+Compute2WayHLoadImbalance	rename.h	/^#define Compute2WayHLoadImbalance	/;"	d
+Compute2WayHLoadImbalanceVec	rename.h	/^#define Compute2WayHLoadImbalanceVec	/;"	d
+Compute2WayNodePartitionParams	rename.h	/^#define Compute2WayNodePartitionParams	/;"	d
+Compute2WayPartitionParams	rename.h	/^#define Compute2WayPartitionParams	/;"	d
+ComputeCoarseGraphSize	rename.h	/^#define ComputeCoarseGraphSize	/;"	d
+ComputeCut	rename.h	/^#define ComputeCut	/;"	d
+ComputeElementBalance	rename.h	/^#define ComputeElementBalance	/;"	d
+ComputeHKWayLoadImbalance	rename.h	/^#define ComputeHKWayLoadImbalance	/;"	d
+ComputeKWayBalanceBoundary	rename.h	/^#define ComputeKWayBalanceBoundary	/;"	d
+ComputeKWayBoundary	rename.h	/^#define ComputeKWayBoundary	/;"	d
+ComputeKWayPartitionParams	rename.h	/^#define ComputeKWayPartitionParams	/;"	d
+ComputeKWayVolGains	rename.h	/^#define ComputeKWayVolGains	/;"	d
+ComputeKWayVolume	rename.h	/^#define ComputeKWayVolume	/;"	d
+ComputeLoadImbalance	rename.h	/^#define ComputeLoadImbalance	/;"	d
+ComputeMaxNodeGain	rename.h	/^#define ComputeMaxNodeGain	/;"	d
+ComputePartitionBalance	rename.h	/^#define ComputePartitionBalance	/;"	d
+ComputePartitionInfo	rename.h	/^#define ComputePartitionInfo	/;"	d
+ComputeSubDomainGraph	rename.h	/^#define ComputeSubDomainGraph	/;"	d
+ComputeVolKWayBalanceBoundary	rename.h	/^#define ComputeVolKWayBalanceBoundary	/;"	d
+ComputeVolKWayBoundary	rename.h	/^#define ComputeVolKWayBoundary	/;"	d
+ComputeVolKWayPartitionParams	rename.h	/^#define ComputeVolKWayPartitionParams	/;"	d
+ComputeVolSubDomainGraph	rename.h	/^#define ComputeVolSubDomainGraph	/;"	d
+ComputeVolume	rename.h	/^#define ComputeVolume	/;"	d
+ConstructMinCoverSeparator	rename.h	/^#define ConstructMinCoverSeparator	/;"	d
+ConstructMinCoverSeparator0	rename.h	/^#define ConstructMinCoverSeparator0	/;"	d
+ConstructSeparator	rename.h	/^#define ConstructSeparator	/;"	d
+ContractTmr	struct.h	/^  timer TotalTmr, InitPartTmr, MatchTmr, ContractTmr, CoarsenTmr, UncoarsenTmr, $/;"	m	struct:controldef
+CreateCoarseGraph	rename.h	/^#define CreateCoarseGraph	/;"	d
+CreateCoarseGraphNoMask	rename.h	/^#define CreateCoarseGraphNoMask	/;"	d
+CreateCoarseGraph_NVW	rename.h	/^#define CreateCoarseGraph_NVW /;"	d
+CreateGraph	rename.h	/^#define CreateGraph	/;"	d
+CtrlType	struct.h	/^typedef struct controldef CtrlType;$/;"	t	typeref:struct:controldef
+DBG_COARSEN	defs.h	/^#define DBG_COARSEN /;"	d
+DBG_IPART	defs.h	/^#define DBG_IPART	/;"	d
+DBG_KWAYPINFO	defs.h	/^#define DBG_KWAYPINFO	/;"	d
+DBG_MOVEINFO	defs.h	/^#define DBG_MOVEINFO	/;"	d
+DBG_OUTPUT	defs.h	/^#define DBG_OUTPUT	/;"	d
+DBG_REFINE	defs.h	/^#define DBG_REFINE	/;"	d
+DBG_SEPINFO	defs.h	/^#define DBG_SEPINFO	/;"	d
+DBG_TIME	defs.h	/^#define DBG_TIME	/;"	d
+EDegreeType	struct.h	/^typedef struct edegreedef EDegreeType;$/;"	t	typeref:struct:edegreedef
+EliminateComponents	rename.h	/^#define EliminateComponents	/;"	d
+EliminateSubDomainEdges	rename.h	/^#define EliminateSubDomainEdges	/;"	d
+EliminateVolSubDomainEdges	rename.h	/^#define EliminateVolSubDomainEdges	/;"	d
+EsTSUB	esddm.f	/^        SUBROUTINE EsTSUB(/;"	s
+EstimateCFraction	rename.h	/^#define EstimateCFraction	/;"	d
+F	stres.f	/^      real*8 FU/;"	f
+F77	makefile	/^F77         =    mpif90$/;"	m
+F90	makefile	/^F90         =    mpif90$/;"	m
+FEGEN	makefile	/^FEGEN       =    ..$/;"	m
+FFLAGS	makefile	/^FFLAGS    = $(OPTFLAGS)$/;"	m
+FLINKER	makefile	/^FLINKER     =    mpif90$/;"	m
+FLINT	fepglib.f	/^      REAL*8 FUNCTION FLINT(/;"	f
+FM_2WayEdgeRefine	rename.h	/^#define FM_2WayEdgeRefine	/;"	d
+FM_2WayNodeBalance	rename.h	/^#define FM_2WayNodeBalance	/;"	d
+FM_2WayNodeRefine	rename.h	/^#define FM_2WayNodeRefine	/;"	d
+FM_2WayNodeRefineEqWgt	rename.h	/^#define FM_2WayNodeRefineEqWgt	/;"	d
+FM_2WayNodeRefine_OneSided	rename.h	/^#define FM_2WayNodeRefine_OneSided	/;"	d
+FOBJ	makefile	/^FOBJ   = ${FOBJS} $/;"	m
+FOBJS	ddmf.mak	/^FOBJS =  ddm.o ddmm.o ddms.o azsendpart.o azrecvpart.o msazrecvpart.o start.o nzdmbsdiag.o bft.o mbft.o eddm.o dmbs2dmsr.o azsolv.o uddm.o nzrecvdip.o esddm.o nzrecvstr.o ddmsub.o bound.o intcommu.o realcommu.o charcommu.o inimpi.o timer.o incore.o huw6m.o hsw6m.o hugq4g2.o hulq4g2.o getdfu.o getdfs.o bound1.o fepglib.o stres.o plas.o suc8g2.o ssc8g2.o$/;"	m
+FindComponents	rename.h	/^#define FindComponents	/;"	d
+FreeGraph	rename.h	/^#define FreeGraph	/;"	d
+FreeWorkSpace	rename.h	/^#define FreeWorkSpace	/;"	d
+GETD	ddmsub.f	/^        SUBROUTINE GETD(/;"	s
+GETDE	getdfs.f	/^      SUBROUTINE GETDE(/;"	s
+GETDF	plas.f	/^      SUBROUTINE GETDF(/;"	s
+GETDFS	getdfs.f	/^      SUBROUTINE GETDFS(/;"	s
+GETDFU	getdfu.f	/^      SUBROUTINE GETDFU(/;"	s
+GETDP	plas.f	/^      SUBROUTINE GETDP(/;"	s
+GETIDL	ddmsub.f	/^        SUBROUTINE GETIDL(/;"	s
+GETSTR	stres.f	/^      SUBROUTINE GETSTR(/;"	s
+GET_CONTRA	getdfs.f	/^      SUBROUTINE GET_CONTRA(/;"	s
+GKfree	rename.h	/^#define GKfree	/;"	d
+GKmalloc	macros.h	/^#define GKmalloc(/;"	d
+GKmalloc	rename.h	/^#define GKmalloc	/;"	d
+General2WayBalance	rename.h	/^#define General2WayBalance	/;"	d
+GraphType	struct.h	/^typedef struct graphdef GraphType;$/;"	t	typeref:struct:graphdef
+Greedy_KWayEdgeBalance	rename.h	/^#define Greedy_KWayEdgeBalance	/;"	d
+Greedy_KWayEdgeBalanceMConn	rename.h	/^#define Greedy_KWayEdgeBalanceMConn	/;"	d
+Greedy_KWayEdgeRefine	rename.h	/^#define Greedy_KWayEdgeRefine	/;"	d
+Greedy_KWayVolBalance	rename.h	/^#define Greedy_KWayVolBalance	/;"	d
+Greedy_KWayVolBalanceMConn	rename.h	/^#define Greedy_KWayVolBalanceMConn	/;"	d
+GrowBisection	rename.h	/^#define GrowBisection	/;"	d
+GrowBisectionNode	rename.h	/^#define GrowBisectionNode	/;"	d
+HASHFCT	macros.h	/^#define HASHFCT(/;"	d
+HEXDUALMETIS	rename.h	/^#define HEXDUALMETIS	/;"	d
+HEXNODALMETIS	rename.h	/^#define HEXNODALMETIS	/;"	d
+HORIZONTAL_IMBALANCE	defs.h	/^#define HORIZONTAL_IMBALANCE	/;"	d
+HTABLE_EMPTY	defs.h	/^#define HTABLE_EMPTY /;"	d
+HTLENGTH	defs.h	/^#define HTLENGTH	/;"	d
+IDXTYPE_INT	struct.h	/^#define IDXTYPE_INT$/;"	d
+IFSET	macros.h	/^#define IFSET(/;"	d
+INC_DEC	macros.h	/^#define INC_DEC(/;"	d
+INVER	fepglib.f	/^      SUBROUTINE INVER(/;"	s
+IPART_GGPKL	defs.h	/^#define IPART_GGPKL	/;"	d
+IPART_GGPKLNODE	defs.h	/^#define IPART_GGPKLNODE	/;"	d
+IPART_McHPMETIS	defs.h	/^#define IPART_McHPMETIS	/;"	d
+IPART_McPMETIS	defs.h	/^#define IPART_McPMETIS	/;"	d
+IPART_PMETIS	defs.h	/^#define IPART_PMETIS	/;"	d
+IPART_RANDOM	defs.h	/^#define IPART_RANDOM	/;"	d
+IType	struct.h	/^  int IType;			\/* The type of initial partitioning *\/$/;"	m	struct:controldef
+Init2WayPartition	rename.h	/^#define Init2WayPartition	/;"	d
+InitGraph	rename.h	/^#define InitGraph	/;"	d
+InitPartTmr	struct.h	/^  timer TotalTmr, InitPartTmr, MatchTmr, ContractTmr, CoarsenTmr, UncoarsenTmr, $/;"	m	struct:controldef
+InitRandom	rename.h	/^#define InitRandom	/;"	d
+InitSeparator	rename.h	/^#define InitSeparator	/;"	d
+InitTimers	rename.h	/^#define InitTimers	/;"	d
+IsBalanced	rename.h	/^#define IsBalanced	/;"	d
+IsBetter2wayBalance	rename.h	/^#define IsBetter2wayBalance	/;"	d
+IsConnected	rename.h	/^#define IsConnected	/;"	d
+IsConnected2	rename.h	/^#define IsConnected2	/;"	d
+IsConnectedSubdomain	rename.h	/^#define IsConnectedSubdomain	/;"	d
+IsHBalanceBetterFT	rename.h	/^#define IsHBalanceBetterFT	/;"	d
+IsHBalanceBetterTT	rename.h	/^#define IsHBalanceBetterTT	/;"	d
+IsSeparable	rename.h	/^#define IsSeparable	/;"	d
+KMETIS_CTYPE	defs.h	/^#define KMETIS_CTYPE	/;"	d
+KMETIS_DBGLVL	defs.h	/^#define KMETIS_DBGLVL	/;"	d
+KMETIS_ITYPE	defs.h	/^#define KMETIS_ITYPE	/;"	d
+KMETIS_RTYPE	defs.h	/^#define KMETIS_RTYPE	/;"	d
+KVMETIS_CTYPE	defs.h	/^#define KVMETIS_CTYPE	/;"	d
+KVMETIS_DBGLVL	defs.h	/^#define KVMETIS_DBGLVL	/;"	d
+KVMETIS_ITYPE	defs.h	/^#define KVMETIS_ITYPE	/;"	d
+KVMETIS_RTYPE	defs.h	/^#define KVMETIS_RTYPE	/;"	d
+KWayVolUpdate	rename.h	/^#define KWayVolUpdate	/;"	d
+KeyValueType	struct.h	/^struct KeyValueType {$/;"	s
+KeyValueType	struct.h	/^typedef struct KeyValueType KeyValueType;$/;"	t	typeref:struct:KeyValueType
+LARGENIPARTS	defs.h	/^#define LARGENIPARTS	/;"	d
+LIBS	makefile	/^LIBS      = $(LIB_BLAS) $(LIB_LAPACK) $(LIB_METIS) $(LIB_FEPGSOLV) $(LIB_LINUX)$/;"	m
+LIB_FEPGSOLV	makefile	/^LIB_FEPGSOLV = ${FEGEN}\/lib\/libfepgsolv.a$/;"	m
+LIB_MATH	makefile	/^LIB_MATH  = -lm$/;"	m
+LIB_METIS	makefile	/^LIB_METIS = ${FEGEN}\/lib\/libmetis.a $/;"	m
+LTERM	defs.h	/^#define LTERM	/;"	d
+ListNodeType	struct.h	/^struct ListNodeType {$/;"	s
+ListNodeType	struct.h	/^typedef struct ListNodeType ListNodeType;$/;"	t	typeref:struct:ListNodeType
+MAKECSR	macros.h	/^#define MAKECSR(/;"	d
+MALLOC_CHECK	macros.h	/^#   define MALLOC_CHECK(/;"	d
+MATCH_HEM	defs.h	/^#define MATCH_HEM	/;"	d
+MATCH_RM	defs.h	/^#define MATCH_RM	/;"	d
+MATCH_SBHEM_INFNORM	defs.h	/^#define MATCH_SBHEM_INFNORM	/;"	d
+MATCH_SBHEM_ONENORM	defs.h	/^#define MATCH_SBHEM_ONENORM	/;"	d
+MATCH_SHEBM_INFNORM	defs.h	/^#define MATCH_SHEBM_INFNORM	/;"	d
+MATCH_SHEBM_ONENORM	defs.h	/^#define MATCH_SHEBM_ONENORM	/;"	d
+MATCH_SHEM	defs.h	/^#define MATCH_SHEM	/;"	d
+MATCH_SHEMKWAY	defs.h	/^#define MATCH_SHEMKWAY	/;"	d
+MAXIDX	struct.h	/^#define MAXIDX	/;"	d
+MAXLINE	defs.h	/^#define MAXLINE	/;"	d
+MAXNCON	defs.h	/^#define MAXNCON	/;"	d
+MAXNOBJ	defs.h	/^#define MAXNOBJ	/;"	d
+MCCoarsen2Way	rename.h	/^#define MCCoarsen2Way	/;"	d
+MCGreedy_KWayEdgeBalanceHorizontal	rename.h	/^#define MCGreedy_KWayEdgeBalanceHorizontal	/;"	d
+MCHMlevelEdgeBisection	rename.h	/^#define MCHMlevelEdgeBisection	/;"	d
+MCHMlevelRecursiveBisection	rename.h	/^#define MCHMlevelRecursiveBisection	/;"	d
+MCMatch_HEM	rename.h	/^#define MCMatch_HEM	/;"	d
+MCMatch_RM	rename.h	/^#define MCMatch_RM	/;"	d
+MCMatch_SBHEM	rename.h	/^#define MCMatch_SBHEM	/;"	d
+MCMatch_SHEBM	rename.h	/^#define MCMatch_SHEBM	/;"	d
+MCMatch_SHEM	rename.h	/^#define MCMatch_SHEM	/;"	d
+MCMlevelEdgeBisection	rename.h	/^#define MCMlevelEdgeBisection	/;"	d
+MCMlevelKWayPartitioning	rename.h	/^#define MCMlevelKWayPartitioning	/;"	d
+MCMlevelRecursiveBisection	rename.h	/^#define MCMlevelRecursiveBisection	/;"	d
+MCRandom_KWayEdgeRefineHorizontal	rename.h	/^#define MCRandom_KWayEdgeRefineHorizontal	/;"	d
+METISTITLE	defs.h	/^#define METISTITLE /;"	d
+METIS_PartMeshDual	meshpart.c	/^void METIS_PartMeshDual(int *ne, int *nn, idxtype *elmnts, int *etype, int *numflag, $/;"	f
+METIS_PartMeshNodal	meshpart.c	/^void METIS_PartMeshNodal(int *ne, int *nn, idxtype *elmnts, int *etype, int *numflag, $/;"	f
+MINMAXELEM	ddmsub.f	/^        SUBROUTINE MINMAXELEM(/;"	s
+MISES	plas.f	/^      real*8 FUNCTION MISES(/;"	f
+MMDOrder	rename.h	/^#define MMDOrder	/;"	d
+MMDSWITCH	defs.h	/^#define MMDSWITCH	/;"	d
+MPIF77	makefile	/^MPIF77      =    mpif90$/;"	m
+MREADCOOR	msazrecvpart.f	/^      SUBROUTINE  MREADCOOR(/;"	s
+MREADDISP0	msazrecvpart.f	/^       SUBROUTINE  MREADDISP0(/;"	s
+MREADDISP1	msazrecvpart.f	/^       SUBROUTINE  MREADDISP1(/;"	s
+MREADDISP2	msazrecvpart.f	/^       SUBROUTINE  MREADDISP2(/;"	s
+MREADDISP3	msazrecvpart.f	/^       SUBROUTINE  MREADDISP3(/;"	s
+MREADELEM	msazrecvpart.f	/^       SUBROUTINE MREADELEM(/;"	s
+MREADEYTPE	msazrecvpart.f	/^      SUBROUTINE MREADEYTPE(/;"	s
+MREADID	msazrecvpart.f	/^       SUBROUTINE  MREADID(/;"	s
+MREADSSUBNODES	msazrecvpart.f	/^      SUBROUTINE MREADSSUBNODES(/;"	s
+MSTRESS3	fepglib.f	/^      SUBROUTINE MSTRESS3(/;"	s
+MSTRESS4	fepglib.f	/^      SUBROUTINE MSTRESS4(/;"	s
+MSTRESS6	fepglib.f	/^      SUBROUTINE MSTRESS6(/;"	s
+MatchTmr	struct.h	/^  timer TotalTmr, InitPartTmr, MatchTmr, ContractTmr, CoarsenTmr, UncoarsenTmr, $/;"	m	struct:controldef
+Match_HEM	rename.h	/^#define Match_HEM	/;"	d
+Match_RM	rename.h	/^#define Match_RM	/;"	d
+Match_RM_NVW	rename.h	/^#define Match_RM_NVW	/;"	d
+Match_SHEM	rename.h	/^#define Match_SHEM	/;"	d
+Mazrecvpart	azrecvpart.f	/^      subroutine Mazrecvpart(/;"	s
+Mazsendpart	azsendpart.f	/^      subroutine Mazsendpart(/;"	s
+Mazsolv	azsolv.f	/^      subroutine Mazsolv(/;"	s
+Mbft	bft.f	/^      subroutine Mbft(/;"	s
+McKMETIS_CTYPE	defs.h	/^#define McKMETIS_CTYPE	/;"	d
+McKMETIS_DBGLVL	defs.h	/^#define McKMETIS_DBGLVL	/;"	d
+McKMETIS_ITYPE	defs.h	/^#define McKMETIS_ITYPE	/;"	d
+McKMETIS_RTYPE	defs.h	/^#define McKMETIS_RTYPE	/;"	d
+McPMETIS_CTYPE	defs.h	/^#define McPMETIS_CTYPE	/;"	d
+McPMETIS_DBGLVL	defs.h	/^#define McPMETIS_DBGLVL	/;"	d
+McPMETIS_ITYPE	defs.h	/^#define McPMETIS_ITYPE	/;"	d
+McPMETIS_RTYPE	defs.h	/^#define McPMETIS_RTYPE	/;"	d
+Mdmbs2dmsr	dmbs2dmsr.f	/^      subroutine Mdmbs2dmsr(/;"	s
+Meddm	eddm.f	/^      subroutine Meddm(/;"	s
+Mesddm	esddm.f	/^      subroutine Mesddm(/;"	s
+MinCover	rename.h	/^#define MinCover	/;"	d
+MinCover_Augment	rename.h	/^#define MinCover_Augment	/;"	d
+MinCover_ColDFS	rename.h	/^#define MinCover_ColDFS	/;"	d
+MinCover_Decompose	rename.h	/^#define MinCover_Decompose	/;"	d
+MinCover_RowDFS	rename.h	/^#define MinCover_RowDFS	/;"	d
+MlevelEdgeBisection	rename.h	/^#define MlevelEdgeBisection	/;"	d
+MlevelKWayPartitioning	rename.h	/^#define MlevelKWayPartitioning	/;"	d
+MlevelNestedDissection	rename.h	/^#define MlevelNestedDissection	/;"	d
+MlevelNestedDissectionCC	rename.h	/^#define MlevelNestedDissectionCC	/;"	d
+MlevelNestedDissectionP	rename.h	/^#define MlevelNestedDissectionP	/;"	d
+MlevelNodeBisection	rename.h	/^#define MlevelNodeBisection	/;"	d
+MlevelNodeBisectionMultiple	rename.h	/^#define MlevelNodeBisectionMultiple	/;"	d
+MlevelRecursiveBisection	rename.h	/^#define MlevelRecursiveBisection	/;"	d
+MlevelVolKWayPartitioning	rename.h	/^#define MlevelVolKWayPartitioning	/;"	d
+Mmbft	mbft.f	/^      subroutine Mmbft(/;"	s
+Mmsazrecvpart	msazrecvpart.f	/^      subroutine Mmsazrecvpart(/;"	s
+Mnzdmbsdiag	nzdmbsdiag.f	/^      subroutine Mnzdmbsdiag(/;"	s
+Mnzrecvdip	nzrecvdip.f	/^      subroutine Mnzrecvdip(/;"	s
+Mnzrecvstr	nzrecvstr.f	/^      subroutine Mnzrecvstr(/;"	s
+MocAllocate2WayPartitionMemory	rename.h	/^#define MocAllocate2WayPartitionMemory	/;"	d
+MocAllocateKWayPartitionMemory	rename.h	/^#define MocAllocateKWayPartitionMemory	/;"	d
+MocBalance2Way	rename.h	/^#define MocBalance2Way	/;"	d
+MocBalance2Way2	rename.h	/^#define MocBalance2Way2	/;"	d
+MocCompute2WayPartitionParams	rename.h	/^#define MocCompute2WayPartitionParams	/;"	d
+MocComputeKWayBalanceBoundary	rename.h	/^#define MocComputeKWayBalanceBoundary	/;"	d
+MocComputeKWayPartitionParams	rename.h	/^#define MocComputeKWayPartitionParams	/;"	d
+MocFM_2WayEdgeRefine	rename.h	/^#define MocFM_2WayEdgeRefine	/;"	d
+MocFM_2WayEdgeRefine2	rename.h	/^#define MocFM_2WayEdgeRefine2	/;"	d
+MocGeneral2WayBalance	rename.h	/^#define MocGeneral2WayBalance	/;"	d
+MocGeneral2WayBalance2	rename.h	/^#define MocGeneral2WayBalance2	/;"	d
+MocGrowBisection	rename.h	/^#define MocGrowBisection	/;"	d
+MocGrowBisection2	rename.h	/^#define MocGrowBisection2	/;"	d
+MocGrowBisectionNew2	rename.h	/^#define MocGrowBisectionNew2	/;"	d
+MocInit2WayBalance	rename.h	/^#define MocInit2WayBalance	/;"	d
+MocInit2WayBalance2	rename.h	/^#define MocInit2WayBalance2	/;"	d
+MocInit2WayPartition	rename.h	/^#define MocInit2WayPartition	/;"	d
+MocInit2WayPartition2	rename.h	/^#define MocInit2WayPartition2	/;"	d
+MocIsHBalanced	rename.h	/^#define MocIsHBalanced	/;"	d
+MocProject2WayPartition	rename.h	/^#define MocProject2WayPartition	/;"	d
+MocProjectKWayPartition	rename.h	/^#define MocProjectKWayPartition	/;"	d
+MocRandomBisection	rename.h	/^#define MocRandomBisection	/;"	d
+MocRefine2Way	rename.h	/^#define MocRefine2Way	/;"	d
+MocRefine2Way2	rename.h	/^#define MocRefine2Way2	/;"	d
+MocRefineKWayHorizontal	rename.h	/^#define MocRefineKWayHorizontal	/;"	d
+MoveGroup	rename.h	/^#define MoveGroup	/;"	d
+MoveGroupMConn	rename.h	/^#define MoveGroupMConn	/;"	d
+Mstart	start.f	/^      subroutine Mstart(/;"	s
+Muddm	uddm.f	/^      subroutine Muddm(/;"	s
+NEG_GAINSPAN	defs.h	/^#define NEG_GAINSPAN /;"	d
+NGR_PASSES	defs.h	/^#define NGR_PASSES	/;"	d
+NLGR_PASSES	defs.h	/^#define NLGR_PASSES	/;"	d
+NRInfoType	struct.h	/^typedef struct nrinfodef NRInfoType;$/;"	t	typeref:struct:nrinfodef
+NTMT	fepglib.f	/^      SUBROUTINE NTMT /;"	s
+NZADDMBS	eddm.f	/^        SUBROUTINE NZADDMBS(/;"	s
+OEMETIS_CTYPE	defs.h	/^#define OEMETIS_CTYPE	/;"	d
+OEMETIS_DBGLVL	defs.h	/^#define OEMETIS_DBGLVL	/;"	d
+OEMETIS_ITYPE	defs.h	/^#define OEMETIS_ITYPE	/;"	d
+OEMETIS_RTYPE	defs.h	/^#define OEMETIS_RTYPE	/;"	d
+OFLAG_CCMP	defs.h	/^#define OFLAG_CCMP	/;"	d
+OFLAG_COMPRESS	defs.h	/^#define OFLAG_COMPRESS	/;"	d
+ONMETIS_CTYPE	defs.h	/^#define ONMETIS_CTYPE	/;"	d
+ONMETIS_DBGLVL	defs.h	/^#define ONMETIS_DBGLVL	/;"	d
+ONMETIS_ITYPE	defs.h	/^#define ONMETIS_ITYPE	/;"	d
+ONMETIS_NSEPS	defs.h	/^#define ONMETIS_NSEPS	/;"	d
+ONMETIS_OFLAGS	defs.h	/^#define ONMETIS_OFLAGS	/;"	d
+ONMETIS_PFACTOR	defs.h	/^#define ONMETIS_PFACTOR	/;"	d
+ONMETIS_RTYPE	defs.h	/^#define ONMETIS_RTYPE	/;"	d
+OPTFLAGS	makefile	/^OPTFLAGS    =    -O2 -L${FEGEN}\/lib$/;"	m
+OPTION_CTYPE	defs.h	/^#define OPTION_CTYPE	/;"	d
+OPTION_DBGLVL	defs.h	/^#define OPTION_DBGLVL	/;"	d
+OPTION_ITYPE	defs.h	/^#define OPTION_ITYPE	/;"	d
+OPTION_NSEPS	defs.h	/^#define OPTION_NSEPS	/;"	d
+OPTION_OFLAGS	defs.h	/^#define OPTION_OFLAGS	/;"	d
+OPTION_PFACTOR	defs.h	/^#define OPTION_PFACTOR	/;"	d
+OPTION_PTYPE	defs.h	/^#define OPTION_PTYPE	/;"	d
+OPTION_RTYPE	defs.h	/^#define OPTION_RTYPE	/;"	d
+OP_KMETIS	defs.h	/^#define OP_KMETIS	/;"	d
+OP_KVMETIS	defs.h	/^#define OP_KVMETIS	/;"	d
+OP_OEMETIS	defs.h	/^#define OP_OEMETIS	/;"	d
+OP_ONMETIS	defs.h	/^#define OP_ONMETIS	/;"	d
+OP_ONWMETIS	defs.h	/^#define OP_ONWMETIS	/;"	d
+OP_PMETIS	defs.h	/^#define OP_PMETIS	/;"	d
+OR	macros.h	/^#define OR(/;"	d
+ORDER_UNBALANCE_FRACTION	defs.h	/^#define ORDER_UNBALANCE_FRACTION	/;"	d
+PLINE	fepglib.f	/^      SUBROUTINE PLINE(/;"	s
+PLUS_GAINSPAN	defs.h	/^#define PLUS_GAINSPAN /;"	d
+PMETIS_CTYPE	defs.h	/^#define PMETIS_CTYPE	/;"	d
+PMETIS_DBGLVL	defs.h	/^#define PMETIS_DBGLVL	/;"	d
+PMETIS_ITYPE	defs.h	/^#define PMETIS_ITYPE	/;"	d
+PMETIS_RTYPE	defs.h	/^#define PMETIS_RTYPE	/;"	d
+POINTIN	ddmsub.f	/^        SUBROUTINE POINTIN(/;"	s
+POINTINLINE	ddmsub.f	/^        SUBROUTINE POINTINLINE(/;"	s
+POINTINTRI	ddmsub.f	/^        SUBROUTINE POINTINTRI(/;"	s
+POSTVALUECONTACT	ddmsub.f	/^        SUBROUTINE POSTVALUECONTACT(/;"	s
+PQueueDelete	rename.h	/^#define PQueueDelete	/;"	d
+PQueueFree	rename.h	/^#define PQueueFree	/;"	d
+PQueueGetMax	rename.h	/^#define PQueueGetMax	/;"	d
+PQueueInit	rename.h	/^#define PQueueInit	/;"	d
+PQueueInsert	rename.h	/^#define PQueueInsert	/;"	d
+PQueueReset	rename.h	/^#define PQueueReset	/;"	d
+PQueueSeeMax	rename.h	/^#define PQueueSeeMax	/;"	d
+PQueueType	struct.h	/^struct PQueueType {$/;"	s
+PQueueType	struct.h	/^typedef struct PQueueType PQueueType;$/;"	t	typeref:struct:PQueueType
+PQueueUpdate	rename.h	/^#define PQueueUpdate	/;"	d
+PQueueUpdateUp	rename.h	/^#define PQueueUpdateUp	/;"	d
+PRAGER	plas.f	/^      real*8 FUNCTION PRAGER(/;"	f
+PROJECT	ddmsub.f	/^        SUBROUTINE PROJECT(/;"	s
+PrintSubDomainGraph	rename.h	/^#define PrintSubDomainGraph	/;"	d
+PrintTimers	rename.h	/^#define PrintTimers	/;"	d
+Project2WayNodePartition	rename.h	/^#define Project2WayNodePartition	/;"	d
+Project2WayPartition	rename.h	/^#define Project2WayPartition	/;"	d
+ProjectKWayPartition	rename.h	/^#define ProjectKWayPartition	/;"	d
+ProjectTmr	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+ProjectVolKWayPartition	rename.h	/^#define ProjectVolKWayPartition	/;"	d
+PruneGraph	rename.h	/^#define PruneGraph	/;"	d
+QMESH	fepglib.f	/^      SUBROUTINE QMESH(/;"	s
+READCOOR	azrecvpart.f	/^      SUBROUTINE  READCOOR(/;"	s
+READDISP0	azrecvpart.f	/^       SUBROUTINE  READDISP0(/;"	s
+READDISP1	azrecvpart.f	/^       SUBROUTINE  READDISP1(/;"	s
+READDISP2	azrecvpart.f	/^       SUBROUTINE  READDISP2(/;"	s
+READDISP3	azrecvpart.f	/^       SUBROUTINE  READDISP3(/;"	s
+READELEM	azrecvpart.f	/^       SUBROUTINE READELEM(/;"	s
+READEYTPE	azrecvpart.f	/^      SUBROUTINE READEYTPE(/;"	s
+READID	azrecvpart.f	/^       SUBROUTINE  READID(/;"	s
+READSSUBNODES	azrecvpart.f	/^      SUBROUTINE READSSUBNODES(/;"	s
+RInfoType	struct.h	/^typedef struct rinfodef RInfoType;$/;"	t	typeref:struct:rinfodef
+RTYPE_FM	defs.h	/^#define RTYPE_FM	/;"	d
+RTYPE_KWAYGREEDY	defs.h	/^#define RTYPE_KWAYGREEDY	/;"	d
+RTYPE_KWAYRANDOM	defs.h	/^#define RTYPE_KWAYRANDOM	/;"	d
+RTYPE_KWAYRANDOM_MCONN	defs.h	/^#define RTYPE_KWAYRANDOM_MCONN	/;"	d
+RTYPE_SEP1SIDED	defs.h	/^#define RTYPE_SEP1SIDED	/;"	d
+RTYPE_SEP2SIDED	defs.h	/^#define RTYPE_SEP2SIDED	/;"	d
+RType	struct.h	/^  int RType;			\/* The type of refinement *\/$/;"	m	struct:controldef
+RandomBisection	rename.h	/^#define RandomBisection	/;"	d
+RandomInRange	macros.h	/^#define RandomInRange(/;"	d
+RandomInRangeFast	macros.h	/^#define RandomInRangeFast(/;"	d
+RandomPermute	rename.h	/^#define RandomPermute	/;"	d
+Random_KWayEdgeRefine	rename.h	/^#define Random_KWayEdgeRefine	/;"	d
+Random_KWayEdgeRefineMConn	rename.h	/^#define Random_KWayEdgeRefineMConn	/;"	d
+Random_KWayVolRefine	rename.h	/^#define Random_KWayVolRefine	/;"	d
+Random_KWayVolRefineMConn	rename.h	/^#define Random_KWayVolRefineMConn	/;"	d
+RandomizeGraph	rename.h	/^#define RandomizeGraph	/;"	d
+ReAdjustMemory	rename.h	/^#define ReAdjustMemory	/;"	d
+ReadGraph	io.c	/^void ReadGraph(GraphType *graph, char *filename, int *wgtflag)$/;"	f
+ReadMesh	io.c	/^idxtype *ReadMesh(char *filename, int *ne, int *nn, int *etype)$/;"	f
+RefTmr	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+Refine2Way	rename.h	/^#define Refine2Way	/;"	d
+Refine2WayNode	rename.h	/^#define Refine2WayNode	/;"	d
+RefineKWay	rename.h	/^#define RefineKWay	/;"	d
+RefineVolKWay	rename.h	/^#define RefineVolKWay	/;"	d
+SECTIONANGLE	ddmsub.f	/^        SUBROUTINE SECTIONANGLE(/;"	s
+SHAP	fepglib.f	/^      SUBROUTINE SHAP(/;"	s
+SHAPc	fepglib.f	/^      SUBROUTINE SHAPc(/;"	s
+SHAPn	fepglib.f	/^      SUBROUTINE SHAPn(/;"	s
+SHORTDIST	ddmsub.f	/^        SUBROUTINE SHORTDIST(/;"	s
+SIZEELEM	ddmsub.f	/^        SUBROUTINE SIZEELEM(/;"	s
+SMALLNIPARTS	defs.h	/^#define SMALLNIPARTS	/;"	d
+SMIT	fepglib.f	/^      SUBROUTINE SMIT(/;"	s
+SOLVE	fepglib.f	/^      SUBROUTINE SOLVE(/;"	s
+SWAP	macros.h	/^#define SWAP(/;"	d
+SelectQueue	rename.h	/^#define SelectQueue	/;"	d
+SelectQueue2	rename.h	/^#define SelectQueue2	/;"	d
+SelectQueue3	rename.h	/^#define SelectQueue3	/;"	d
+SelectQueueOneWay2	rename.h	/^#define SelectQueueOneWay2	/;"	d
+SelectQueueoneWay	rename.h	/^#define SelectQueueoneWay	/;"	d
+SepTmr	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+SetUpCoarseGraph	rename.h	/^#define SetUpCoarseGraph	/;"	d
+SetUpGraph	rename.h	/^#define SetUpGraph	/;"	d
+SetUpGraph2	rename.h	/^#define SetUpGraph2	/;"	d
+SetUpGraphKway	rename.h	/^#define SetUpGraphKway /;"	d
+SetUpSplitGraph	rename.h	/^#define SetUpSplitGraph	/;"	d
+SplitGraphOrder	rename.h	/^#define SplitGraphOrder	/;"	d
+SplitGraphOrderCC	rename.h	/^#define SplitGraphOrderCC	/;"	d
+SplitGraphPart	rename.h	/^#define SplitGraphPart	/;"	d
+SplitTmr	struct.h	/^        SepTmr, RefTmr, ProjectTmr, SplitTmr, AuxTmr1, AuxTmr2, AuxTmr3, AuxTmr4, AuxTmr5, AuxTmr6;$/;"	m	struct:controldef
+TETDUALMETIS	rename.h	/^#define TETDUALMETIS	/;"	d
+TETNODALMETIS	rename.h	/^#define TETNODALMETIS	/;"	d
+TKT	fepglib.f	/^      SUBROUTINE TKT /;"	s
+TL	fepglib.f	/^      SUBROUTINE TL /;"	s
+TMDATA	fepglib.f	/^      COMMON \/TMDATA\//;"	c	subroutine:trimesh
+TMESH	fepglib.f	/^      SUBROUTINE TMESH(/;"	s
+TMT	fepglib.f	/^      SUBROUTINE TMT /;"	s
+TRIDUALMETIS	rename.h	/^#define TRIDUALMETIS	/;"	d
+TRINODALMETIS	rename.h	/^#define TRINODALMETIS	/;"	d
+TotalTmr	struct.h	/^  timer TotalTmr, InitPartTmr, MatchTmr, ContractTmr, CoarsenTmr, UncoarsenTmr, $/;"	m	struct:controldef
+UNBALANCE_FRACTION	defs.h	/^#define UNBALANCE_FRACTION	/;"	d
+UNMATCHED	defs.h	/^#define UNMATCHED	/;"	d
+UncoarsenTmr	struct.h	/^  timer TotalTmr, InitPartTmr, MatchTmr, ContractTmr, CoarsenTmr, UncoarsenTmr, $/;"	m	struct:controldef
+VALUECONTACT	ddmsub.f	/^        SUBROUTINE VALUECONTACT(/;"	s
+VEDegreeType	struct.h	/^typedef struct vedegreedef VEDegreeType;$/;"	t	typeref:struct:vedegreedef
+VPInfoType	struct.h	/^typedef struct vpwgtdef VPInfoType;$/;"	t	typeref:struct:vpwgtdef
+VRInfoType	struct.h	/^typedef struct vrinfodef VRInfoType;$/;"	t	typeref:struct:vrinfodef
+VolSetUpGraph	rename.h	/^#define VolSetUpGraph	/;"	d
+WorkSpaceType	struct.h	/^typedef struct workspacedef WorkSpaceType;$/;"	t	typeref:struct:workspacedef
+WriteGraph	io.c	/^void WriteGraph(char *filename, int nvtxs, idxtype *xadj, idxtype *adjncy)$/;"	f
+WriteMeshPartition	io.c	/^void WriteMeshPartition(char *fname, int nparts, int ne, idxtype *epart, int nn, idxtype *npart)$/;"	f
+WriteMocGraph	io.c	/^void WriteMocGraph(GraphType *graph)$/;"	f
+WritePartition	io.c	/^void WritePartition(char *fname, idxtype *part, int n, int nparts)$/;"	f
+WritePermutation	io.c	/^void WritePermutation(char *fname, idxtype *iperm, int n)$/;"	f
+WspaceAvail	rename.h	/^#define WspaceAvail	/;"	d
+XOR	macros.h	/^#define XOR(/;"	d
+aa	azpartition.f	/^      common \/aa\//;"	c
+aa	azrecvpart.f	/^      common \/aa\//;"	c	subroutine:Mazrecvpart
+aa	azsendpart.f	/^      common \/aa\//;"	c	subroutine:Mazsendpart
+aa	azsolv.f	/^      common \/aa\//;"	c	subroutine:Mazsolv
+aa	bft.f	/^      common \/aa\//;"	c	subroutine:Mbft
+aa	dmbs2dmsr.f	/^      common \/aa\//;"	c	subroutine:Mdmbs2dmsr
+aa	eddm.f	/^      common \/aa\//;"	c	subroutine:Meddm
+aa	esddm.f	/^      common \/aa\//;"	c	subroutine:Mesddm
+aa	gp.f	/^      common \/aa\//;"	c
+aa	mbft.f	/^      common \/aa\//;"	c	subroutine:Mmbft
+aa	msazrecvpart.f	/^      common \/aa\//;"	c	subroutine:Mmsazrecvpart
+aa	nzdmbsdiag.f	/^      common \/aa\//;"	c	subroutine:Mnzdmbsdiag
+aa	nzrecvdip.f	/^      common \/aa\//;"	c	subroutine:Mnzrecvdip
+aa	nzrecvstr.f	/^      common \/aa\//;"	c	subroutine:Mnzrecvstr
+aa	partit.f	/^      common \/aa\//;"	c
+aa	partition.f	/^      common \/aa\//;"	c
+aa	start.f	/^      common \/aa\//;"	c	subroutine:Mstart
+aa	uddm.f	/^      common \/aa\//;"	c	subroutine:Muddm
+aa	umcazpartition.f	/^      common \/aa\//;"	c
+adjncy	struct.h	/^  idxtype *adjncy;		\/* Array that stores the adjacency lists of nvtxs *\/$/;"	m	struct:graphdef
+adjwgt	struct.h	/^  idxtype *adjwgt;		\/* Array that stores the weights of the adjacency lists *\/$/;"	m	struct:graphdef
+adjwgtsum	struct.h	/^  idxtype *adjwgtsum;		\/* The sum of the adjacency weight of each vertex *\/$/;"	m	struct:graphdef
+amax	macros.h	/^#define amax(/;"	d
+amin	macros.h	/^#define amin(/;"	d
+auxcore	struct.h	/^  idxtype *auxcore;			\/* This points to the memory of the edegrees *\/$/;"	m	struct:workspacedef
+azpartition	azpartition.f	/^      subroutine azpartition(/;"	s
+azpartition	partit.f	/^      subroutine azpartition(/;"	s
+azpartition	partition.f	/^      subroutine azpartition(/;"	s
+azpartition	umcazpartition.f	/^      subroutine azpartition(/;"	s
+azrecvpart	azrecvpart.f	/^      subroutine azrecvpart(/;"	s
+azsendpart	azsendpart.f	/^      subroutine azsendpart(/;"	s
+azsolv	azsolv.f	/^      subroutine azsolv(/;"	s
+bft	bft.f	/^      subroutine bft(/;"	s
+bftmas	mbft.f	/^      subroutine bftmas(/;"	s
+bndind	struct.h	/^  idxtype *bndptr, *bndind;$/;"	m	struct:graphdef
+bndptr	struct.h	/^  idxtype *bndptr, *bndind;$/;"	m	struct:graphdef
+boun3	fepglib.f	/^      subroutine boun3(/;"	s
+boun4	fepglib.f	/^      subroutine boun4(/;"	s
+bound	bound.f	/^       function bound(/;"	f
+bound1	bound.f	/^       function bound1(/;"	f
+bound2	bound.f	/^       function bound2(/;"	f
+bounda	bound1.f	/^       function bounda(/;"	f
+boundb	bound1.f	/^       function boundb(/;"	f
+boundold	bound1.f	/^       function boundold(/;"	f
+boundv	bound1.f	/^       function boundv(/;"	f
+buckets	struct.h	/^  ListNodeType **buckets;$/;"	m	struct:PQueueType
+callpsolv	azsolv.f	/^       subroutine callpsolv(/;"	s
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fehsw6m
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fhsw6m1
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fhsw6m2
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fhsw6m3
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fhsw6m4
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fhsw6m5
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fhsw6m6
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	function:fthsw6m
+cchsw6m	hsw6m.f	/^      common \/cchsw6m\//;"	c	subroutine:thsw6m
+cchulq4g2	hulq4g2.f	/^      common \/cchulq4g2\//;"	c	function:fehulq4g2
+cchulq4g2	hulq4g2.f	/^      common \/cchulq4g2\//;"	c	function:fhulq4g21
+cchulq4g2	hulq4g2.f	/^      common \/cchulq4g2\//;"	c	function:fhulq4g22
+cchulq4g2	hulq4g2.f	/^      common \/cchulq4g2\//;"	c	function:fhulq4g23
+cchulq4g2	hulq4g2.f	/^      common \/cchulq4g2\//;"	c	function:fthulq4g2
+cchulq4g2	hulq4g2.f	/^      common \/cchulq4g2\//;"	c	subroutine:thulq4g2
+cchuw6m	huw6m.f	/^      common \/cchuw6m\//;"	c	function:fehuw6m
+cchuw6m	huw6m.f	/^      common \/cchuw6m\//;"	c	function:fhuw6m1
+cchuw6m	huw6m.f	/^      common \/cchuw6m\//;"	c	function:fhuw6m2
+cchuw6m	huw6m.f	/^      common \/cchuw6m\//;"	c	function:fhuw6m3
+cchuw6m	huw6m.f	/^      common \/cchuw6m\//;"	c	function:fthuw6m
+cchuw6m	huw6m.f	/^      common \/cchuw6m\//;"	c	subroutine:thuw6m
+ccore	struct.h	/^  int maxcore, ccore;$/;"	m	struct:workspacedef
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:fessc27g3
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:fssc27g31
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:fssc27g32
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:fssc27g33
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:fssc27g34
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:fssc27g35
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:fssc27g36
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	function:ftssc27g3
+ccssc27g3	ssc27g3.f	/^      common \/ccssc27g3\//;"	c	subroutine:tssc27g3
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:fessc8g2
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:fssc8g21
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:fssc8g22
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:fssc8g23
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:fssc8g24
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:fssc8g25
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:fssc8g26
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	function:ftssc8g2
+ccssc8g2	ssc8g2.f	/^      common \/ccssc8g2\//;"	c	subroutine:tssc8g2
+ccsuc27g3	suc27g3.f	/^      common \/ccsuc27g3\//;"	c	function:fesuc27g3
+ccsuc27g3	suc27g3.f	/^      common \/ccsuc27g3\//;"	c	function:fsuc27g31
+ccsuc27g3	suc27g3.f	/^      common \/ccsuc27g3\//;"	c	function:fsuc27g32
+ccsuc27g3	suc27g3.f	/^      common \/ccsuc27g3\//;"	c	function:fsuc27g33
+ccsuc27g3	suc27g3.f	/^      common \/ccsuc27g3\//;"	c	function:ftsuc27g3
+ccsuc27g3	suc27g3.f	/^      common \/ccsuc27g3\//;"	c	subroutine:tsuc27g3
+ccsuc8g2	suc8g2.f	/^      common \/ccsuc8g2\//;"	c	function:fesuc8g2
+ccsuc8g2	suc8g2.f	/^      common \/ccsuc8g2\//;"	c	function:fsuc8g21
+ccsuc8g2	suc8g2.f	/^      common \/ccsuc8g2\//;"	c	function:fsuc8g22
+ccsuc8g2	suc8g2.f	/^      common \/ccsuc8g2\//;"	c	function:fsuc8g23
+ccsuc8g2	suc8g2.f	/^      common \/ccsuc8g2\//;"	c	function:ftsuc8g2
+ccsuc8g2	suc8g2.f	/^      common \/ccsuc8g2\//;"	c	subroutine:tsuc8g2
+cdegree	struct.h	/^  int cdegree;$/;"	m	struct:workspacedef
+ch	ddmsub.f	/^       subroutine ch(/;"	s
+charsum	rename.h	/^#define charsum	/;"	d
+chgsecond	timer.f	/^       subroutine chgsecond(/;"	s
+cleartimer	macros.h	/^#define cleartimer(/;"	d
+cmap	struct.h	/^  idxtype *cmap;$/;"	m	struct:graphdef
+coarser	struct.h	/^  struct graphdef *coarser, *finer;$/;"	m	struct:graphdef	typeref:struct:graphdef::graphdef
+controldef	struct.h	/^struct controldef {$/;"	s
+coord	fepglib.f	/^      common \/coord\//;"	c	subroutine:dcoor
+coord	fepglib.f	/^      common \/coord\//;"	c	subroutine:sdfdx
+coord	hsw6m.f	/^      common \/coord\//;"	c	function:fehsw6m
+coord	hsw6m.f	/^      common \/coord\//;"	c	function:fhsw6m1
+coord	hsw6m.f	/^      common \/coord\//;"	c	function:fhsw6m2
+coord	hsw6m.f	/^      common \/coord\//;"	c	function:fhsw6m3
+coord	hsw6m.f	/^      common \/coord\//;"	c	function:fhsw6m4
+coord	hsw6m.f	/^      common \/coord\//;"	c	function:fhsw6m5
+coord	hsw6m.f	/^      common \/coord\//;"	c	function:fhsw6m6
+coord	hulq4g2.f	/^      common \/coord\//;"	c	function:fehulq4g2
+coord	hulq4g2.f	/^      common \/coord\//;"	c	function:fhulq4g21
+coord	hulq4g2.f	/^      common \/coord\//;"	c	function:fhulq4g22
+coord	hulq4g2.f	/^      common \/coord\//;"	c	function:fhulq4g23
+coord	huw6m.f	/^      common \/coord\//;"	c	function:fehuw6m
+coord	huw6m.f	/^      common \/coord\//;"	c	function:fhuw6m1
+coord	huw6m.f	/^      common \/coord\//;"	c	function:fhuw6m2
+coord	huw6m.f	/^      common \/coord\//;"	c	function:fhuw6m3
+coord	ssc27g3.f	/^      common \/coord\//;"	c	function:fessc27g3
+coord	ssc27g3.f	/^      common \/coord\//;"	c	function:fssc27g31
+coord	ssc27g3.f	/^      common \/coord\//;"	c	function:fssc27g32
+coord	ssc27g3.f	/^      common \/coord\//;"	c	function:fssc27g33
+coord	ssc27g3.f	/^      common \/coord\//;"	c	function:fssc27g34
+coord	ssc27g3.f	/^      common \/coord\//;"	c	function:fssc27g35
+coord	ssc27g3.f	/^      common \/coord\//;"	c	function:fssc27g36
+coord	ssc8g2.f	/^      common \/coord\//;"	c	function:fessc8g2
+coord	ssc8g2.f	/^      common \/coord\//;"	c	function:fssc8g21
+coord	ssc8g2.f	/^      common \/coord\//;"	c	function:fssc8g22
+coord	ssc8g2.f	/^      common \/coord\//;"	c	function:fssc8g23
+coord	ssc8g2.f	/^      common \/coord\//;"	c	function:fssc8g24
+coord	ssc8g2.f	/^      common \/coord\//;"	c	function:fssc8g25
+coord	ssc8g2.f	/^      common \/coord\//;"	c	function:fssc8g26
+coord	suc27g3.f	/^      common \/coord\//;"	c	function:fesuc27g3
+coord	suc27g3.f	/^      common \/coord\//;"	c	function:fsuc27g31
+coord	suc27g3.f	/^      common \/coord\//;"	c	function:fsuc27g32
+coord	suc27g3.f	/^      common \/coord\//;"	c	function:fsuc27g33
+coord	suc8g2.f	/^      common \/coord\//;"	c	function:fesuc8g2
+coord	suc8g2.f	/^      common \/coord\//;"	c	function:fsuc8g21
+coord	suc8g2.f	/^      common \/coord\//;"	c	function:fsuc8g22
+coord	suc8g2.f	/^      common \/coord\//;"	c	function:fsuc8g23
+core	struct.h	/^  idxtype *core;			\/* Where pairs, indices, and degrees are coming from *\/$/;"	m	struct:workspacedef
+d2cd	incore.f	/^        common \/d2cd\//;"	c	subroutine:endrwf
+d2cd	incore.f	/^        common \/d2cd\//;"	c	subroutine:initpool
+d2cd	incore.f	/^        common \/d2cd\//;"	c	subroutine:initrwf
+d2cd	incore.f	/^        common \/d2cd\//;"	c	subroutine:openf
+d2cd	incore.f	/^        common \/d2cd\//;"	c	subroutine:rewindf
+dbglvl	struct.h	/^  int dbglvl;			\/* Controls the debuging output of the program *\/$/;"	m	struct:controldef
+dcoef	fepglib.f	/^      subroutine dcoef(/;"	s
+dcoor	fepglib.f	/^      subroutine dcoor(/;"	s
+ddm	ddm.f	/^      program ddm$/;"	p
+delnod	fepglib.f	/^      subroutine delnod(/;"	s
+dettri	fepglib.f	/^      real*8 function dettri(/;"	f
+dhsw6m	hsw6m.f	/^      common \/dhsw6m\//;"	c	subroutine:hsw6m
+dhsw6m	hsw6m.f	/^      common \/dhsw6m\//;"	c	subroutine:hsw6mi
+dhulq4g2	hulq4g2.f	/^      common \/dhulq4g2\//;"	c	subroutine:hulq4g2
+dhulq4g2	hulq4g2.f	/^      common \/dhulq4g2\//;"	c	subroutine:hulq4g2i
+dhuw6m	huw6m.f	/^      common \/dhuw6m\//;"	c	subroutine:huw6m
+dhuw6m	huw6m.f	/^      common \/dhuw6m\//;"	c	subroutine:huw6mi
+dmbs2dmsr	dmbs2dmsr.f	/^      subroutine dmbs2dmsr(/;"	s
+dmbsgetdiag	nzdmbsdiag.f	/^        subroutine dmbsgetdiag(/;"	s
+dshap	fepglib.f	/^      subroutine dshap(/;"	s
+dssc27g3	ssc27g3.f	/^      common \/dssc27g3\//;"	c	subroutine:ssc27g3
+dssc27g3	ssc27g3.f	/^      common \/dssc27g3\//;"	c	subroutine:ssc27g3i
+dssc8g2	ssc8g2.f	/^      common \/dssc8g2\//;"	c	subroutine:ssc8g2
+dssc8g2	ssc8g2.f	/^      common \/dssc8g2\//;"	c	subroutine:ssc8g2i
+dsuc27g3	suc27g3.f	/^      common \/dsuc27g3\//;"	c	subroutine:suc27g3
+dsuc27g3	suc27g3.f	/^      common \/dsuc27g3\//;"	c	subroutine:suc27g3i
+dsuc8g2	suc8g2.f	/^      common \/dsuc8g2\//;"	c	subroutine:suc8g2
+dsuc8g2	suc8g2.f	/^      common \/dsuc8g2\//;"	c	subroutine:suc8g2i
+dualnode	ddmsub.f	/^       subroutine dualnode(/;"	s
+ed	struct.h	/^  idxtype *id, *ed;$/;"	m	struct:graphdef
+ed	struct.h	/^  idxtype ed, ned;$/;"	m	struct:vedegreedef
+ed	struct.h	/^  idxtype ed;$/;"	m	struct:edegreedef
+ed	struct.h	/^ int id, ed, nid;            	\/* ID\/ED of nodes *\/$/;"	m	struct:vrinfodef
+ed	struct.h	/^ int id, ed;            	\/* ID\/ED of nodes *\/$/;"	m	struct:rinfodef
+eddm	eddm.f	/^      subroutine eddm(/;"	s
+edegreedef	struct.h	/^struct edegreedef {$/;"	s
+edegrees	struct.h	/^  EDegreeType *edegrees;$/;"	m	struct:workspacedef
+edegrees	struct.h	/^ EDegreeType *edegrees;     	\/* List of edges *\/$/;"	m	struct:rinfodef
+edegrees	struct.h	/^ VEDegreeType *edegrees;     	\/* List of edges *\/$/;"	m	struct:vrinfodef
+edegrees	struct.h	/^ idxtype edegrees[2];  $/;"	m	struct:nrinfodef
+edge	fepglib.f	/^      common \/edge\//;"	c	subroutine:tricb
+edge	fepglib.f	/^      common \/edge\//;"	c	subroutine:tricbn
+edge	fepglib.f	/^      common \/edge\//;"	c	subroutine:trimesh
+edge	fepglib.f	/^      common \/edge\//;"	c	subroutine:trinod
+ehsw6m	hsw6m.f	/^      subroutine ehsw6m(/;"	s
+ehulq4g2	hulq4g2.f	/^      subroutine ehulq4g2(/;"	s
+ehuw6m	huw6m.f	/^      subroutine ehuw6m(/;"	s
+endjob	inimpi.f	/^      subroutine endjob(/;"	s
+endrwf	incore.f	/^        subroutine endrwf(/;"	s
+errexit	rename.h	/^#define errexit	/;"	d
+esddm	esddm.f	/^      subroutine esddm(/;"	s
+essc27g3	ssc27g3.f	/^      subroutine essc27g3(/;"	s
+essc8g2	ssc8g2.f	/^      subroutine essc8g2(/;"	s
+esuc27g3	suc27g3.f	/^      subroutine esuc27g3(/;"	s
+esuc8g2	suc8g2.f	/^      subroutine esuc8g2(/;"	s
+etsub	eddm.f	/^        subroutine etsub(/;"	s
+exps1	fepglib.f	/^      subroutine exps1(/;"	s
+exps2	fepglib.f	/^      subroutine exps2(/;"	s
+exps3	fepglib.f	/^      subroutine exps3(/;"	s
+fctiming_	subtime.c	/^void fctiming_(char times) {$/;"	f
+fehsw6m	hsw6m.f	/^      real*8 function fehsw6m(/;"	f
+fehulq4g2	hulq4g2.f	/^      real*8 function fehulq4g2(/;"	f
+fehuw6m	huw6m.f	/^      real*8 function fehuw6m(/;"	f
+fessc27g3	ssc27g3.f	/^      real*8 function fessc27g3(/;"	f
+fessc8g2	ssc8g2.f	/^      real*8 function fessc8g2(/;"	f
+fesuc27g3	suc27g3.f	/^      real*8 function fesuc27g3(/;"	f
+fesuc8g2	suc8g2.f	/^      real*8 function fesuc8g2(/;"	f
+fgetcwd	subtime.c	/^  void fgetcwd(int *lenth, char *abspath) $/;"	f
+fgetcwd_	subtime.c	/^  void fgetcwd_(int *lenth, char *abspath) $/;"	f
+fhsw6m1	hsw6m.f	/^      real*8 function fhsw6m1(/;"	f
+fhsw6m2	hsw6m.f	/^      real*8 function fhsw6m2(/;"	f
+fhsw6m3	hsw6m.f	/^      real*8 function fhsw6m3(/;"	f
+fhsw6m4	hsw6m.f	/^      real*8 function fhsw6m4(/;"	f
+fhsw6m5	hsw6m.f	/^      real*8 function fhsw6m5(/;"	f
+fhsw6m6	hsw6m.f	/^      real*8 function fhsw6m6(/;"	f
+fhulq4g21	hulq4g2.f	/^      real*8 function fhulq4g21(/;"	f
+fhulq4g22	hulq4g2.f	/^      real*8 function fhulq4g22(/;"	f
+fhulq4g23	hulq4g2.f	/^      real*8 function fhulq4g23(/;"	f
+fhuw6m1	huw6m.f	/^      real*8 function fhuw6m1(/;"	f
+fhuw6m2	huw6m.f	/^      real*8 function fhuw6m2(/;"	f
+fhuw6m3	huw6m.f	/^      real*8 function fhuw6m3(/;"	f
+filename	azpartition.f	/^      character*12 fname,filename(/;"	v
+filename	gp.f	/^      character*22 fname,filename(/;"	v
+filename	partit.f	/^      character*12 fname,filename(/;"	v
+filename	partition.f	/^      character*12 fname,filename(/;"	v
+filename	umcazpartition.f	/^      character*12 fname,filename(/;"	v
+filename1	azpartition.f	/^      character*20 filename1(/;"	v
+filename1	partit.f	/^      character*20 filename1(/;"	v
+filename1	partition.f	/^      character*20 filename1(/;"	v
+filename1	umcazpartition.f	/^      character*20 filename1(/;"	v
+filflgdisp	azpartition.f	/^      logical filflgdisp(/;"	v
+filflgdisp	partit.f	/^      logical filflgdisp(/;"	v
+filflgdisp	partition.f	/^      logical filflgdisp(/;"	v
+filflgdisp	umcazpartition.f	/^      logical filflgdisp(/;"	v
+findrunk	inimpi.f	/^      subroutine findrunk(/;"	s
+findworkers	inimpi.f	/^      subroutine findworkers(/;"	s
+finer	struct.h	/^  struct graphdef *coarser, *finer;$/;"	m	struct:graphdef	typeref:struct:graphdef::
+fmalloc	macros.h	/^#define fmalloc(/;"	d
+fmalloc	rename.h	/^#define fmalloc	/;"	d
+fname	azpartition.f	/^      character*12 fname,/;"	v
+fname	gp.f	/^      character*22 fname,/;"	v
+fname	partit.f	/^      character*12 fname,/;"	v
+fname	partition.f	/^      character*12 fname,/;"	v
+fname	umcazpartition.f	/^      character*12 fname,/;"	v
+fname1	azpartition.f	/^      character*12 fname1,/;"	v
+fname1	partit.f	/^      character*12 fname1,/;"	v
+fname1	partition.f	/^      character*12 fname1,/;"	v
+fname1	umcazpartition.f	/^      character*12 fname1,/;"	v
+fname2	azpartition.f	/^      character*12 fname1,fname2$/;"	v
+fname2	partit.f	/^      character*12 fname1,fname2$/;"	v
+fname2	partition.f	/^      character*12 fname1,fname2$/;"	v
+fname2	umcazpartition.f	/^      character*12 fname1,fname2$/;"	v
+fssc27g31	ssc27g3.f	/^      real*8 function fssc27g31(/;"	f
+fssc27g32	ssc27g3.f	/^      real*8 function fssc27g32(/;"	f
+fssc27g33	ssc27g3.f	/^      real*8 function fssc27g33(/;"	f
+fssc27g34	ssc27g3.f	/^      real*8 function fssc27g34(/;"	f
+fssc27g35	ssc27g3.f	/^      real*8 function fssc27g35(/;"	f
+fssc27g36	ssc27g3.f	/^      real*8 function fssc27g36(/;"	f
+fssc8g21	ssc8g2.f	/^      real*8 function fssc8g21(/;"	f
+fssc8g22	ssc8g2.f	/^      real*8 function fssc8g22(/;"	f
+fssc8g23	ssc8g2.f	/^      real*8 function fssc8g23(/;"	f
+fssc8g24	ssc8g2.f	/^      real*8 function fssc8g24(/;"	f
+fssc8g25	ssc8g2.f	/^      real*8 function fssc8g25(/;"	f
+fssc8g26	ssc8g2.f	/^      real*8 function fssc8g26(/;"	f
+fsuc27g31	suc27g3.f	/^      real*8 function fsuc27g31(/;"	f
+fsuc27g32	suc27g3.f	/^      real*8 function fsuc27g32(/;"	f
+fsuc27g33	suc27g3.f	/^      real*8 function fsuc27g33(/;"	f
+fsuc8g21	suc8g2.f	/^      real*8 function fsuc8g21(/;"	f
+fsuc8g22	suc8g2.f	/^      real*8 function fsuc8g22(/;"	f
+fsuc8g23	suc8g2.f	/^      real*8 function fsuc8g23(/;"	f
+fthsw6m	hsw6m.f	/^      real*8 function fthsw6m(/;"	f
+fthulq4g2	hulq4g2.f	/^      real*8 function fthulq4g2(/;"	f
+fthuw6m	huw6m.f	/^      real*8 function fthuw6m(/;"	f
+ftssc27g3	ssc27g3.f	/^      real*8 function ftssc27g3(/;"	f
+ftssc8g2	ssc8g2.f	/^      real*8 function ftssc8g2(/;"	f
+ftsuc27g3	suc27g3.f	/^      real*8 function ftsuc27g3(/;"	f
+ftsuc8g2	suc8g2.f	/^      real*8 function ftsuc8g2(/;"	f
+futiming	subtime.c	/^void futiming(double *tarray) $/;"	f
+futiming_	subtime.c	/^void futiming_(double *tarray) $/;"	f
+fwspacemalloc	rename.h	/^#define fwspacemalloc	/;"	d
+fwtiming	subtime.c	/^void fwtiming(int times[2]) $/;"	f
+fwtiming_	subtime.c	/^void fwtiming_(int times[2]) $/;"	f
+gdata	struct.h	/^  idxtype *gdata, *rdata;	\/* Memory pools for graph and refinement data.$/;"	m	struct:graphdef
+genmmd	rename.h	/^#define genmmd	/;"	d
+getchar	fepglib.f	/^      subroutine getchar(/;"	s
+gete3	ddmsub.f	/^        subroutine gete3(/;"	s
+getec	ddmsub.f	/^        subroutine getec(/;"	s
+getext	fepglib.f	/^      subroutine getext(/;"	s
+getname	fepglib.f	/^      subroutine getname(/;"	s
+gets	fepglib.f	/^      subroutine gets(/;"	s
+gets1	fepglib.f	/^      subroutine gets1(/;"	s
+getseconds_	subtime.c	/^void getseconds_ (double *seconds)$/;"	f
+gettime	subtime.c	/^void gettime(double *tarray)$/;"	f
+gettime_	subtime.c	/^void gettime_(double *tarray)$/;"	f
+gettimer	macros.h	/^#define gettimer(/;"	d
+getxy	fepglib.f	/^      subroutine getxy(/;"	s
+gidpostf	gp.f	/^      subroutine gidpostf(/;"	s
+gqm4	fepglib.f	/^      subroutine gqm4(/;"	s
+gqm8	fepglib.f	/^      subroutine gqm8(/;"	s
+graphdef	struct.h	/^struct graphdef {$/;"	s
+gtm3	fepglib.f	/^      subroutine gtm3(/;"	s
+gtm6	fepglib.f	/^      subroutine gtm6(/;"	s
+gtnod3	fepglib.f	/^      subroutine gtnod3(/;"	s
+gtnod4	fepglib.f	/^      subroutine gtnod4(/;"	s
+gv	struct.h	/^  idxtype gv;$/;"	m	struct:vedegreedef
+gv	struct.h	/^ int gv;            		\/* IV\/EV of nodes *\/$/;"	m	struct:vrinfodef
+heap	struct.h	/^  KeyValueType *heap;$/;"	m	struct:PQueueType
+hsw6m	hsw6m.f	/^      subroutine hsw6m(/;"	s
+hsw6m1	hsw6m.f	/^      subroutine hsw6m1(/;"	s
+hsw6m2	hsw6m.f	/^      subroutine hsw6m2(/;"	s
+hsw6m3	hsw6m.f	/^      subroutine hsw6m3(/;"	s
+hsw6m4	hsw6m.f	/^      subroutine hsw6m4(/;"	s
+hsw6m5	hsw6m.f	/^      subroutine hsw6m5(/;"	s
+hsw6m6	hsw6m.f	/^      subroutine hsw6m6(/;"	s
+hsw6mi	hsw6m.f	/^      subroutine hsw6mi$/;"	s
+hsw6mt	hsw6m.f	/^      subroutine hsw6mt(/;"	s
+hugq4g2	hugq4g2.f	/^      subroutine hugq4g2(/;"	s
+hulq4g2	hulq4g2.f	/^      subroutine hulq4g2(/;"	s
+hulq4g21	hulq4g2.f	/^      subroutine hulq4g21(/;"	s
+hulq4g22	hulq4g2.f	/^      subroutine hulq4g22(/;"	s
+hulq4g23	hulq4g2.f	/^      subroutine hulq4g23(/;"	s
+hulq4g2i	hulq4g2.f	/^      subroutine hulq4g2i$/;"	s
+hulq4g2t	hulq4g2.f	/^      subroutine hulq4g2t(/;"	s
+huw6m	huw6m.f	/^      subroutine huw6m(/;"	s
+huw6m1	huw6m.f	/^      subroutine huw6m1(/;"	s
+huw6m2	huw6m.f	/^      subroutine huw6m2(/;"	s
+huw6m3	huw6m.f	/^      subroutine huw6m3(/;"	s
+huw6mi	huw6m.f	/^      subroutine huw6mi$/;"	s
+huw6mt	huw6m.f	/^      subroutine huw6mt(/;"	s
+ia	azpartition.f	/^      common \/ia\//;"	c
+ia	azrecvpart.f	/^      common \/ia\//;"	c	subroutine:Mazrecvpart
+ia	azsendpart.f	/^      common \/ia\//;"	c	subroutine:Mazsendpart
+ia	azsolv.f	/^      common \/ia\//;"	c	subroutine:Mazsolv
+ia	bft.f	/^      common \/ia\//;"	c	subroutine:Mbft
+ia	dmbs2dmsr.f	/^      common \/ia\//;"	c	subroutine:Mdmbs2dmsr
+ia	eddm.f	/^      common \/ia\//;"	c	subroutine:Meddm
+ia	esddm.f	/^      common \/ia\//;"	c	subroutine:Mesddm
+ia	mbft.f	/^      common \/ia\//;"	c	subroutine:Mmbft
+ia	msazrecvpart.f	/^      common \/ia\//;"	c	subroutine:Mmsazrecvpart
+ia	nzdmbsdiag.f	/^      common \/ia\//;"	c	subroutine:Mnzdmbsdiag
+ia	nzrecvdip.f	/^      common \/ia\//;"	c	subroutine:Mnzrecvdip
+ia	nzrecvstr.f	/^      common \/ia\//;"	c	subroutine:Mnzrecvstr
+ia	partit.f	/^      common \/ia\//;"	c
+ia	partition.f	/^      common \/ia\//;"	c
+ia	start.f	/^      common \/ia\//;"	c	subroutine:Mstart
+ia	uddm.f	/^      common \/ia\//;"	c	subroutine:Muddm
+ia	umcazpartition.f	/^      common \/ia\//;"	c
+iamax	rename.h	/^#define iamax	/;"	d
+id	struct.h	/^  idxtype *id, *ed;$/;"	m	struct:graphdef
+id	struct.h	/^  int id;                       	\/* The id value of the node *\/$/;"	m	struct:ListNodeType
+id	struct.h	/^ int id, ed, nid;            	\/* ID\/ED of nodes *\/$/;"	m	struct:vrinfodef
+id	struct.h	/^ int id, ed;            	\/* ID\/ED of nodes *\/$/;"	m	struct:rinfodef
+idxadd	rename.h	/^#define idxadd	/;"	d
+idxamax	rename.h	/^#define idxamax	/;"	d
+idxamax_strd	rename.h	/^#define idxamax_strd	/;"	d
+idxamin	rename.h	/^#define idxamin	/;"	d
+idxcopy	macros.h	/^#define idxcopy(/;"	d
+idxmalloc	macros.h	/^#define idxmalloc(/;"	d
+idxmalloc	rename.h	/^#define idxmalloc	/;"	d
+idxset	rename.h	/^#define idxset	/;"	d
+idxsmalloc	macros.h	/^#define idxsmalloc(/;"	d
+idxsmalloc	rename.h	/^#define idxsmalloc	/;"	d
+idxsum	rename.h	/^#define idxsum	/;"	d
+idxsum_strd	rename.h	/^#define idxsum_strd	/;"	d
+idxtype	struct.h	/^typedef int idxtype;$/;"	t
+idxtype	struct.h	/^typedef short idxtype;$/;"	t
+idxwspacefree	rename.h	/^#define idxwspacefree	/;"	d
+idxwspacemalloc	rename.h	/^#define idxwspacemalloc	/;"	d
+iidxsort	rename.h	/^#define iidxsort	/;"	d
+iintsort	rename.h	/^#define iintsort	/;"	d
+ikeysort	rename.h	/^#define ikeysort	/;"	d
+ikeyvalsort	rename.h	/^#define ikeyvalsort	/;"	d
+imalloc	macros.h	/^#define imalloc(/;"	d
+imalloc	rename.h	/^#define imalloc	/;"	d
+imax	struct.h	/^  int imax[2][MAXNCON];$/;"	m	struct:vpwgtdef
+inimpi	inimpi.f	/^      subroutine inimpi(/;"	s
+initimer	timer.f	/^       subroutine initimer(/;"	s
+initpool	incore.f	/^        subroutine initpool$/;"	s
+initrwf	incore.f	/^        subroutine initrwf(/;"	s
+iset	rename.h	/^#define iset	/;"	d
+ismalloc	macros.h	/^#define ismalloc(/;"	d
+ismalloc	rename.h	/^#define ismalloc	/;"	d
+ispow2	rename.h	/^#define ispow2	/;"	d
+isum	rename.h	/^#define isum	/;"	d
+key	struct.h	/^  idxtype key;$/;"	m	struct:KeyValueType
+label	struct.h	/^  idxtype *label;$/;"	m	struct:graphdef
+locator	struct.h	/^  idxtype *locator;$/;"	m	struct:PQueueType
+log2	rename.h	/^#define log2	/;"	d
+masterp	ddmm.f	/^      subroutine masterp$/;"	s
+masterp1	ddmm.f	/^      subroutine masterp1 /;"	s
+max	struct.h	/^  float max[2][MAXNCON];$/;"	m	struct:vpwgtdef
+maxcore	struct.h	/^  int maxcore, ccore;$/;"	m	struct:workspacedef
+maxgain	struct.h	/^  int maxgain;$/;"	m	struct:PQueueType
+maxnodes	struct.h	/^  int maxnodes;$/;"	m	struct:PQueueType
+maxvwgt	struct.h	/^  int maxvwgt;			\/* The maximum allowed weight for a vertex *\/$/;"	m	struct:controldef
+mend	inimpi.f	/^        subroutine mend(/;"	s
+mendit	inimpi.f	/^        subroutine mendit(/;"	s
+merge	fepglib.f	/^      subroutine merge(/;"	s
+messg	charcommu.f	/^       common\/messg\//;"	c	subroutine:recvchr
+messg	charcommu.f	/^       common\/messg\//;"	c	subroutine:sendchr
+messg	inimpi.f	/^      common\/messg\//;"	c	subroutine:inimpi
+messg	intcommu.f	/^       common\/messg\//;"	c	subroutine:recvai
+messg	intcommu.f	/^       common\/messg\//;"	c	subroutine:recvai_2d
+messg	intcommu.f	/^       common\/messg\//;"	c	subroutine:recvint
+messg	intcommu.f	/^       common\/messg\//;"	c	subroutine:sendai
+messg	intcommu.f	/^       common\/messg\//;"	c	subroutine:sendai_2d
+messg	intcommu.f	/^       common\/messg\//;"	c	subroutine:sendint
+messg	realcommu.f	/^       common\/messg\//;"	c	subroutine:recvar
+messg	realcommu.f	/^       common\/messg\//;"	c	subroutine:recvar_2d
+messg	realcommu.f	/^       common\/messg\//;"	c	subroutine:recvr
+messg	realcommu.f	/^       common\/messg\//;"	c	subroutine:sendar
+messg	realcommu.f	/^       common\/messg\//;"	c	subroutine:sendar_2d
+messg	realcommu.f	/^       common\/messg\//;"	c	subroutine:sendr
+mid	fepglib.f	/^      subroutine mid(/;"	s
+mincut	struct.h	/^  int mincut, minvol;$/;"	m	struct:graphdef
+minvol	struct.h	/^  int mincut, minvol;$/;"	m	struct:graphdef
+mmdelm	rename.h	/^#define mmdelm	/;"	d
+mmdint	rename.h	/^#define mmdint	/;"	d
+mmdnum	rename.h	/^#define mmdnum	/;"	d
+mmdupd	rename.h	/^#define mmdupd	/;"	d
+msazrecvpart	msazrecvpart.f	/^      subroutine msazrecvpart(/;"	s
+mustfree	struct.h	/^  int mustfree;$/;"	m	struct:PQueueType
+nbnd	struct.h	/^  int nbnd;$/;"	m	struct:graphdef
+ncon	struct.h	/^  int ncon;			\/* The # of constrains *\/ $/;"	m	struct:graphdef
+ndegrees	struct.h	/^ int ndegrees;          	\/* The number of different ext-degrees *\/$/;"	m	struct:rinfodef
+ndegrees	struct.h	/^ int ndegrees;          	\/* The number of different ext-degrees *\/$/;"	m	struct:vrinfodef
+ned	struct.h	/^  idxtype ed, ned;$/;"	m	struct:vedegreedef
+nedges	struct.h	/^  int nvtxs, nedges;		\/* The # of vertices and edges in the graph *\/$/;"	m	struct:graphdef
+next	struct.h	/^  struct ListNodeType *prev, *next;     \/* It's a doubly-linked list *\/$/;"	m	struct:ListNodeType	typeref:struct:ListNodeType::
+ngainspan	struct.h	/^  int pgainspan, ngainspan;     \/* plus and negative gain span *\/$/;"	m	struct:PQueueType
+nid	struct.h	/^ int id, ed, nid;            	\/* ID\/ED of nodes *\/$/;"	m	struct:vrinfodef
+nmaxvwgt	struct.h	/^  float nmaxvwgt;		\/* The maximum allowed weight for a vertex for each constrain *\/$/;"	m	struct:controldef
+nnodes	struct.h	/^  int nnodes;$/;"	m	struct:PQueueType
+nodes	struct.h	/^  ListNodeType *nodes;$/;"	m	struct:PQueueType
+npwgts	struct.h	/^  float *npwgts;		\/* The normalized partition weights *\/$/;"	m	struct:graphdef
+nrinfo	struct.h	/^  NRInfoType *nrinfo;$/;"	m	struct:graphdef
+nrinfodef	struct.h	/^struct nrinfodef {$/;"	s
+nseps	struct.h	/^  int nseps;			\/* The number of separators to be found during multiple bisections *\/$/;"	m	struct:controldef
+nvtxs	struct.h	/^  int nvtxs, nedges;		\/* The # of vertices and edges in the graph *\/$/;"	m	struct:graphdef
+nvwgt	struct.h	/^  float *nvwgt;			\/* Normalized vertex weights *\/$/;"	m	struct:graphdef
+nzdmbsadd	nzdmbsdiag.f	/^        subroutine nzdmbsadd(/;"	s
+nzdmbsdiag	nzdmbsdiag.f	/^      subroutine nzdmbsdiag(/;"	s
+nzdmbsorder	nzdmbsdiag.f	/^        subroutine nzdmbsorder(/;"	s
+nzrecvdip	nzrecvdip.f	/^      subroutine nzrecvdip(/;"	s
+nzrecvstr	nzrecvstr.f	/^      subroutine nzrecvstr(/;"	s
+oflags	struct.h	/^  int oflags;$/;"	m	struct:controldef
+openf	incore.f	/^        subroutine openf(/;"	s
+optype	struct.h	/^  int optype;			\/* Type of operation *\/$/;"	m	struct:controldef
+partdmain_	partdmesh.c	/^void partdmain_(int *argc, char *argv1, char *argv2, int *arg, idxtype *epart1, idxtype *npart1,int *nee, int *npp)$/;"	f
+pfactor	struct.h	/^  int pfactor;			\/* .1*prunning factor *\/$/;"	m	struct:controldef
+pgainspan	struct.h	/^  int pgainspan, ngainspan;     \/* plus and negative gain span *\/$/;"	m	struct:PQueueType
+pid	struct.h	/^  idxtype pid;$/;"	m	struct:edegreedef
+pid	struct.h	/^  idxtype pid;$/;"	m	struct:vedegreedef
+pmat	struct.h	/^  idxtype *pmat;			\/* An array of k^2 used for eliminating domain $/;"	m	struct:workspacedef
+pool	azpartition.f	/^      common \/pool\//;"	c
+pool	azpartition.f	/^      common \/pool\//;"	c	subroutine:azpartition
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:Mazrecvpart
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READCOOR
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READDISP0
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READDISP1
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READDISP2
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READDISP3
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READELEM
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READEYTPE
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READID
+pool	azrecvpart.f	/^      common \/pool\//;"	c	subroutine:READSSUBNODES
+pool	azsendpart.f	/^      common \/pool\//;"	c	subroutine:Mazsendpart
+pool	azsendpart.f	/^      common \/pool\//;"	c	subroutine:azsendpart
+pool	azsolv.f	/^      common \/pool\//;"	c	subroutine:Mazsolv
+pool	azsolv.f	/^      common \/pool\//;"	c	subroutine:azsolv
+pool	bft.f	/^      common \/pool\//;"	c	subroutine:Mbft
+pool	bft.f	/^      common \/pool\//;"	c	subroutine:bft
+pool	dmbs2dmsr.f	/^      common \/pool\//;"	c	subroutine:Mdmbs2dmsr
+pool	dmbs2dmsr.f	/^      common \/pool\//;"	c	subroutine:dmbs2dmsr
+pool	eddm.f	/^        common \/pool\//;"	c	subroutine:NZADDMBS
+pool	eddm.f	/^      common \/pool\//;"	c	subroutine:ADDMBS
+pool	eddm.f	/^      common \/pool\//;"	c	subroutine:Meddm
+pool	eddm.f	/^      common \/pool\//;"	c	subroutine:eddm
+pool	eddm.f	/^      common \/pool\//;"	c	subroutine:etsub
+pool	esddm.f	/^      common \/pool\//;"	c	subroutine:EsTSUB
+pool	esddm.f	/^      common \/pool\//;"	c	subroutine:Mesddm
+pool	esddm.f	/^      common \/pool\//;"	c	subroutine:esddm
+pool	mbft.f	/^      common \/pool\//;"	c	subroutine:Mmbft
+pool	mbft.f	/^      common \/pool\//;"	c	subroutine:bftmas
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADCOOR
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADDISP0
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADDISP1
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADDISP2
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADDISP3
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADELEM
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADEYTPE
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADID
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:MREADSSUBNODES
+pool	msazrecvpart.f	/^      common \/pool\//;"	c	subroutine:Mmsazrecvpart
+pool	nzdmbsdiag.f	/^      common \/pool\//;"	c	subroutine:Mnzdmbsdiag
+pool	nzdmbsdiag.f	/^      common \/pool\//;"	c	subroutine:dmbsgetdiag
+pool	nzdmbsdiag.f	/^      common \/pool\//;"	c	subroutine:nzdmbsadd
+pool	nzdmbsdiag.f	/^      common \/pool\//;"	c	subroutine:nzdmbsdiag
+pool	nzdmbsdiag.f	/^      common \/pool\//;"	c	subroutine:nzdmbsorder
+pool	nzrecvdip.f	/^      common \/pool\//;"	c	subroutine:Mnzrecvdip
+pool	nzrecvdip.f	/^      common \/pool\//;"	c	subroutine:nzrecvdip
+pool	nzrecvstr.f	/^      common \/pool\//;"	c	subroutine:Mnzrecvstr
+pool	nzrecvstr.f	/^      common \/pool\//;"	c	subroutine:nzrecvstr
+pool	partit.f	/^      common \/pool\//;"	c
+pool	partit.f	/^      common \/pool\//;"	c	subroutine:azpartition
+pool	partition.f	/^      common \/pool\//;"	c
+pool	partition.f	/^      common \/pool\//;"	c	subroutine:azpartition
+pool	start.f	/^      common \/pool\//;"	c	subroutine:Mstart
+pool	start.f	/^      common \/pool\//;"	c	subroutine:start
+pool	uddm.f	/^      common \/pool\//;"	c	subroutine:Muddm
+pool	uddm.f	/^      common \/pool\//;"	c	subroutine:uddm
+pool	umcazpartition.f	/^      common \/pool\//;"	c
+pool	umcazpartition.f	/^      common \/pool\//;"	c	subroutine:azpartition
+prev	struct.h	/^  struct ListNodeType *prev, *next;     \/* It's a doubly-linked list *\/$/;"	m	struct:ListNodeType	typeref:struct:ListNodeType::ListNodeType
+pwgts	struct.h	/^  idxtype *where, *pwgts;$/;"	m	struct:graphdef
+rdata	struct.h	/^  idxtype *gdata, *rdata;	\/* Memory pools for graph and refinement data.$/;"	m	struct:graphdef
+recvai	intcommu.f	/^       subroutine recvai(/;"	s
+recvai_2d	intcommu.f	/^       subroutine recvai_2d /;"	s
+recvar	realcommu.f	/^       subroutine recvar /;"	s
+recvar_2d	realcommu.f	/^       subroutine recvar_2d /;"	s
+recvchr	charcommu.f	/^       subroutine recvchr /;"	s
+recvint	intcommu.f	/^       subroutine recvint /;"	s
+recvr	realcommu.f	/^       subroutine recvr /;"	s
+rewindf	incore.f	/^        subroutine rewindf(/;"	s
+rhsw6m	hsw6m.f	/^      common \/rhsw6m\//;"	c	subroutine:hsw6m
+rhulq4g2	hulq4g2.f	/^      common \/rhulq4g2\//;"	c	subroutine:hulq4g2
+rhuw6m	huw6m.f	/^      common \/rhuw6m\//;"	c	subroutine:huw6m
+rinfo	struct.h	/^  RInfoType *rinfo;$/;"	m	struct:graphdef
+rinfodef	struct.h	/^struct rinfodef {$/;"	s
+root	stres.f	/^      subroutine root(/;"	s
+rssc27g3	ssc27g3.f	/^      common \/rssc27g3\//;"	c	subroutine:ssc27g3
+rssc8g2	ssc8g2.f	/^      common \/rssc8g2\//;"	c	subroutine:ssc8g2
+rsuc27g3	suc27g3.f	/^      common \/rsuc27g3\//;"	c	subroutine:suc27g3
+rsuc8g2	suc8g2.f	/^      common \/rsuc8g2\//;"	c	subroutine:suc8g2
+samax	rename.h	/^#define samax	/;"	d
+samax2	rename.h	/^#define samax2	/;"	d
+samin	rename.h	/^#define samin	/;"	d
+saxpy	rename.h	/^#define saxpy	/;"	d
+scopy	macros.h	/^#define scopy(/;"	d
+sdcdx	fepglib.f	/^      subroutine sdcdx(/;"	s
+sdfdx	fepglib.f	/^      subroutine sdfdx(/;"	s
+sdot	rename.h	/^#define sdot	/;"	d
+seconds	rename.h	/^#define seconds	/;"	d
+sendai	intcommu.f	/^       subroutine sendai(/;"	s
+sendai_2d	intcommu.f	/^       subroutine sendai_2d /;"	s
+sendar	realcommu.f	/^       subroutine sendar /;"	s
+sendar_2d	realcommu.f	/^       subroutine sendar_2d /;"	s
+sendchr	charcommu.f	/^       subroutine sendchr /;"	s
+sendint	intcommu.f	/^       subroutine sendint /;"	s
+sendr	realcommu.f	/^       subroutine sendr /;"	s
+slavep	ddms.f	/^      subroutine slavep(/;"	s
+snorm2	rename.h	/^#define snorm2	/;"	d
+splin	fepglib.f	/^      subroutine splin(/;"	s
+splin1	fepglib.f	/^      subroutine splin1(/;"	s
+spline	fepglib.f	/^      subroutine spline(/;"	s
+ssc27g3	ssc27g3.f	/^      subroutine ssc27g3(/;"	s
+ssc27g31	ssc27g3.f	/^      subroutine ssc27g31(/;"	s
+ssc27g32	ssc27g3.f	/^      subroutine ssc27g32(/;"	s
+ssc27g33	ssc27g3.f	/^      subroutine ssc27g33(/;"	s
+ssc27g34	ssc27g3.f	/^      subroutine ssc27g34(/;"	s
+ssc27g35	ssc27g3.f	/^      subroutine ssc27g35(/;"	s
+ssc27g36	ssc27g3.f	/^      subroutine ssc27g36(/;"	s
+ssc27g3i	ssc27g3.f	/^      subroutine ssc27g3i$/;"	s
+ssc27g3t	ssc27g3.f	/^      subroutine ssc27g3t(/;"	s
+ssc8g2	ssc8g2.f	/^      subroutine ssc8g2(/;"	s
+ssc8g21	ssc8g2.f	/^      subroutine ssc8g21(/;"	s
+ssc8g22	ssc8g2.f	/^      subroutine ssc8g22(/;"	s
+ssc8g23	ssc8g2.f	/^      subroutine ssc8g23(/;"	s
+ssc8g24	ssc8g2.f	/^      subroutine ssc8g24(/;"	s
+ssc8g25	ssc8g2.f	/^      subroutine ssc8g25(/;"	s
+ssc8g26	ssc8g2.f	/^      subroutine ssc8g26(/;"	s
+ssc8g2i	ssc8g2.f	/^      subroutine ssc8g2i$/;"	s
+ssc8g2t	ssc8g2.f	/^      subroutine ssc8g2t(/;"	s
+sscale	rename.h	/^#define sscale	/;"	d
+ssend	inimpi.f	/^        subroutine ssend(/;"	s
+ssendit	inimpi.f	/^        subroutine ssendit(/;"	s
+sset	rename.h	/^#define sset	/;"	d
+ssum	rename.h	/^#define ssum	/;"	d
+ssum_strd	rename.h	/^#define ssum_strd	/;"	d
+start	start.f	/^      subroutine start(/;"	s
+starttimer	macros.h	/^#define starttimer(/;"	d
+stoptimer	macros.h	/^#define stoptimer(/;"	d
+suc27g3	suc27g3.f	/^      subroutine suc27g3(/;"	s
+suc27g31	suc27g3.f	/^      subroutine suc27g31(/;"	s
+suc27g32	suc27g3.f	/^      subroutine suc27g32(/;"	s
+suc27g33	suc27g3.f	/^      subroutine suc27g33(/;"	s
+suc27g3i	suc27g3.f	/^      subroutine suc27g3i$/;"	s
+suc27g3t	suc27g3.f	/^      subroutine suc27g3t(/;"	s
+suc8g2	suc8g2.f	/^      subroutine suc8g2(/;"	s
+suc8g21	suc8g2.f	/^      subroutine suc8g21(/;"	s
+suc8g22	suc8g2.f	/^      subroutine suc8g22(/;"	s
+suc8g23	suc8g2.f	/^      subroutine suc8g23(/;"	s
+suc8g2i	suc8g2.f	/^      subroutine suc8g2i$/;"	s
+suc8g2t	suc8g2.f	/^      subroutine suc8g2t(/;"	s
+thsw6m	hsw6m.f	/^      subroutine thsw6m(/;"	s
+thulq4g2	hulq4g2.f	/^      subroutine thulq4g2(/;"	s
+thuw6m	huw6m.f	/^      subroutine thuw6m(/;"	s
+timer	struct.h	/^typedef double timer;$/;"	t
+timer	timer.f	/^       subroutine timer(/;"	s
+timer1	timer.f	/^       common \/timer1\//;"	c	subroutine:initimer
+timer1	timer.f	/^       common \/timer1\//;"	c	subroutine:timer
+timer1	timer.f	/^       common \/timer1\//;"	c	subroutine:timereport
+timer2	timer.f	/^       common \/timer2\//;"	c	subroutine:initimer
+timer2	timer.f	/^       common \/timer2\//;"	c	subroutine:timer
+timer2	timer.f	/^       common \/timer2\//;"	c	subroutine:timereport
+timereport	timer.f	/^       subroutine timereport(/;"	s
+tricb	fepglib.f	/^      subroutine tricb(/;"	s
+tricbn	fepglib.f	/^      subroutine tricbn(/;"	s
+trimesh	fepglib.f	/^      subroutine trimesh(/;"	s
+trinod	fepglib.f	/^      subroutine trinod(/;"	s
+tssc27g3	ssc27g3.f	/^      subroutine tssc27g3(/;"	s
+tssc8g2	ssc8g2.f	/^      subroutine tssc8g2(/;"	s
+tsuc27g3	suc27g3.f	/^      subroutine tsuc27g3(/;"	s
+tsuc8g2	suc8g2.f	/^      subroutine tsuc8g2(/;"	s
+type	struct.h	/^  int type;                     \/* The type of the representation used *\/$/;"	m	struct:PQueueType
+uddm	uddm.f	/^      subroutine uddm(/;"	s
+val	struct.h	/^  idxtype val;$/;"	m	struct:KeyValueType
+vedegreedef	struct.h	/^struct vedegreedef {$/;"	s
+vedegrees	struct.h	/^  VEDegreeType *vedegrees;$/;"	m	struct:workspacedef
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fehsw6m
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fhsw6m1
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fhsw6m2
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fhsw6m3
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fhsw6m4
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fhsw6m5
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fhsw6m6
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	function:fthsw6m
+vhsw6m	hsw6m.f	/^      common \/vhsw6m\//;"	c	subroutine:hsw6m
+vhulq4g2	hulq4g2.f	/^      common \/vhulq4g2\//;"	c	function:fehulq4g2
+vhulq4g2	hulq4g2.f	/^      common \/vhulq4g2\//;"	c	function:fhulq4g21
+vhulq4g2	hulq4g2.f	/^      common \/vhulq4g2\//;"	c	function:fhulq4g22
+vhulq4g2	hulq4g2.f	/^      common \/vhulq4g2\//;"	c	function:fhulq4g23
+vhulq4g2	hulq4g2.f	/^      common \/vhulq4g2\//;"	c	function:fthulq4g2
+vhulq4g2	hulq4g2.f	/^      common \/vhulq4g2\//;"	c	subroutine:hulq4g2
+vhuw6m	huw6m.f	/^      common \/vhuw6m\//;"	c	function:fehuw6m
+vhuw6m	huw6m.f	/^      common \/vhuw6m\//;"	c	function:fhuw6m1
+vhuw6m	huw6m.f	/^      common \/vhuw6m\//;"	c	function:fhuw6m2
+vhuw6m	huw6m.f	/^      common \/vhuw6m\//;"	c	function:fhuw6m3
+vhuw6m	huw6m.f	/^      common \/vhuw6m\//;"	c	function:fthuw6m
+vhuw6m	huw6m.f	/^      common \/vhuw6m\//;"	c	subroutine:huw6m
+vpwgtdef	struct.h	/^struct vpwgtdef {$/;"	s
+vrinfo	struct.h	/^  VRInfoType *vrinfo;$/;"	m	struct:graphdef
+vrinfodef	struct.h	/^struct vrinfodef {$/;"	s
+vsize	struct.h	/^  idxtype *vsize;		\/* Vertex sizes for min-volume formulation *\/$/;"	m	struct:graphdef
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:fessc27g3
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:fssc27g31
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:fssc27g32
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:fssc27g33
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:fssc27g34
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:fssc27g35
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:fssc27g36
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	function:ftssc27g3
+vssc27g3	ssc27g3.f	/^      common \/vssc27g3\//;"	c	subroutine:ssc27g3
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:fessc8g2
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:fssc8g21
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:fssc8g22
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:fssc8g23
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:fssc8g24
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:fssc8g25
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:fssc8g26
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	function:ftssc8g2
+vssc8g2	ssc8g2.f	/^      common \/vssc8g2\//;"	c	subroutine:ssc8g2
+vsuc27g3	suc27g3.f	/^      common \/vsuc27g3\//;"	c	function:fesuc27g3
+vsuc27g3	suc27g3.f	/^      common \/vsuc27g3\//;"	c	function:fsuc27g31
+vsuc27g3	suc27g3.f	/^      common \/vsuc27g3\//;"	c	function:fsuc27g32
+vsuc27g3	suc27g3.f	/^      common \/vsuc27g3\//;"	c	function:fsuc27g33
+vsuc27g3	suc27g3.f	/^      common \/vsuc27g3\//;"	c	function:ftsuc27g3
+vsuc27g3	suc27g3.f	/^      common \/vsuc27g3\//;"	c	subroutine:suc27g3
+vsuc8g2	suc8g2.f	/^      common \/vsuc8g2\//;"	c	function:fesuc8g2
+vsuc8g2	suc8g2.f	/^      common \/vsuc8g2\//;"	c	function:fsuc8g21
+vsuc8g2	suc8g2.f	/^      common \/vsuc8g2\//;"	c	function:fsuc8g22
+vsuc8g2	suc8g2.f	/^      common \/vsuc8g2\//;"	c	function:fsuc8g23
+vsuc8g2	suc8g2.f	/^      common \/vsuc8g2\//;"	c	function:ftsuc8g2
+vsuc8g2	suc8g2.f	/^      common \/vsuc8g2\//;"	c	subroutine:suc8g2
+vwgt	struct.h	/^  idxtype *vwgt;		\/* Vertex weights *\/$/;"	m	struct:graphdef
+where	struct.h	/^  idxtype *where, *pwgts;$/;"	m	struct:graphdef
+workspacedef	struct.h	/^struct workspacedef {$/;"	s
+wspace	struct.h	/^  WorkSpaceType wspace;		\/* Work Space Informations *\/$/;"	m	struct:controldef
+xadj	struct.h	/^  idxtype *xadj;		\/* Pointers to the locally stored vertices *\/$/;"	m	struct:graphdef
+xplin	fepglib.f	/^      subroutine xplin(/;"	s
